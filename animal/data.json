@@ -1,0 +1,109 @@
+{
+    "name": "动物保护专区",
+    "brand": "动物保护",
+    "primary": "#d97706",
+    "footer": "Powered by 透明捐助 · 动物保护专区",
+    "items": [
+        {
+            "title": "迷你驴 Arthur GoFundMe 筹 $2,300+ 支付兽医账单",
+            "summary": "一只名为 Arthur 的迷你驴因伤病产生高昂兽医费用，主人通过 GoFundMe 已筹得 $2,300+；反映宠物\/农场动物医疗众筹的跨国长尾需求与单案小额特征。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%BF%B7%E4%BD%A0%E9%A9%B4-arthur-gofundme-%E7%AD%B9-2-300-%E6%94%AF%E4%BB%98%E5%85%BD%E5%8C%BB%E8%B4%A6%E5%8D%95",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": ""
+        },
+        {
+            "title": "Brooklyn 猫救援众筹 $50,000+（志愿者组织）",
+            "summary": "布鲁克林一家猫救援志愿者组织发起众筹，目标 $50,000+ 用于流浪猫救援、绝育、医疗与安置；案例显示城市动物救援高度依赖社区小额捐赠与志愿网络。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/brooklyn-%E7%8C%AB%E6%95%91%E6%8F%B4%E4%BC%97%E7%AD%B9-50-000-%E5%BF%97%E6%84%BF%E8%80%85%E7%BB%84%E7%BB%87",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": ""
+        },
+        {
+            "title": "Animal Rescue Corps 救出密苏里 86 只繁殖犬（后续照护募捐）",
+            "summary": "Animal Rescue Corps 从密苏里州繁殖场解救 86 只犬，行动后需持续兽医照护与安置资金；典型“救援即募捐”链路，凸显动物福利机构的即时资金缺口。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/animal-rescue-corps-%E6%95%91%E5%87%BA%E5%AF%86%E8%8B%8F%E9%87%8C-86-%E5%8F%AA%E7%B9%81%E6%AE%96%E7%8A%AC-%E5%90%8E%E7%BB%AD%E7%85%A7%E6%8A%A4%E5%8B%9F%E6%8D%90",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": ""
+        },
+        {
+            "title": "西班牙 El Gato Escobar 100+ 救助动物安身居所众筹",
+            "summary": "民间救援组织 El Gato Escobar 救助超100只动物，现有临时棚位于污水渠边且曾遭火灾，故众筹购置安全小地块安置；GoFundMe Giving Guarantee 保障，捐赠人可追随 Instagram\/Facebook\/TikTok。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%A5%BF%E7%8F%AD%E7%89%99-el-gato-escobar-100-%E6%95%91%E5%8A%A9%E5%8A%A8%E7%89%A9%E5%AE%89%E8%BA%AB%E5%B1%85%E6%89%80%E4%BC%97%E7%AD%B9",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "eur",
+            "tiers": "[10,25,50,100]",
+            "latest": ""
+        },
+        {
+            "title": "加拿大安大略林火动物救援紧急募捐（Northern Reach Network）",
+            "summary": "安大略持续林火导致大量动物被迫转移，Northern Reach Network（2014年起，已助8000+狗猫）发起 GoFundMe 紧急募捐以支持撤离、运输、兽医、食物与临时棚；该机构服务偏远与 First Nations 社区。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AE%89%E5%A4%A7%E7%95%A5%E6%9E%97%E7%81%AB%E5%8A%A8%E7%89%A9%E6%95%91%E6%8F%B4%E7%B4%A7%E6%80%A5%E5%8B%9F%E6%8D%90-northern-reach-network",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-08-31"
+        },
+        {
+            "title": "Give for Good Louisville — 动物救援 24 小时募捐（$10k 配捐池）",
+            "summary": "The Arrow Fund 参与 Community Foundation of Louisville 的 24 小时 give-a-thon，目标 24h 募 $25k；招募 12 名 P2P 募款人解锁配捐与时段奖金，用于极端动物虐待病例的手术与康复。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/give-for-good-louisville-%E5%8A%A8%E7%89%A9%E6%95%91%E6%8F%B4-24-%E5%B0%8F%E6%97%B6%E5%8B%9F%E6%8D%90-10k-%E9%85%8D%E6%8D%90%E6%B1%A0",
+            "raised": 0,
+            "goal": 25000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-12-01"
+        },
+        {
+            "title": "Giving Tuesday Blitz — The Arrow Fund 动物紧急医疗（$10k 目标）",
+            "summary": "2026-12-01 Giving Tuesday 全天 P2P 冲刺，招募 12 名“队长”通过 Instagram\/TikTok\/Venmo 募款，100% 数字、无机构冗余，用于紧急冬季动物医疗。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/giving-tuesday-blitz-the-arrow-fund-%E5%8A%A8%E7%89%A9%E7%B4%A7%E6%80%A5%E5%8C%BB%E7%96%97-10k-%E7%9B%AE%E6%A0%87",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-12-01"
+        },
+        {
+            "title": "Malta–Sicily 流浪狗救援众筹（救难车）",
+            "summary": "Adopt a Stray Foundation + Hill's Pet Nutrition Malta 在 Zaar 发起众筹，为跨海救援流浪狗购置专用运输车（VW Transporter）+ 初期物资；捐赠满 €100 赠 Hill's 礼包。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/malta-sicily-%E6%B5%81%E6%B5%AA%E7%8B%97%E6%95%91%E6%8F%B4%E4%BC%97%E7%AD%B9-%E6%95%91%E9%9A%BE%E8%BD%A6",
+            "raised": 0,
+            "goal": 20000,
+            "currency": "eur",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-08-31"
+        },
+        {
+            "title": "PetFundr 动物医疗众筹趋势（多案例）",
+            "summary": "PetFundr 平台趋势页显示多个进行中动物医疗众筹：Max(14岁腊肠)$2.6k、Bark Ark 300狗 €1.6k、Hannah 急救 $120、13 Second Chances $6.1k 等；反映宠物医疗众筹的长尾需求。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/petfundr-%E5%8A%A8%E7%89%A9%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9%E8%B6%8B%E5%8A%BF-%E5%A4%9A%E6%A1%88%E4%BE%8B",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-08-31"
+        },
+        {
+            "title": "People Saving Animals — 100% 志愿者动物医疗小额众筹",
+            "summary": "100% 志愿者 501(c)(3)，无实体、纯线上，募款直达流浪动物兽医费；案例 Arturo(眼伤手术 $125)、Paquita(子宫蓄脓 $240)、Greta&Beldana(伤口治疗 余 $200)。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/people-saving-animals-100-%E5%BF%97%E6%84%BF%E8%80%85%E5%8A%A8%E7%89%A9%E5%8C%BB%E7%96%97%E5%B0%8F%E9%A2%9D%E4%BC%97%E7%AD%B9",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-08-31"
+        }
+    ],
+    "base": "http:\/\/127.0.0.1:8899"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "创作者赞助专区",
+    "brand": "创作者赞助",
+    "primary": "#d97706",
+    "footer": "Powered by 透明捐助 · 创作者赞助专区",
+    "items": [
+        {
+            "title": "SPOZZ 推出 Artist Subscriptions 直达粉丝订阅（扩张 D2F 变现）",
+            "summary": "音乐分发平台 SPOZZ 推出 Artist Subscriptions，让音乐人直接向粉丝提供订阅制内容与权益，强化 direct-to-fan 变现，对标 Patreon 高费率、强调自有受众与数据所有权。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/spozz-%E6%8E%A8%E5%87%BA-artist-subscriptions-%E7%9B%B4%E8%BE%BE%E7%B2%89%E4%B8%9D%E8%AE%A2%E9%98%85-%E6%89%A9%E5%BC%A0-d2f-%E5%8F%98%E7%8E%B0",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": ""
+        },
+        {
+            "title": "Fourthwall 被多家盘点评为增长最快 all-in-one 创作者平台（0% 捐赠费）",
+            "summary": "Fourthwall 被多家 2026 盘点评为增长最快的全能创作者平台，集独立品牌站、会员、POD 与捐赠于一体：Free 计划 0 月费、捐赠 0% 平台费（仅 2.9%+$0.30 处理费）、会员 5%，对标 Patreon 新用户 10% 高费率；MKBHD 等 50 万+ 创作者使用，获 Lightspeed\/Initialized\/Ohanian $17M 投资。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/fourthwall-%E8%A2%AB%E5%A4%9A%E5%AE%B6%E7%9B%98%E7%82%B9%E8%AF%84%E4%B8%BA%E5%A2%9E%E9%95%BF%E6%9C%80%E5%BF%AB-all-in-one-%E5%88%9B%E4%BD%9C%E8%80%85%E5%B9%B3%E5%8F%B0-0-%E6%8D%90%E8%B5%A0%E8%B4%B9",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": ""
+        },
+        {
+            "title": "Patreon 大改版：30+ 功能、内容级推荐算法、对标发现平台",
+            "summary": "Patreon 8\/20 宣布 30+ 项工具与改版推荐算法，从按账号相似改为按单帖主题\/风格匹配以扶小创作者；含 iOS Clips、公开 Quips、主题社区 Niches、粉丝资料。CEO Jack Conte 称目标“更好的网络”。中小创作者与粉丝经济正被更强发现力重塑。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/patreon-%E5%A4%A7%E6%94%B9%E7%89%88-30-%E5%8A%9F%E8%83%BD-%E5%86%85%E5%AE%B9%E7%BA%A7%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95-%E5%AF%B9%E6%A0%87%E5%8F%91%E7%8E%B0%E5%B9%B3%E5%8F%B0",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-08-31"
+        },
+        {
+            "title": "Patreon 新 10% 平台费生效，创作者加速出走",
+            "summary": "Patreon 对新创作者收取 flat 10% 平台费（+$2.9%+$0.30 处理费，合计约 13%）；催生 Ghost(0%)、Memberful(4.9%)、Ko-fi(0-5%)、Fourthwall(会员0%) 等替代平台崛起，创作者追求自有 Stripe 账户与数据所有权。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/patreon-%E6%96%B0-10-%E5%B9%B3%E5%8F%B0%E8%B4%B9%E7%94%9F%E6%95%88-%E5%88%9B%E4%BD%9C%E8%80%85%E5%8A%A0%E9%80%9F%E5%87%BA%E8%B5%B0",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-08-31"
+        }
+    ],
+    "base": "http:\/\/127.0.0.1:8899"
+}

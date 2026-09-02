@@ -1,0 +1,119 @@
+{
+    "name": "医疗援助专区",
+    "brand": "医疗援助",
+    "primary": "#0e9f6e",
+    "footer": "Powered by 透明捐助 · 医疗援助专区",
+    "items": [
+        {
+            "title": "Visiting Angels 设定 2026 Walk to End Alzheimer's $100 万募款目标（15 年累计 $5.3M）",
+            "summary": "全美居家照护连锁 Visiting Angels 为 2026 年 Walk to End Alzheimer's 设 $100 万募款目标，款项支持阿尔茨海默症协会；该机构 15 年来累计筹 $5.3M，2025 年单年 $948k，体现医疗\/公益长跑型 P2P 募捐模式。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/visiting-angels-%E8%AE%BE%E5%AE%9A-2026-walk-to-end-alzheimer-s-100-%E4%B8%87%E5%8B%9F%E6%AC%BE%E7%9B%AE%E6%A0%87-15-%E5%B9%B4%E7%B4%AF%E8%AE%A1-5-3m",
+            "raised": 0,
+            "goal": 1000000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": ""
+        },
+        {
+            "title": "南都×腾讯公益“捐发故事·癌症病房”心愿接力（9\/1–9\/9）",
+            "summary": "南方都市报联合腾讯公益发起“捐发故事·癌症病房”线上心愿接力，面向癌症患儿\/病房群体，通过故事传播 + 公益捐赠\/义卖联动，9 月 1–9 日集中传播，属医疗人文关怀型众筹。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8D%97%E9%83%BD-%E8%85%BE%E8%AE%AF%E5%85%AC%E7%9B%8A-%E6%8D%90%E5%8F%91%E6%95%85%E4%BA%8B-%E7%99%8C%E7%97%87%E7%97%85%E6%88%BF-%E5%BF%83%E6%84%BF%E6%8E%A5%E5%8A%9B-9-1-9-9",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": ""
+        },
+        {
+            "title": "澳洲 Footy Colours Day 抗癌募捐（第 31 年）",
+            "summary": "澳大利亚标志性抗癌募捐活动 Footy Colours Day 进入第 31 年，社区\/球迷以穿着支持球队配色的方式为儿童癌症研究机构筹款，是医疗公益中“轻量参与 + 长周期”的代表案例。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%BE%B3%E6%B4%B2-footy-colours-day-%E6%8A%97%E7%99%8C%E5%8B%9F%E6%8D%90-%E7%AC%AC-31-%E5%B9%B4",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": ""
+        },
+        {
+            "title": "ImpactGuru 印度医疗众筹突破 5万+ 患者（0% 平台费 + AI Story Builder）",
+            "summary": "印度领先医疗众筹平台 ImpactGuru 宣布已助 5万+ 患者、捐赠人社区超 500 万；采用 0% 平台费 + 捐赠人小费模式，独家 AI Story Builder 自动生成医疗筹款叙事，紧急案例 24h 内放款；并与 Immuneel（CAR-T 疗法）合作打通医疗众筹+信贷双通道。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/impactguru-%E5%8D%B0%E5%BA%A6%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9%E7%AA%81%E7%A0%B4-5%E4%B8%87-%E6%82%A3%E8%80%85-0-%E5%B9%B3%E5%8F%B0%E8%B4%B9-ai-story-builder",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-07-25"
+        },
+        {
+            "title": "REACT19 CARE 基金 10 万美元配捐匹配（疫苗受损医疗补助激增33%）",
+            "summary": "REACT19 为全美唯一面向新冠疫苗严重长期损伤者的医疗补助 CARE Fund发起10万美元配捐，出资人将逐元匹配至9月底；过去一年相关医疗补助需求增长33%，现 6 名患者等待、15 名排队。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/react19-care-%E5%9F%BA%E9%87%91-10-%E4%B8%87%E7%BE%8E%E5%85%83%E9%85%8D%E6%8D%90%E5%8C%B9%E9%85%8D-%E7%96%AB%E8%8B%97%E5%8F%97%E6%8D%9F%E5%8C%BB%E7%96%97%E8%A1%A5%E5%8A%A9%E6%BF%80%E5%A2%9E33",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-08-31"
+        },
+        {
+            "title": "上海崇明区“久久公益节”：困难学生助学＋造血干细胞移植救助",
+            "summary": "崇明区红十字会依托腾讯公益平台开展“爱心护你成长——困难家庭学生助学项目”与“点燃生命的希望——造血干细胞移植救助项目”线上众筹，网络众筹时间 8\/29–9\/16，欢迎微信扫码捐赠。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E4%B8%8A%E6%B5%B7%E5%B4%87%E6%98%8E%E5%8C%BA-%E4%B9%85%E4%B9%85%E5%85%AC%E7%9B%8A%E8%8A%82-%E5%9B%B0%E9%9A%BE%E5%AD%A6%E7%94%9F%E5%8A%A9%E5%AD%A6-%E9%80%A0%E8%A1%80%E5%B9%B2%E7%BB%86%E8%83%9E%E7%A7%BB%E6%A4%8D%E6%95%91%E5%8A%A9",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-08-31"
+        },
+        {
+            "title": "医疗众筹平台对比：私有架构 A Better Gift vs 公共平台（2026）",
+            "summary": "2026 医疗众筹平台加速分化：A Better Gift 以私有默认（不公开可搜、6.9%由捐赠人承担、1-2天到账）切入医疗隐私痛点；GoFundMe(2.9%+$0.30)、Help Hope Live(保费至医疗方、在补助下不视为收入)、GiveTaxFree、Mightycause 等各占位。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9%E5%B9%B3%E5%8F%B0%E5%AF%B9%E6%AF%94-%E7%A7%81%E6%9C%89%E6%9E%B6%E6%9E%84-a-better-gift-vs-%E5%85%AC%E5%85%B1%E5%B9%B3%E5%8F%B0-2026",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-08-31"
+        },
+        {
+            "title": "GoFundMe 宣布累计筹集 $30B、1.5 亿用户，医疗为最大类目",
+            "summary": "GoFundMe 2026-02 披露自 2010 年以来累计筹款 $30B、1.5 亿用户；年轻一代更偏好众筹而非传统慈善捐赠。医疗是平台最大募捐类目。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/gofundme-%E5%AE%A3%E5%B8%83%E7%B4%AF%E8%AE%A1%E7%AD%B9%E9%9B%86-30b-1-5-%E4%BA%BF%E7%94%A8%E6%88%B7-%E5%8C%BB%E7%96%97%E4%B8%BA%E6%9C%80%E5%A4%A7%E7%B1%BB%E7%9B%AE",
+            "raised": 25,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-11-01"
+        },
+        {
+            "title": "医疗众筹市场规模与增长预测（双源口径）",
+            "summary": "医疗众筹为最大募捐类目，北美占 ~60%；痛点：45% 活动未达标、平台过饱和 +10%、12% 被标记欺诈。两研究口径差异大，需以区间+来源标注。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9%E5%B8%82%E5%9C%BA%E8%A7%84%E6%A8%A1%E4%B8%8E%E5%A2%9E%E9%95%BF%E9%A2%84%E6%B5%8B-%E5%8F%8C%E6%BA%90%E5%8F%A3%E5%BE%84",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-08-31"
+        },
+        {
+            "title": "WhyDonate 报告欧洲医疗众筹 2021–2025 增长 5 倍",
+            "summary": "欧洲成为医疗众筹增长引擎；WhyDonate 报告其医疗众筹筹款额 2021–2025 增长 5 倍，标志医疗活动被视为可重复、可追踪的类别。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/whydonate-%E6%8A%A5%E5%91%8A%E6%AC%A7%E6%B4%B2%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9-2021-2025-%E5%A2%9E%E9%95%BF-5-%E5%80%8D",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "eur",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-08-31"
+        },
+        {
+            "title": "医疗众筹信任\/欺诈挑战加剧（JAMA\/ACS 数据）",
+            "summary": "ACS 分析显示超 1\/3 美国医疗众筹故事涉及住房\/食物不安全等健康相关社会需求；市场面临 donor fatigue、信任与资金善用三大挑战——恰好是“透明+核验”工具层的切入点。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9%E4%BF%A1%E4%BB%BB-%E6%AC%BA%E8%AF%88%E6%8C%91%E6%88%98%E5%8A%A0%E5%89%A7-jama-acs-%E6%95%B0%E6%8D%AE",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-11-01"
+        }
+    ],
+    "base": "http:\/\/127.0.0.1:8899"
+}

@@ -1,0 +1,89 @@
+{
+    "name": "企业CSR与赞助专区",
+    "brand": "企业CSR",
+    "primary": "#0f766e",
+    "footer": "Powered by 透明捐助 · 企业赞助专区",
+    "items": [
+        {
+            "title": "TrustRadius 2026 Tech Cares Awards（100+ 企业员工志愿\/捐赠表彰）",
+            "summary": "TrustRadius 公布 2026 Tech Cares Awards，表彰 100+ 在员工志愿、公益捐赠、社区影响方面表现突出的科技企业，反映企业 CSR\/员工配捐成为科技行业品牌与留存策略。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/trustradius-2026-tech-cares-awards-100-%E4%BC%81%E4%B8%9A%E5%91%98%E5%B7%A5%E5%BF%97%E6%84%BF-%E6%8D%90%E8%B5%A0%E8%A1%A8%E5%BD%B0",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": ""
+        },
+        {
+            "title": "CMCO 2026 Lifting for the Troops 募款 $100,000（员工+伙伴配捐）",
+            "summary": "Columbus McKinnon（CMCO）启动 2026 Lifting for the Troops  campaign，9\/1–11\/11 联合员工、客户与供应商为 Tunnel to Towers 军人遗孤奖学金募资，目标 $100k（每场培训捐 $500、线上课程全额捐、伙伴赞助 $500+），自 2019 累计 $350k。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/cmco-2026-lifting-for-the-troops-%E5%8B%9F%E6%AC%BE-100-000-%E5%91%98%E5%B7%A5-%E4%BC%99%E4%BC%B4%E9%85%8D%E6%8D%90",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": ""
+        },
+        {
+            "title": "FirstEnergy Foundation 追加 $5M 抗饥饿投资（六州）",
+            "summary": "FirstEnergy Foundation 宣布追加 $500 万，在六州区域扩大抗饥饿粮食物资与社区食物网络投资，属企业基金会“定向资助 + 长期承诺”型 CSR 投入。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/firstenergy-foundation-%E8%BF%BD%E5%8A%A0-5m-%E6%8A%97%E9%A5%A5%E9%A5%BF%E6%8A%95%E8%B5%84-%E5%85%AD%E5%B7%9E",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": ""
+        },
+        {
+            "title": "药明康德员工 1:1 配捐驰援西藏吉隆泥石流（¥453.6 万）",
+            "summary": "药明康德员工就西藏吉隆泥石流通过内部专项通道捐款，19,906 人参与、爱心捐款 ¥2,267,961，公司 1:1 配捐后专项善款达 ¥4,535,922，统一捐至西藏慈善总会，定向紧急救援\/过渡安置\/灾后重建。体现企业员工配捐（matching gift）在灾害响应中的放大效应。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%8D%AF%E6%98%8E%E5%BA%B7%E5%BE%B7%E5%91%98%E5%B7%A5-1-1-%E9%85%8D%E6%8D%90%E9%A9%B0%E6%8F%B4%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81-453-6-%E4%B8%87",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-09-01"
+        },
+        {
+            "title": "Benevity 发布 AI-native 企业公益平台（2026 数据：管理 $16.6B 捐赠）",
+            "summary": "企业公益软件龙头 Benevity 在 Benevity Live! 2026 发布 AI-native Enterprise Impact Platform，服务近 1000 家巨头企业、2.5M 非营利、200+ 国家；Match Assurance 将外部配捐拒付率从 30% 降至 <3%。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/benevity-%E5%8F%91%E5%B8%83-ai-native-%E4%BC%81%E4%B8%9A%E5%85%AC%E7%9B%8A%E5%B9%B3%E5%8F%B0-2026-%E6%95%B0%E6%8D%AE-%E7%AE%A1%E7%90%86-16-6b-%E6%8D%90%E8%B5%A0",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-08-31"
+        },
+        {
+            "title": "momoGood 挑战 Benevity（Q4 2026 上线，flat 平台费 + mobile-first）",
+            "summary": "momoGood 以“员工不参与是最大问题、属产品设计问题”为论点切入职场捐赠，主打移动优先、14 天上线、无多年合约、固定平台费，对标 Benevity 的桌面优先与多年企业合约，瞄准中大型市场。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/momogood-%E6%8C%91%E6%88%98-benevity-q4-2026-%E4%B8%8A%E7%BA%BF-flat-%E5%B9%B3%E5%8F%B0%E8%B4%B9-mobile-first",
+            "raised": 0,
+            "goal": 14,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-08-31"
+        },
+        {
+            "title": "腾讯公益平台：累计筹款超 ¥180 亿、6 亿+ 人次捐款",
+            "summary": "腾讯公益平台为民政部首批指定互联网募捐信息平台，至 2022-05 累计筹款超 180 亿元、用户捐款超 6 亿人次、1.5 万+ 机构入驻；2026 年联合红十字基金会、壹基金驰援广西洪灾并启 2000 万备灾资金。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%85%BE%E8%AE%AF%E5%85%AC%E7%9B%8A%E5%B9%B3%E5%8F%B0-%E7%B4%AF%E8%AE%A1%E7%AD%B9%E6%AC%BE%E8%B6%85-180-%E4%BA%BF-6-%E4%BA%BF-%E4%BA%BA%E6%AC%A1%E6%8D%90%E6%AC%BE",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-08-31"
+        },
+        {
+            "title": "阿里巴巴公益榜\/人人3小时：11 年 507.7 万志愿时、公益宝贝 600 亿笔",
+            "summary": "第十届阿里巴巴公益榜揭晓，自 2015“人人3小时”累计贡献 507.7 万志愿时；淘宝公益宝贝诞生 20 年带动超 600 亿笔爱心订单、4 亿+ 用户购买，受益超 6000 万人次，体现平台型员工\/用户公益模式。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%85%AC%E7%9B%8A%E6%A6%9C-%E4%BA%BA%E4%BA%BA3%E5%B0%8F%E6%97%B6-11-%E5%B9%B4-507-7-%E4%B8%87%E5%BF%97%E6%84%BF%E6%97%B6-%E5%85%AC%E7%9B%8A%E5%AE%9D%E8%B4%9D-600-%E4%BA%BF%E7%AC%94",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-03-17"
+        }
+    ],
+    "base": "http:\/\/127.0.0.1:8899"
+}
