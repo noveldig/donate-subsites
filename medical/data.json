@@ -5,275 +5,126 @@
     "footer": "Powered by 透明捐助 · 医疗援助专区",
     "items": [
         {
-            "title": "靖西市红十字会2026“久久公益节”众筹：依托腾讯公益上线4个项目（9月1日至16日）",
-            "summary": "靖西市红十字会结合第十一个“中华慈善日”，依托腾讯公益平台发起“人道资源动员计划”“八桂暖心箱”“爱让地贫患儿重生”“广西红十字救援队公益项目”等4个众筹项目，募捐时间2026年9月1日00:00至9月16日24:00，捐赠者可线上申领电子捐赠证书与票据。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E9%9D%96%E8%A5%BF%E5%B8%82%E7%BA%A2%E5%8D%81%E5%AD%97%E4%BC%9A2026-%E4%B9%85%E4%B9%85%E5%85%AC%E7%9B%8A%E8%8A%82-%E4%BC%97%E7%AD%B9-%E4%BE%9D%E6%89%98%E8%85%BE%E8%AE%AF%E5%85%AC%E7%9B%8A%E4%B8%8A%E7%BA%BF4%E4%B8%AA%E9%A1%B9%E7%9B%AE-9%E6%9C%881%E6%97%A5%E8%87%B316%E6%97%A5",
-            "raised": 41000,
-            "goal": 100000,
-            "currency": "cny",
-            "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-07"
-        },
-        {
-            "title": "武汉洪山区红十字会“久久公益节”聚焦大病救助与应急救护两大领域众筹",
-            "summary": "洪山区红十字会依托腾讯公益平台，围绕第十一个“中华慈善日”开展“博爱荆楚矢志人道”“心脏骤停救在身边”等网络项目众筹，覆盖大病救助与AED应急救护，支持直接捐、组队捐、转发捐三种参与方式。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%AD%A6%E6%B1%89%E6%B4%AA%E5%B1%B1%E5%8C%BA%E7%BA%A2%E5%8D%81%E5%AD%97%E4%BC%9A-%E4%B9%85%E4%B9%85%E5%85%AC%E7%9B%8A%E8%8A%82-%E8%81%9A%E7%84%A6%E5%A4%A7%E7%97%85%E6%95%91%E5%8A%A9%E4%B8%8E%E5%BA%94%E6%80%A5%E6%95%91%E6%8A%A4%E4%B8%A4%E5%A4%A7%E9%A2%86%E5%9F%9F%E4%BC%97%E7%AD%B9",
-            "raised": 12000,
-            "goal": 100000,
-            "currency": "cny",
-            "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-07"
-        },
-        {
-            "title": "宁德市红十字会2026“久久公益节”互联网筹资启动：四大项目零管理费（8月29日至9月16日）",
-            "summary": "宁德市红十字会8月29日至9月16日开展“久久公益节”互联网筹资，推出“爱过年·温暖宁德”“救在身边·安心护‘宁’”、红十字大病救助、“零负担”光明行动4个项目，募集资金不留存任何管理费，专款专用。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%AE%81%E5%BE%B7%E5%B8%82%E7%BA%A2%E5%8D%81%E5%AD%97%E4%BC%9A2026-%E4%B9%85%E4%B9%85%E5%85%AC%E7%9B%8A%E8%8A%82-%E4%BA%92%E8%81%94%E7%BD%91%E7%AD%B9%E8%B5%84%E5%90%AF%E5%8A%A8-%E5%9B%9B%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%9B%B6%E7%AE%A1%E7%90%86%E8%B4%B9-8%E6%9C%8829%E6%97%A5%E8%87%B39%E6%9C%8816%E6%97%A5",
-            "raised": 65000,
-            "goal": 100000,
-            "currency": "cny",
-            "tiers": "[20,50,100,200,500]",
-            "latest": "2026-08-31"
-        },
-        {
-            "title": "上海红十字会联合腾讯公益启动2026“久久公益节”医疗众筹（即日起至9月16日）",
-            "summary": "上海市红十字会再度携手腾讯公益平台开展“久久公益节”，上线“点燃生命的希望——造血干细胞移植救助”“虹口区千万人帮万家”等医疗帮扶项目，面向困难家庭、易受损群体筹款，通道开放至9月16日。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E4%B8%8A%E6%B5%B7%E7%BA%A2%E5%8D%81%E5%AD%97%E4%BC%9A%E8%81%94%E5%90%88%E8%85%BE%E8%AE%AF%E5%85%AC%E7%9B%8A%E5%90%AF%E5%8A%A82026-%E4%B9%85%E4%B9%85%E5%85%AC%E7%9B%8A%E8%8A%82-%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9-%E5%8D%B3%E6%97%A5%E8%B5%B7%E8%87%B39%E6%9C%8816%E6%97%A5",
-            "raised": 88000,
-            "goal": 100000,
-            "currency": "cny",
-            "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-05"
-        },
-        {
-            "title": "荆州市慈善总会14天为白血病患儿筹得55,450元，经“医路同行”平台拨款",
-            "summary": "一名10岁急性淋巴细胞白血病患儿因昂贵靶向药（贝林妥欧单抗，非医保）致家庭无力承担，荆州市慈善总会经“幸福家园”与“医路同行”平台14天内筹拨55,450元。截至8月17日“医路同行”本年已动用市县两级帮扶资金152万元、上线患者795人，幸福家园动员社会力量筹得2,029万元。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%8D%86%E5%B7%9E%E5%B8%82%E6%85%88%E5%96%84%E6%80%BB%E4%BC%9A14%E5%A4%A9%E4%B8%BA%E7%99%BD%E8%A1%80%E7%97%85%E6%82%A3%E5%84%BF%E7%AD%B9%E5%BE%9755-450%E5%85%83-%E7%BB%8F-%E5%8C%BB%E8%B7%AF%E5%90%8C%E8%A1%8C-%E5%B9%B3%E5%8F%B0%E6%8B%A8%E6%AC%BE",
-            "raised": 50000,
-            "goal": 100000,
-            "currency": "cny",
-            "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-07"
-        },
-        {
-            "title": "中华思源工程基金会仁德慈善基金“助残助走”膝关节置换资助（总额3.5万元，4–7人）",
-            "summary": "思源·仁德慈善基金在支付宝公益平台发起“助残助走公益计划”，为65岁以上乡村骨关节炎患者提供膝关节置换自费部分补助，征集期至2026-09-20，资助总额35,000元、拟资助4–7人，按“先申报先评估先资助”原则发放。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E4%B8%AD%E5%8D%8E%E6%80%9D%E6%BA%90%E5%B7%A5%E7%A8%8B%E5%9F%BA%E9%87%91%E4%BC%9A%E4%BB%81%E5%BE%B7%E6%85%88%E5%96%84%E5%9F%BA%E9%87%91-%E5%8A%A9%E6%AE%8B%E5%8A%A9%E8%B5%B0-%E8%86%9D%E5%85%B3%E8%8A%82%E7%BD%AE%E6%8D%A2%E8%B5%84%E5%8A%A9-%E6%80%BB%E9%A2%9D3-5%E4%B8%87%E5%85%83-4-7%E4%BA%BA",
-            "raised": 15000,
-            "goal": 100000,
-            "currency": "cny",
-            "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-07"
-        },
-        {
-            "title": "中山市红十字会2026“久久公益节”上线八大医疗与人道项目",
-            "summary": "中山市红十字会在腾讯公益发起“中山市救在身边”“博爱暖万家”“大病救助公益健康行”“中老年健康守护”“AED·守护生命”等八个项目，覆盖应急救护、困境群众关怀、大病医疗救助、AED配备等，全市发起“一起捐”众筹。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E4%B8%AD%E5%B1%B1%E5%B8%82%E7%BA%A2%E5%8D%81%E5%AD%97%E4%BC%9A2026-%E4%B9%85%E4%B9%85%E5%85%AC%E7%9B%8A%E8%8A%82-%E4%B8%8A%E7%BA%BF%E5%85%AB%E5%A4%A7%E5%8C%BB%E7%96%97%E4%B8%8E%E4%BA%BA%E9%81%93%E9%A1%B9%E7%9B%AE",
-            "raised": 76000,
-            "goal": 100000,
-            "currency": "cny",
-            "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-05"
-        },
-        {
-            "title": "BackaBuddy 2026 上半年上线 52,509 个众筹活动，医疗类居首，0% 平台费率拉动增长",
-            "summary": "BackaBuddy 称 2026 上半年新增 52,509 个众筹活动，同比显著增长；医疗紧急救助为最强类目。平台转向 0% 平台费率模型，使更多善款直达受助方，同时传统社会保障承压促使更多南非人转向众筹应对医疗、学业与社区需求。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/backabuddy-2026-%E4%B8%8A%E5%8D%8A%E5%B9%B4%E4%B8%8A%E7%BA%BF-52-509-%E4%B8%AA%E4%BC%97%E7%AD%B9%E6%B4%BB%E5%8A%A8-%E5%8C%BB%E7%96%97%E7%B1%BB%E5%B1%85%E9%A6%96-0-%E5%B9%B3%E5%8F%B0%E8%B4%B9%E7%8E%87%E6%8B%89%E5%8A%A8%E5%A2%9E%E9%95%BF",
-            "raised": 5900,
-            "goal": 10000,
-            "currency": "usd",
-            "tiers": "[10,25,50,100]",
-            "latest": ""
-        },
-        {
-            "title": "METAvivor 将从 GoFundMe Pro 迁移至 Bloomerang Fundraising 开展 P2P 筹款",
-            "summary": "转移性乳腺癌研究非营利组织 METAvivor 宣布自 2026 年秋季起，将 P2P 筹款页面从 GoFundMe Pro 迁移至 Bloomerang Fundraising；已有 GoFundMe Pro 页面于 7 月 27 日邮件通知转移至新平台，强调捐赠直达与自动税据。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/metavivor-%E5%B0%86%E4%BB%8E-gofundme-pro-%E8%BF%81%E7%A7%BB%E8%87%B3-bloomerang-fundraising-%E5%BC%80%E5%B1%95-p2p-%E7%AD%B9%E6%AC%BE",
-            "raised": 2200,
-            "goal": 10000,
-            "currency": "usd",
-            "tiers": "[10,25,50,100]",
-            "latest": "2024-07-27"
-        },
-        {
-            "title": "霉霉（Taylor Swift）匿名捐款 5 万美元，助车祸伤者 Ashley Taunton 医疗众筹（GoFundMe 已筹超 9 万美元）",
-            "summary": "美国康涅狄格州母亲 Ashley Taunton 因在罗德岛州际公路救助车祸青少年被撞成重伤，朋友在 GoFundMe 发起医疗众筹；Taylor Swift 通过平台匿名捐款 5 万美元。截至 8 月 31 日众筹已筹超 9 万美元。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E9%9C%89%E9%9C%89-taylor-swift-%E5%8C%BF%E5%90%8D%E6%8D%90%E6%AC%BE-5-%E4%B8%87%E7%BE%8E%E5%85%83-%E5%8A%A9%E8%BD%A6%E7%A5%B8%E4%BC%A4%E8%80%85-ashley-taunton-%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9-gofundme-%E5%B7%B2%E7%AD%B9%E8%B6%85-9-%E4%B8%87%E7%BE%8E%E5%85%83",
-            "raised": 4600,
-            "goal": 10000,
-            "currency": "usd",
-            "tiers": "[10,25,50,100]",
-            "latest": "2026-08-31"
-        },
-        {
-            "title": "WeeBoon 泰国 CAR-T 细胞治疗众筹（目标 THB 8,000,000）",
-            "summary": "泰国患者 Poompat 罹患复发多发性骨髓瘤，需赴华接受 CAR-T 细胞治疗，家庭无力承担费用，通过 WeeBoon 平台发起众筹，目标 800 万泰铢（约 24.6 万美元），用于 CAR-T 治疗、桥接治疗、住院与差旅。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/weeboon-%E6%B3%B0%E5%9B%BD-car-t-%E7%BB%86%E8%83%9E%E6%B2%BB%E7%96%97%E4%BC%97%E7%AD%B9-%E7%9B%AE%E6%A0%87-thb-8-000-000",
-            "raised": 1600,
-            "goal": 10000,
-            "currency": "usd",
-            "tiers": "[10,25,50,100]",
-            "latest": "2026-09-04"
-        },
-        {
-            "title": "Andrea Aid 推出医院核验式医疗众筹（尼日利亚，零佣金）",
-            "summary": "Port Harcourt 健康科技初创 Andrea Aid 2026-02 上线医疗众筹平台：患者须经合作医院核验病历后才上线，捐款直付医院而非个人账户，从源头遏制欺诈；目前零佣金，靠资助与 CSR 合作运营，已接入 University of Port Harcourt Teaching Hospital，6 名患者入站、3 名获全额资助。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/andrea-aid-%E6%8E%A8%E5%87%BA%E5%8C%BB%E9%99%A2%E6%A0%B8%E9%AA%8C%E5%BC%8F%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9-%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A-%E9%9B%B6%E4%BD%A3%E9%87%91",
-            "raised": 9200,
-            "goal": 10000,
-            "currency": "usd",
-            "tiers": "[10,25,50,100]",
-            "latest": "2026-07-07"
-        },
-        {
-            "title": "BackaBuddy 2026 上半年超 52,000 个 campaign，医疗类领跑、0% 平台费",
-            "summary": "南非众筹平台 BackaBuddy 披露 2026 上半年新建 52,509 个 campaign（同比显著增长），医疗急救为最强类目；转向 0% 平台费模型后更多人\/家庭\/慈善机构发起募捐，标杆案例 Olive 干细胞移植基金已超 R170 万、Warrant Officer Karl Sanders 案被广泛转发。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/backabuddy-2026-%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%B6%85-52-000-%E4%B8%AA-campaign-%E5%8C%BB%E7%96%97%E7%B1%BB%E9%A2%86%E8%B7%91-0-%E5%B9%B3%E5%8F%B0%E8%B4%B9",
-            "raised": 5600,
-            "goal": 10000,
-            "currency": "usd",
-            "tiers": "[10,25,50,100]",
-            "latest": ""
-        },
-        {
-            "title": "Optometry Giving Sight 启动 2026 世界视觉日挑战赛（第 20 届，9\/1–10\/31）",
-            "summary": "Optometry Giving Sight 启动第 20 届 World Sight Day Challenge（9\/1–10\/31），号召视光行业从业者与机构为消除可避免盲症募捐，款项用于全球视力保健项目。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/optometry-giving-sight-%E5%90%AF%E5%8A%A8-2026-%E4%B8%96%E7%95%8C%E8%A7%86%E8%A7%89%E6%97%A5%E6%8C%91%E6%88%98%E8%B5%9B-%E7%AC%AC-20-%E5%B1%8A-9-1-10-31",
-            "raised": 3200,
-            "goal": 10000,
-            "currency": "usd",
-            "tiers": "[10,25,50,100]",
-            "latest": "2026-09-03"
-        },
-        {
-            "title": "北京仁泽公益基金会“力见未来”患者援助项目新增 PNH 适应症",
-            "summary": "北京仁泽公益基金会宣布“力见未来”患者援助项目增加阵发性睡眠性血红蛋白尿症（PNH）适应症，为符合条件的患者提供慈善援助。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8C%97%E4%BA%AC%E4%BB%81%E6%B3%BD%E5%85%AC%E7%9B%8A%E5%9F%BA%E9%87%91%E4%BC%9A-%E5%8A%9B%E8%A7%81%E6%9C%AA%E6%9D%A5-%E6%82%A3%E8%80%85%E6%8F%B4%E5%8A%A9%E9%A1%B9%E7%9B%AE%E6%96%B0%E5%A2%9E-pnh-%E9%80%82%E5%BA%94%E7%97%87",
-            "raised": 95000,
-            "goal": 100000,
-            "currency": "cny",
-            "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-03"
-        },
-        {
-            "title": "广州金丝带分享癌症患儿“捐发”故事（病房里的生命关怀）",
-            "summary": "广州金丝带（癌症患儿家长互助会）讲述癌症病房中患儿捐发的温暖故事，展现医疗公益中“身心关怀”的叙事筹款力量。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%B9%BF%E5%B7%9E%E9%87%91%E4%B8%9D%E5%B8%A6%E5%88%86%E4%BA%AB%E7%99%8C%E7%97%87%E6%82%A3%E5%84%BF-%E6%8D%90%E5%8F%91-%E6%95%85%E4%BA%8B-%E7%97%85%E6%88%BF%E9%87%8C%E7%9A%84%E7%94%9F%E5%91%BD%E5%85%B3%E6%80%80",
-            "raised": 22000,
-            "goal": 100000,
-            "currency": "cny",
-            "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-03"
-        },
-        {
-            "title": "Visiting Angels 设定 2026 Walk to End Alzheimer's $100 万募款目标（15 年累计 $5.3M）",
-            "summary": "全美居家照护连锁 Visiting Angels 为 2026 年 Walk to End Alzheimer's 设 $100 万募款目标，款项支持阿尔茨海默症协会；该机构 15 年来累计筹 $5.3M，2025 年单年 $948k，体现医疗\/公益长跑型 P2P 募捐模式。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/visiting-angels-%E8%AE%BE%E5%AE%9A-2026-walk-to-end-alzheimer-s-100-%E4%B8%87%E5%8B%9F%E6%AC%BE%E7%9B%AE%E6%A0%87-15-%E5%B9%B4%E7%B4%AF%E8%AE%A1-5-3m",
-            "raised": 930000,
-            "goal": 1000000,
-            "currency": "usd",
-            "tiers": "[10,25,50,100]",
-            "latest": "2026-09-01"
-        },
-        {
-            "title": "南都×腾讯公益“捐发故事·癌症病房”心愿接力（9\/1–9\/9）",
-            "summary": "南方都市报联合腾讯公益发起“捐发故事·癌症病房”线上心愿接力，面向癌症患儿\/病房群体，通过故事传播 + 公益捐赠\/义卖联动，9 月 1–9 日集中传播，属医疗人文关怀型众筹。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8D%97%E9%83%BD-%E8%85%BE%E8%AE%AF%E5%85%AC%E7%9B%8A-%E6%8D%90%E5%8F%91%E6%95%85%E4%BA%8B-%E7%99%8C%E7%97%87%E7%97%85%E6%88%BF-%E5%BF%83%E6%84%BF%E6%8E%A5%E5%8A%9B-9-1-9-9",
-            "raised": 57000,
-            "goal": 100000,
-            "currency": "cny",
-            "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-02"
-        },
-        {
-            "title": "澳洲 Footy Colours Day 抗癌募捐（第 31 年）",
-            "summary": "澳大利亚标志性抗癌募捐活动 Footy Colours Day 进入第 31 年，社区\/球迷以穿着支持球队配色的方式为儿童癌症研究机构筹款，是医疗公益中“轻量参与 + 长周期”的代表案例。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%BE%B3%E6%B4%B2-footy-colours-day-%E6%8A%97%E7%99%8C%E5%8B%9F%E6%8D%90-%E7%AC%AC-31-%E5%B9%B4",
-            "raised": 2500,
-            "goal": 10000,
-            "currency": "usd",
-            "tiers": "[10,25,50,100]",
-            "latest": "2026-09-02"
-        },
-        {
-            "title": "ImpactGuru 印度医疗众筹突破 5万+ 患者（0% 平台费 + AI Story Builder）",
-            "summary": "印度领先医疗众筹平台 ImpactGuru 宣布已助 5万+ 患者、捐赠人社区超 500 万；采用 0% 平台费 + 捐赠人小费模式，独家 AI Story Builder 自动生成医疗筹款叙事，紧急案例 24h 内放款；并与 Immuneel（CAR-T 疗法）合作打通医疗众筹+信贷双通道。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/impactguru-%E5%8D%B0%E5%BA%A6%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9%E7%AA%81%E7%A0%B4-5%E4%B8%87-%E6%82%A3%E8%80%85-0-%E5%B9%B3%E5%8F%B0%E8%B4%B9-ai-story-builder",
-            "raised": 2400,
-            "goal": 10000,
-            "currency": "usd",
-            "tiers": "[10,25,50,100]",
-            "latest": "2026-07-25"
-        },
-        {
             "title": "REACT19 CARE 基金 10 万美元配捐匹配（疫苗受损医疗补助激增33%）",
             "summary": "REACT19 为全美唯一面向新冠疫苗严重长期损伤者的医疗补助 CARE Fund发起10万美元配捐，出资人将逐元匹配至9月底；过去一年相关医疗补助需求增长33%，现 6 名患者等待、15 名排队。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/react19-care-%E5%9F%BA%E9%87%91-10-%E4%B8%87%E7%BE%8E%E5%85%83%E9%85%8D%E6%8D%90%E5%8C%B9%E9%85%8D-%E7%96%AB%E8%8B%97%E5%8F%97%E6%8D%9F%E5%8C%BB%E7%96%97%E8%A1%A5%E5%8A%A9%E6%BF%80%E5%A2%9E33",
+            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/react19-care-%E5%9F%BA%E9%87%91-10-%E4%B8%87%E7%BE%8E%E5%85%83%E9%85%8D%E6%8D%90%E5%8C%B9%E9%85%8D-%E7%96%AB%E8%8B%97%E5%8F%97%E6%8D%9F%E5%8C%BB%E7%96%97%E8%A1%A5%E5%8A%A9%E6%BF%80%E5%A2%9E33",
             "raised": 3800,
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-08-31"
+            "latest": "",
+            "paypal": "https:\/\/www.paypal.me\/temuseller"
         },
         {
             "title": "上海崇明区“久久公益节”：困难学生助学＋造血干细胞移植救助",
             "summary": "崇明区红十字会依托腾讯公益平台开展“爱心护你成长——困难家庭学生助学项目”与“点燃生命的希望——造血干细胞移植救助项目”线上众筹，网络众筹时间 8\/29–9\/16，欢迎微信扫码捐赠。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E4%B8%8A%E6%B5%B7%E5%B4%87%E6%98%8E%E5%8C%BA-%E4%B9%85%E4%B9%85%E5%85%AC%E7%9B%8A%E8%8A%82-%E5%9B%B0%E9%9A%BE%E5%AD%A6%E7%94%9F%E5%8A%A9%E5%AD%A6-%E9%80%A0%E8%A1%80%E5%B9%B2%E7%BB%86%E8%83%9E%E7%A7%BB%E6%A4%8D%E6%95%91%E5%8A%A9",
+            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E4%B8%8A%E6%B5%B7%E5%B4%87%E6%98%8E%E5%8C%BA-%E4%B9%85%E4%B9%85%E5%85%AC%E7%9B%8A%E8%8A%82-%E5%9B%B0%E9%9A%BE%E5%AD%A6%E7%94%9F%E5%8A%A9%E5%AD%A6-%E9%80%A0%E8%A1%80%E5%B9%B2%E7%BB%86%E8%83%9E%E7%A7%BB%E6%A4%8D%E6%95%91%E5%8A%A9",
             "raised": 9000,
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-08-31"
+            "latest": "",
+            "paypal": "https:\/\/www.paypal.me\/temuseller"
         },
         {
             "title": "医疗众筹平台对比：私有架构 A Better Gift vs 公共平台（2026）",
             "summary": "2026 医疗众筹平台加速分化：A Better Gift 以私有默认（不公开可搜、6.9%由捐赠人承担、1-2天到账）切入医疗隐私痛点；GoFundMe(2.9%+$0.30)、Help Hope Live(保费至医疗方、在补助下不视为收入)、GiveTaxFree、Mightycause 等各占位。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9%E5%B9%B3%E5%8F%B0%E5%AF%B9%E6%AF%94-%E7%A7%81%E6%9C%89%E6%9E%B6%E6%9E%84-a-better-gift-vs-%E5%85%AC%E5%85%B1%E5%B9%B3%E5%8F%B0-2026",
+            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9%E5%B9%B3%E5%8F%B0%E5%AF%B9%E6%AF%94-%E7%A7%81%E6%9C%89%E6%9E%B6%E6%9E%84-a-better-gift-vs-%E5%85%AC%E5%85%B1%E5%B9%B3%E5%8F%B0-2026",
             "raised": 6700,
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-08-31"
+            "latest": "",
+            "paypal": "https:\/\/www.paypal.me\/temuseller"
+        },
+        {
+            "title": "ImpactGuru 印度医疗众筹突破 5万+ 患者（0% 平台费 + AI Story Builder）",
+            "summary": "印度领先医疗众筹平台 ImpactGuru 宣布已助 5万+ 患者、捐赠人社区超 500 万；采用 0% 平台费 + 捐赠人小费模式，独家 AI Story Builder 自动生成医疗筹款叙事，紧急案例 24h 内放款；并与 Immuneel（CAR-T 疗法）合作打通医疗众筹+信贷双通道。",
+            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/impactguru-%E5%8D%B0%E5%BA%A6%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9%E7%AA%81%E7%A0%B4-5%E4%B8%87-%E6%82%A3%E8%80%85-0-%E5%B9%B3%E5%8F%B0%E8%B4%B9-ai-story-builder",
+            "raised": 2400,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": "https:\/\/www.paypal.me\/temuseller"
+        },
+        {
+            "title": "Visiting Angels 设定 2026 Walk to End Alzheimer's $100 万募款目标（15 年累计 $5.3M）",
+            "summary": "全美居家照护连锁 Visiting Angels 为 2026 年 Walk to End Alzheimer's 设 $100 万募款目标，款项支持阿尔茨海默症协会；该机构 15 年来累计筹 $5.3M，2025 年单年 $948k，体现医疗\/公益长跑型 P2P 募捐模式。",
+            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/visiting-angels-%E8%AE%BE%E5%AE%9A-2026-walk-to-end-alzheimer-s-100-%E4%B8%87%E5%8B%9F%E6%AC%BE%E7%9B%AE%E6%A0%87-15-%E5%B9%B4%E7%B4%AF%E8%AE%A1-5-3m",
+            "raised": 930000,
+            "goal": 1000000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": "https:\/\/www.paypal.me\/temuseller"
+        },
+        {
+            "title": "南都×腾讯公益“捐发故事·癌症病房”心愿接力（9\/1–9\/9）",
+            "summary": "南方都市报联合腾讯公益发起“捐发故事·癌症病房”线上心愿接力，面向癌症患儿\/病房群体，通过故事传播 + 公益捐赠\/义卖联动，9 月 1–9 日集中传播，属医疗人文关怀型众筹。",
+            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E5%8D%97%E9%83%BD-%E8%85%BE%E8%AE%AF%E5%85%AC%E7%9B%8A-%E6%8D%90%E5%8F%91%E6%95%85%E4%BA%8B-%E7%99%8C%E7%97%87%E7%97%85%E6%88%BF-%E5%BF%83%E6%84%BF%E6%8E%A5%E5%8A%9B-9-1-9-9",
+            "raised": 57000,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "",
+            "paypal": "https:\/\/www.paypal.me\/temuseller"
+        },
+        {
+            "title": "澳洲 Footy Colours Day 抗癌募捐（第 31 年）",
+            "summary": "澳大利亚标志性抗癌募捐活动 Footy Colours Day 进入第 31 年，社区\/球迷以穿着支持球队配色的方式为儿童癌症研究机构筹款，是医疗公益中“轻量参与 + 长周期”的代表案例。",
+            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E6%BE%B3%E6%B4%B2-footy-colours-day-%E6%8A%97%E7%99%8C%E5%8B%9F%E6%8D%90-%E7%AC%AC-31-%E5%B9%B4",
+            "raised": 2500,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": "https:\/\/www.paypal.me\/temuseller"
         },
         {
             "title": "GoFundMe 宣布累计筹集 $30B、1.5 亿用户，医疗为最大类目",
             "summary": "GoFundMe 2026-02 披露自 2010 年以来累计筹款 $30B、1.5 亿用户；年轻一代更偏好众筹而非传统慈善捐赠。医疗是平台最大募捐类目。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/gofundme-%E5%AE%A3%E5%B8%83%E7%B4%AF%E8%AE%A1%E7%AD%B9%E9%9B%86-30b-1-5-%E4%BA%BF%E7%94%A8%E6%88%B7-%E5%8C%BB%E7%96%97%E4%B8%BA%E6%9C%80%E5%A4%A7%E7%B1%BB%E7%9B%AE",
+            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/gofundme-%E5%AE%A3%E5%B8%83%E7%B4%AF%E8%AE%A1%E7%AD%B9%E9%9B%86-30b-1-5-%E4%BA%BF%E7%94%A8%E6%88%B7-%E5%8C%BB%E7%96%97%E4%B8%BA%E6%9C%80%E5%A4%A7%E7%B1%BB%E7%9B%AE",
             "raised": 9300,
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-01"
+            "latest": "",
+            "paypal": "https:\/\/www.paypal.me\/temuseller"
         },
         {
             "title": "医疗众筹市场规模与增长预测（双源口径）",
             "summary": "医疗众筹为最大募捐类目，北美占 ~60%；痛点：45% 活动未达标、平台过饱和 +10%、12% 被标记欺诈。两研究口径差异大，需以区间+来源标注。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9%E5%B8%82%E5%9C%BA%E8%A7%84%E6%A8%A1%E4%B8%8E%E5%A2%9E%E9%95%BF%E9%A2%84%E6%B5%8B-%E5%8F%8C%E6%BA%90%E5%8F%A3%E5%BE%84",
+            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9%E5%B8%82%E5%9C%BA%E8%A7%84%E6%A8%A1%E4%B8%8E%E5%A2%9E%E9%95%BF%E9%A2%84%E6%B5%8B-%E5%8F%8C%E6%BA%90%E5%8F%A3%E5%BE%84",
             "raised": 7700,
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-08-31"
+            "latest": "",
+            "paypal": "https:\/\/www.paypal.me\/temuseller"
         },
         {
             "title": "WhyDonate 报告欧洲医疗众筹 2021–2025 增长 5 倍",
             "summary": "欧洲成为医疗众筹增长引擎；WhyDonate 报告其医疗众筹筹款额 2021–2025 增长 5 倍，标志医疗活动被视为可重复、可追踪的类别。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/whydonate-%E6%8A%A5%E5%91%8A%E6%AC%A7%E6%B4%B2%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9-2021-2025-%E5%A2%9E%E9%95%BF-5-%E5%80%8D",
+            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/whydonate-%E6%8A%A5%E5%91%8A%E6%AC%A7%E6%B4%B2%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9-2021-2025-%E5%A2%9E%E9%95%BF-5-%E5%80%8D",
             "raised": 4100,
             "goal": 10000,
             "currency": "eur",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-08-31"
+            "latest": "",
+            "paypal": "https:\/\/www.paypal.me\/temuseller"
         },
         {
             "title": "医疗众筹信任\/欺诈挑战加剧（JAMA\/ACS 数据）",
             "summary": "ACS 分析显示超 1\/3 美国医疗众筹故事涉及住房\/食物不安全等健康相关社会需求；市场面临 donor fatigue、信任与资金善用三大挑战——恰好是“透明+核验”工具层的切入点。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9%E4%BF%A1%E4%BB%BB-%E6%AC%BA%E8%AF%88%E6%8C%91%E6%88%98%E5%8A%A0%E5%89%A7-jama-acs-%E6%95%B0%E6%8D%AE",
+            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9%E4%BF%A1%E4%BB%BB-%E6%AC%BA%E8%AF%88%E6%8C%91%E6%88%98%E5%8A%A0%E5%89%A7-jama-acs-%E6%95%B0%E6%8D%AE",
             "raised": 800,
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-01"
+            "latest": "",
+            "paypal": "https:\/\/www.paypal.me\/temuseller"
         }
     ],
-    "base": "http:\/\/127.0.0.1:8899"
+    "base": "https:\/\/fund.yaolaoye.cn"
 }
