@@ -5,145 +5,49 @@
     "footer": "Powered by 透明捐助 · 创作者赞助专区",
     "items": [
         {
-            "title": "2026创作者平台费率重置：Patreon 三档合并为免费8%\/Pro 5%+$29.99，Ko-fi 新账户默认 5% 抽成引关注",
-            "summary": "2026上半年创作者平台费率重写：Patreon 将 Lite\/Pro\/Premium 合并为免费8%或 Pro 5%+$29.99\/月（11月1日前强制切换订阅计费）；Ko-fi 新账户默认加入 Contributor 计划对包括小费在内的所有支付抽成5%，需手动关闭恢复0%小费；Substack 维持10%+Stripe。默认设置而非明面费率正成为实际到手的关键变量。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/2026%E5%88%9B%E4%BD%9C%E8%80%85%E5%B9%B3%E5%8F%B0%E8%B4%B9%E7%8E%87%E9%87%8D%E7%BD%AE-patreon-%E4%B8%89%E6%A1%A3%E5%90%88%E5%B9%B6%E4%B8%BA%E5%85%8D%E8%B4%B98-pro-5-29-99-ko-fi-%E6%96%B0%E8%B4%A6%E6%88%B7%E9%BB%98%E8%AE%A4-5-%E6%8A%BD%E6%88%90%E5%BC%95%E5%85%B3%E6%B3%A8",
-            "raised": 4200,
-            "goal": 10000,
-            "currency": "usd",
-            "tiers": "[10,25,50,100]",
-            "latest": "2026-07-06"
-        },
-        {
-            "title": "Patreon vs Ko-fi 2026：音乐人真实到手收益与平台费率对比",
-            "summary": "对比音乐人赞助平台：Ko-fi 打赏0%平台费、款项直清 Stripe\/PayPal，Gold $12\/月；Patreon 2025-08-04 后新页统一10%平台费，旧用户保留5%\/8%\/12%legacy；Substack 取订阅收入10%+Stripe费。结论依收入结构选平台。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/patreon-vs-ko-fi-2026-%E9%9F%B3%E4%B9%90%E4%BA%BA%E7%9C%9F%E5%AE%9E%E5%88%B0%E6%89%8B%E6%94%B6%E7%9B%8A%E4%B8%8E%E5%B9%B3%E5%8F%B0%E8%B4%B9%E7%8E%87%E5%AF%B9%E6%AF%94",
-            "raised": 1100,
-            "goal": 10000,
-            "currency": "usd",
-            "tiers": "[10,25,50,100]",
-            "latest": "2026-09-02"
-        },
-        {
-            "title": "2026创作者经济九大商业模式：品牌赞助、付费会员、付费通讯领跑",
-            "summary": "梳理创作者经济九大变现模型：品牌赞助为最大单一收入池（美国创作者广告2025年达$37B，2026预计$44B）；付费会员（Patreon 2026新页10%费）与付费通讯（Substack 取10%）因可拥有用户列表而最稳；数字产品毛利最高。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/2026%E5%88%9B%E4%BD%9C%E8%80%85%E7%BB%8F%E6%B5%8E%E4%B9%9D%E5%A4%A7%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F-%E5%93%81%E7%89%8C%E8%B5%9E%E5%8A%A9-%E4%BB%98%E8%B4%B9%E4%BC%9A%E5%91%98-%E4%BB%98%E8%B4%B9%E9%80%9A%E8%AE%AF%E9%A2%86%E8%B7%91",
-            "raised": 6900,
-            "goal": 10000,
-            "currency": "usd",
-            "tiers": "[10,25,50,100]",
-            "latest": ""
-        },
-        {
-            "title": "2026 年 9 大 Patreon 替代平台盘点：Kourses 0% 费率、Ko-fi 打赏、Substack 付费信",
-            "summary": "Kourses 对比 2026 年 9 个 Patreon 替代平台：Kourses(会员+课程 0% 费率)、Ko-fi(打赏 0%)、Substack(付费信 10%)、Buy Me a Coffee(5%)、Gumroad、Memberful 等。新发布页面创作者自 2025-08-04 起需付 10% 平台费，推动出走。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/2026-%E5%B9%B4-9-%E5%A4%A7-patreon-%E6%9B%BF%E4%BB%A3%E5%B9%B3%E5%8F%B0%E7%9B%98%E7%82%B9-kourses-0-%E8%B4%B9%E7%8E%87-ko-fi-%E6%89%93%E8%B5%8F-substack-%E4%BB%98%E8%B4%B9%E4%BF%A1",
-            "raised": 7900,
-            "goal": 10000,
-            "currency": "usd",
-            "tiers": "[10,25,50,100]",
-            "latest": "2026-09-06"
-        },
-        {
-            "title": "2026 女性创作者 7 大 Patreon 替代：Exclu 0% 佣金的成人创作者专属",
-            "summary": "Indie Hackers 为女性\/成人创作者排名 7 个 Patreon 替代：Exclu(0% 佣金 Premium $39.99\/月)、OnlyFans(20%)、Fansly(20%)、Fanvue、Loyalfans、ManyVids、SubscribeStar Adult。主流 Ko-fi\/Gumroad\/Substack 禁止露骨成人内容。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/2026-%E5%A5%B3%E6%80%A7%E5%88%9B%E4%BD%9C%E8%80%85-7-%E5%A4%A7-patreon-%E6%9B%BF%E4%BB%A3-exclu-0-%E4%BD%A3%E9%87%91%E7%9A%84%E6%88%90%E4%BA%BA%E5%88%9B%E4%BD%9C%E8%80%85%E4%B8%93%E5%B1%9E",
-            "raised": 3800,
-            "goal": 10000,
-            "currency": "usd",
-            "tiers": "[10,25,50,100]",
-            "latest": "2026-09-06"
-        },
-        {
-            "title": "SPOZZ 上线 Artist Subscriptions 直接粉丝订阅功能，强化 D2F 变现",
-            "summary": "去中心化音乐平台 SPOZZ（按播放付费、声称向版权方分配 80% 收益）于 2026-09-01 上线 Artist Subscriptions，艺术家可在站内直接售卖粉丝会员，提供独家歌曲\/视频\/幕后\/直播等内容，对标 Patreon\/OnlyFans 但置于音乐生态内。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/spozz-%E4%B8%8A%E7%BA%BF-artist-subscriptions-%E7%9B%B4%E6%8E%A5%E7%B2%89%E4%B8%9D%E8%AE%A2%E9%98%85%E5%8A%9F%E8%83%BD-%E5%BC%BA%E5%8C%96-d2f-%E5%8F%98%E7%8E%B0",
-            "raised": 3100,
-            "goal": 10000,
-            "currency": "usd",
-            "tiers": "[10,25,50,100]",
-            "latest": "2026-09-01"
-        },
-        {
-            "title": "创作者经济观察：Patreon 转型社区\/媒体平台，Ghost\/Substack\/Ko-Fi 成替代选择",
-            "summary": "评论指出社交媒体触达衰减，创作者应把受众迁移至自主平台；Patreon 已从单纯会员平台转向社区\/媒体平台并增设免费层级，Ghost（独立站点、固定月费）、Substack、Ko-Fi 成为艺术家构建自有受众的替代方案。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%88%9B%E4%BD%9C%E8%80%85%E7%BB%8F%E6%B5%8E%E8%A7%82%E5%AF%9F-patreon-%E8%BD%AC%E5%9E%8B%E7%A4%BE%E5%8C%BA-%E5%AA%92%E4%BD%93%E5%B9%B3%E5%8F%B0-ghost-substack-ko-fi-%E6%88%90%E6%9B%BF%E4%BB%A3%E9%80%89%E6%8B%A9",
-            "raised": 9400,
-            "goal": 10000,
-            "currency": "usd",
-            "tiers": "[10,25,50,100]",
-            "latest": "2026-09-01"
-        },
-        {
-            "title": "2026 创作者订阅平台格局：Patreon 10% 平台费 vs Substack 10%+Stripe \/ Ghost 0% \/ Circle 2%",
-            "summary": "Tella 汇总 2026-08-29 现行定价：Patreon 赚后抽 10%（另加处理费），Substack 付费订阅抽 10%+Stripe，Uscreen 视频会员 $49\/月起抽 10%，Kajabi $179\/月起，Podia 年付 $42（5% 费），Circle $89\/月+2% 交易费，SamCart $79\/月起；创作者对“自有数据+低费率”诉求上升。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/2026-%E5%88%9B%E4%BD%9C%E8%80%85%E8%AE%A2%E9%98%85%E5%B9%B3%E5%8F%B0%E6%A0%BC%E5%B1%80-patreon-10-%E5%B9%B3%E5%8F%B0%E8%B4%B9-vs-substack-10-stripe-ghost-0-circle-2",
-            "raised": 7600,
-            "goal": 10000,
-            "currency": "usd",
-            "tiers": "[10,25,50,100]",
-            "latest": "2026-09-04"
-        },
-        {
-            "title": "会员\/订阅平台横评发布（创作者 D2F 变现工具选型）",
-            "summary": "创作者经济媒体对比 Podia、Patreon、Substack 等会员\/订阅平台的功能、费率与适用场景，反映 D2F（直达粉丝）变现工具持续升温。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E4%BC%9A%E5%91%98-%E8%AE%A2%E9%98%85%E5%B9%B3%E5%8F%B0%E6%A8%AA%E8%AF%84%E5%8F%91%E5%B8%83-%E5%88%9B%E4%BD%9C%E8%80%85-d2f-%E5%8F%98%E7%8E%B0%E5%B7%A5%E5%85%B7%E9%80%89%E5%9E%8B",
-            "raised": 7900,
-            "goal": 10000,
-            "currency": "usd",
-            "tiers": "[10,25,50,100]",
-            "latest": "2026-09-03"
-        },
-        {
-            "title": "Patreon 从“付费工具”转向“创作者媒体平台”（自建发现引擎）",
-            "summary": "Patreon CEO Jack Conte 发布产品路线图，逆转“不建发现功能”立场，推出原生视频、聊天、信息流与 AI 发现引擎，将平台从支付通道升级为“小型媒体公司索引”，应对 Meta\/Google 切断第三方触达；累计处理超 $10B、年处理超 $2B、1.85 亿免费会员。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/patreon-%E4%BB%8E-%E4%BB%98%E8%B4%B9%E5%B7%A5%E5%85%B7-%E8%BD%AC%E5%90%91-%E5%88%9B%E4%BD%9C%E8%80%85%E5%AA%92%E4%BD%93%E5%B9%B3%E5%8F%B0-%E8%87%AA%E5%BB%BA%E5%8F%91%E7%8E%B0%E5%BC%95%E6%93%8E",
-            "raised": 3800,
-            "goal": 10000,
-            "currency": "usd",
-            "tiers": "[10,25,50,100]",
-            "latest": "2026-09-03"
-        },
-        {
-            "title": "SPOZZ 推出 Artist Subscriptions 直达粉丝订阅（扩张 D2F 变现）",
-            "summary": "音乐分发平台 SPOZZ 推出 Artist Subscriptions，让音乐人直接向粉丝提供订阅制内容与权益，强化 direct-to-fan 变现，对标 Patreon 高费率、强调自有受众与数据所有权。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/spozz-%E6%8E%A8%E5%87%BA-artist-subscriptions-%E7%9B%B4%E8%BE%BE%E7%B2%89%E4%B8%9D%E8%AE%A2%E9%98%85-%E6%89%A9%E5%BC%A0-d2f-%E5%8F%98%E7%8E%B0",
-            "raised": 7700,
-            "goal": 10000,
-            "currency": "usd",
-            "tiers": "[10,25,50,100]",
-            "latest": "2026-09-01"
-        },
-        {
-            "title": "Fourthwall 被多家盘点评为增长最快 all-in-one 创作者平台（0% 捐赠费）",
-            "summary": "Fourthwall 被多家 2026 盘点评为增长最快的全能创作者平台，集独立品牌站、会员、POD 与捐赠于一体：Free 计划 0 月费、捐赠 0% 平台费（仅 2.9%+$0.30 处理费）、会员 5%，对标 Patreon 新用户 10% 高费率；MKBHD 等 50 万+ 创作者使用，获 Lightspeed\/Initialized\/Ohanian $17M 投资。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/fourthwall-%E8%A2%AB%E5%A4%9A%E5%AE%B6%E7%9B%98%E7%82%B9%E8%AF%84%E4%B8%BA%E5%A2%9E%E9%95%BF%E6%9C%80%E5%BF%AB-all-in-one-%E5%88%9B%E4%BD%9C%E8%80%85%E5%B9%B3%E5%8F%B0-0-%E6%8D%90%E8%B5%A0%E8%B4%B9",
-            "raised": 3400,
-            "goal": 10000,
-            "currency": "usd",
-            "tiers": "[10,25,50,100]",
-            "latest": ""
-        },
-        {
             "title": "Patreon 大改版：30+ 功能、内容级推荐算法、对标发现平台",
             "summary": "Patreon 8\/20 宣布 30+ 项工具与改版推荐算法，从按账号相似改为按单帖主题\/风格匹配以扶小创作者；含 iOS Clips、公开 Quips、主题社区 Niches、粉丝资料。CEO Jack Conte 称目标“更好的网络”。中小创作者与粉丝经济正被更强发现力重塑。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/patreon-%E5%A4%A7%E6%94%B9%E7%89%88-30-%E5%8A%9F%E8%83%BD-%E5%86%85%E5%AE%B9%E7%BA%A7%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95-%E5%AF%B9%E6%A0%87%E5%8F%91%E7%8E%B0%E5%B9%B3%E5%8F%B0",
+            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/patreon-%E5%A4%A7%E6%94%B9%E7%89%88-30-%E5%8A%9F%E8%83%BD-%E5%86%85%E5%AE%B9%E7%BA%A7%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95-%E5%AF%B9%E6%A0%87%E5%8F%91%E7%8E%B0%E5%B9%B3%E5%8F%B0",
             "raised": 5500,
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-08-31"
+            "latest": "",
+            "paypal": "https:\/\/www.paypal.me\/temuseller"
+        },
+        {
+            "title": "Fourthwall 被多家盘点评为增长最快 all-in-one 创作者平台（0% 捐赠费）",
+            "summary": "Fourthwall 被多家 2026 盘点评为增长最快的全能创作者平台，集独立品牌站、会员、POD 与捐赠于一体：Free 计划 0 月费、捐赠 0% 平台费（仅 2.9%+$0.30 处理费）、会员 5%，对标 Patreon 新用户 10% 高费率；MKBHD 等 50 万+ 创作者使用，获 Lightspeed\/Initialized\/Ohanian $17M 投资。",
+            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/fourthwall-%E8%A2%AB%E5%A4%9A%E5%AE%B6%E7%9B%98%E7%82%B9%E8%AF%84%E4%B8%BA%E5%A2%9E%E9%95%BF%E6%9C%80%E5%BF%AB-all-in-one-%E5%88%9B%E4%BD%9C%E8%80%85%E5%B9%B3%E5%8F%B0-0-%E6%8D%90%E8%B5%A0%E8%B4%B9",
+            "raised": 3400,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": "https:\/\/www.paypal.me\/temuseller"
+        },
+        {
+            "title": "SPOZZ 推出 Artist Subscriptions 直达粉丝订阅（扩张 D2F 变现）",
+            "summary": "音乐分发平台 SPOZZ 推出 Artist Subscriptions，让音乐人直接向粉丝提供订阅制内容与权益，强化 direct-to-fan 变现，对标 Patreon 高费率、强调自有受众与数据所有权。",
+            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/spozz-%E6%8E%A8%E5%87%BA-artist-subscriptions-%E7%9B%B4%E8%BE%BE%E7%B2%89%E4%B8%9D%E8%AE%A2%E9%98%85-%E6%89%A9%E5%BC%A0-d2f-%E5%8F%98%E7%8E%B0",
+            "raised": 7700,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": "https:\/\/www.paypal.me\/temuseller"
         },
         {
             "title": "Patreon 新 10% 平台费生效，创作者加速出走",
             "summary": "Patreon 对新创作者收取 flat 10% 平台费（+$2.9%+$0.30 处理费，合计约 13%）；催生 Ghost(0%)、Memberful(4.9%)、Ko-fi(0-5%)、Fourthwall(会员0%) 等替代平台崛起，创作者追求自有 Stripe 账户与数据所有权。",
-            "url": "http:\/\/127.0.0.1:8899\/campaign\/patreon-%E6%96%B0-10-%E5%B9%B3%E5%8F%B0%E8%B4%B9%E7%94%9F%E6%95%88-%E5%88%9B%E4%BD%9C%E8%80%85%E5%8A%A0%E9%80%9F%E5%87%BA%E8%B5%B0",
+            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/patreon-%E6%96%B0-10-%E5%B9%B3%E5%8F%B0%E8%B4%B9%E7%94%9F%E6%95%88-%E5%88%9B%E4%BD%9C%E8%80%85%E5%8A%A0%E9%80%9F%E5%87%BA%E8%B5%B0",
             "raised": 1600,
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-08-31"
+            "latest": "",
+            "paypal": "https:\/\/www.paypal.me\/temuseller"
         }
     ],
-    "base": "http:\/\/127.0.0.1:8899"
+    "base": "https:\/\/fund.yaolaoye.cn"
 }
