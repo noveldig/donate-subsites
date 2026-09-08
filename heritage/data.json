@@ -2,151 +2,360 @@
     "name": "文旅遗产保护专区",
     "brand": "文旅遗产",
     "primary": "#7c3aed",
-    "footer": "Powered by 透明捐助 · 文旅遗产保护专区",
+    "footer": "Powered by 透明捐助 · 文旅遗产专区",
     "items": [
         {
-            "title": "中国政协提议建全国统一“文化遗产社会参与数字平台”",
-            "summary": "政协委员建议建设全国统一文化遗产社会参与数字平台，整合信息发布、资金捐赠、项目对接、成果展示与监督，吸纳企业捐赠与公益基金、社会众筹等社会资本投入低级别文保与非遗记录。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%8D%8F%E6%8F%90%E8%AE%AE%E5%BB%BA%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80-%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7%E7%A4%BE%E4%BC%9A%E5%8F%82%E4%B8%8E%E6%95%B0%E5%AD%97%E5%B9%B3%E5%8F%B0",
-            "raised": 22000,
+            "title": "深圳大鹏所城上线“好事角”，邀公众领小红花守护海防文脉",
+            "summary": "大鹏新区博物馆联合腾讯SSV数字文化实验室、腾讯公益在大鹏所城设1㎡好事角，游客扫码进入探元小程序，三选一（拍文物\/方言讲解\/捐步数）即可解锁小红花并领限量文创，活动持续至9月9日。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%B7%B1%E5%9C%B3%E5%A4%A7%E9%B9%8F%E6%89%80%E5%9F%8E%E4%B8%8A%E7%BA%BF-%E5%A5%BD%E4%BA%8B%E8%A7%92-%E9%82%80%E5%85%AC%E4%BC%97%E9%A2%86%E5%B0%8F%E7%BA%A2%E8%8A%B1%E5%AE%88%E6%8A%A4%E6%B5%B7%E9%98%B2%E6%96%87%E8%84%89",
+            "raised": 0,
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
             "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "paypal": ""
         },
         {
-            "title": "B站×中国文物局“千年微笑守护计划”支持三峡26件文物修复（弹幕变电力）",
-            "summary": "中国文物保护基金会联合 Bilibili 公益启动“千年爱心守护计划”，观众在节目通过弹幕表达即化为“电力值”，累计达 23,333,333 即全部转化为公益基金，专项修复重庆中国三峡博物馆 26 件带有“微笑”特征的出土文物（最小干预原则）。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/b%E7%AB%99-%E4%B8%AD%E5%9B%BD%E6%96%87%E7%89%A9%E5%B1%80-%E5%8D%83%E5%B9%B4%E5%BE%AE%E7%AC%91%E5%AE%88%E6%8A%A4%E8%AE%A1%E5%88%92-%E6%94%AF%E6%8C%81%E4%B8%89%E5%B3%A126%E4%BB%B6%E6%96%87%E7%89%A9%E4%BF%AE%E5%A4%8D-%E5%BC%B9%E5%B9%95%E5%8F%98%E7%94%B5%E5%8A%9B",
-            "raised": 2333333.3,
-            "goal": 23333333,
-            "currency": "cny",
-            "tiers": "[20,50,100,200,500]",
-            "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
-        },
-        {
-            "title": "登封市文物保护慈善基金募捐项目（一处文保单位，嵩山地区）",
-            "summary": "登封市是全国重点文物保护最多的县级市，市慈善总会联合文物中心成立文物保护慈善基金，专项开展文物保护、古树古柏保护、公共文化和文物保护志愿者等。项目一期截至2026-07已募¥4200余元；另嵩阳书院古树名木保护项目已筹近 ¥93,709。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E7%99%BB%E5%B0%81%E5%B8%82%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E6%85%88%E5%96%84%E5%9F%BA%E9%87%91%E5%8B%9F%E6%8D%90%E9%A1%B9%E7%9B%AE-%E4%B8%80%E5%A4%84%E6%96%87%E4%BF%9D%E5%8D%95%E4%BD%8D-%E5%B5%A9%E5%B1%B1%E5%9C%B0%E5%8C%BA",
-            "raised": 68000,
+            "title": "吴文化博物馆“戴花”小红花文物守护活动开启",
+            "summary": "2026久久公益节，吴文化博物馆联合腾讯数字文化实验室、腾讯公益打造1㎡好事角，9月4日至9月9日（周一闭馆）游客扫码打卡、拍照传承或公益捐步即可成为“数字守艺人”、领取小红花。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%90%B4%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A6%86-%E6%88%B4%E8%8A%B1-%E5%B0%8F%E7%BA%A2%E8%8A%B1%E6%96%87%E7%89%A9%E5%AE%88%E6%8A%A4%E6%B4%BB%E5%8A%A8%E5%BC%80%E5%90%AF",
+            "raised": 0,
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
             "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "paypal": ""
         },
         {
-            "title": "法国香波堡 Chambord 启动 €37M 修缮全球众筹（\"Chambord needs you\"）",
-            "summary": "法国第二大城堡 Chambord（UNESCO，1519 年建，426 房间）因气候变化致地基受损、François I 翼面临坍塌，发起 \"Chambord needs you \/ Become a Guardian Angel\" 全球公众参与修缮众筹；2026 财政法提供最高 75% 税收抵扣，分三阶段至 2032 年重开。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E6%B3%95%E5%9B%BD%E9%A6%99%E6%B3%A2%E5%A0%A1-chambord-%E5%90%AF%E5%8A%A8-37m-%E4%BF%AE%E7%BC%AE%E5%85%A8%E7%90%83%E4%BC%97%E7%AD%B9-chambord-needs-you",
-            "raised": 9200,
+            "title": "眉县博物馆“一朵小红花”久久公益节守护周秦文脉",
+            "summary": "腾讯SSV数字文化实验室携手腾讯公益发起，眉县博物馆（8\/31—9\/9）设1㎡好事角，游客扫码进入探元小程序，拍文物\/乡音讲文物\/捐步数三选一即可参与文脉守护，获“繁星数字守艺人”公益证书。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%9C%89%E5%8E%BF%E5%8D%9A%E7%89%A9%E9%A6%86-%E4%B8%80%E6%9C%B5%E5%B0%8F%E7%BA%A2%E8%8A%B1-%E4%B9%85%E4%B9%85%E5%85%AC%E7%9B%8A%E8%8A%82%E5%AE%88%E6%8A%A4%E5%91%A8%E7%A7%A6%E6%96%87%E8%84%89",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "辽宁发行红山文化“古国牛河梁”主题即开型福彩，“天辽地宁 文脉传承”公募项目已布设12处公益点位",
+            "summary": "2026年“中华慈善日”主题宣传暨红山文化“古国牛河梁”即开型福利彩票全国上市活动在沈阳举办；“天辽地宁 文脉传承”公开募捐慈善项目已完成省文物考古研究院、义县奉国寺、抗美援朝烈士陵园等12处重点场所公益点位布设，善款用于文物本体修缮、安防升级、活化利用等；辽宁慈善组织达288家（“十四五”增长140%），年均接受捐赠超10亿元。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%BE%BD%E5%AE%81%E5%8F%91%E8%A1%8C%E7%BA%A2%E5%B1%B1%E6%96%87%E5%8C%96-%E5%8F%A4%E5%9B%BD%E7%89%9B%E6%B2%B3%E6%A2%81-%E4%B8%BB%E9%A2%98%E5%8D%B3%E5%BC%80%E5%9E%8B%E7%A6%8F%E5%BD%A9-%E5%A4%A9%E8%BE%BD%E5%9C%B0%E5%AE%81-%E6%96%87%E8%84%89%E4%BC%A0%E6%89%BF-%E5%85%AC%E5%8B%9F%E9%A1%B9%E7%9B%AE%E5%B7%B2%E5%B8%83%E8%AE%BE12%E5%A4%84%E5%85%AC%E7%9B%8A%E7%82%B9%E4%BD%8D",
+            "raised": 8000,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-09-07",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "太原杏花岭区公开招募不可移动文物认领认养主体：圣母庙、轩辕庙等6处文物建筑入列",
+            "summary": "太原市杏花岭区文旅局面向社会公开招募“文明守望工程”文物认领认养主体，中涧河镇圣母庙、轩辕庙，教场巷关帝庙，大窑头狐仙庙、杨家峪洪福寺等6处文物建筑入列；认养主体最长可获20年管理使用权，可用于博物馆、公益讲堂、文化站、民宿等公益性为主的场所。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%A4%AA%E5%8E%9F%E6%9D%8F%E8%8A%B1%E5%B2%AD%E5%8C%BA%E5%85%AC%E5%BC%80%E6%8B%9B%E5%8B%9F%E4%B8%8D%E5%8F%AF%E7%A7%BB%E5%8A%A8%E6%96%87%E7%89%A9%E8%AE%A4%E9%A2%86%E8%AE%A4%E5%85%BB%E4%B8%BB%E4%BD%93-%E5%9C%A3%E6%AF%8D%E5%BA%99-%E8%BD%A9%E8%BE%95%E5%BA%99%E7%AD%896%E5%A4%84%E6%96%87%E7%89%A9%E5%BB%BA%E7%AD%91%E5%85%A5%E5%88%97",
+            "raised": 66000,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-08-13",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "辽宁“天辽地宁 文脉传承”公开募捐慈善项目聚焦文化遗产保护",
+            "summary": "2026“中华慈善日”主题宣传活动在沈阳举行，推介“天辽地宁 文脉传承”公开募捐慈善项目，已完成省文物考古研究院、义县奉国寺、抗美援朝烈士陵园等12处重点场所布设，资金用于文物修缮、安防升级、环境整治与活化利用。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%BE%BD%E5%AE%81-%E5%A4%A9%E8%BE%BD%E5%9C%B0%E5%AE%81-%E6%96%87%E8%84%89%E4%BC%A0%E6%89%BF-%E5%85%AC%E5%BC%80%E5%8B%9F%E6%8D%90%E6%85%88%E5%96%84%E9%A1%B9%E7%9B%AE%E8%81%9A%E7%84%A6%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7%E4%BF%9D%E6%8A%A4",
+            "raised": 89000,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-09-07",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "河南百家博物馆邀公众当“数字守艺人”，久久公益节首进文博场景",
+            "summary": "国家文物局指导、腾讯SSV数字文化实验室与中国文物报社发起“中小博物馆数字助力繁星计划”落地河南，全省百家文博场馆接入；“探源中原博物寻踪”公益打卡，游客扫码\/拍照\/捐步即可成为“数字守艺人”，激励基金用于文物修复与数字化。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%B2%B3%E5%8D%97%E7%99%BE%E5%AE%B6%E5%8D%9A%E7%89%A9%E9%A6%86%E9%82%80%E5%85%AC%E4%BC%97%E5%BD%93-%E6%95%B0%E5%AD%97%E5%AE%88%E8%89%BA%E4%BA%BA-%E4%B9%85%E4%B9%85%E5%85%AC%E7%9B%8A%E8%8A%82%E9%A6%96%E8%BF%9B%E6%96%87%E5%8D%9A%E5%9C%BA%E6%99%AF",
+            "raised": 46000,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-09-07",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "山西古戏台认养：千万粉博主出资修缮，民间力量接棒低级别文物保护",
+            "summary": "自媒体博主史海峰与山西寿阳县签文物认养协议，出资修缮东郭义村百年古戏台并使其重新开锣。山西2017年率先启动“文明守望工程”鼓励社会力量参与文物保护，2025年寿阳县出台文物建筑认养办法，为低级别不可移动文物保护打通制度通道。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%B1%B1%E8%A5%BF%E5%8F%A4%E6%88%8F%E5%8F%B0%E8%AE%A4%E5%85%BB-%E5%8D%83%E4%B8%87%E7%B2%89%E5%8D%9A%E4%B8%BB%E5%87%BA%E8%B5%84%E4%BF%AE%E7%BC%AE-%E6%B0%91%E9%97%B4%E5%8A%9B%E9%87%8F%E6%8E%A5%E6%A3%92%E4%BD%8E%E7%BA%A7%E5%88%AB%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4",
+            "raised": 16000,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-09-03",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "长治设立全省首支地市级低级别文物保护专项基金，撬动社会参与",
+            "summary": "在山西省文物局指导下，长治市设立全省首支地市级低级别文物保护专项基金，专款用于低级别文物抢险、日常养护与活化；通过项目资助、以奖代补、文物认养引导公众从旁观者变守护者，构建全民参与格局。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E9%95%BF%E6%B2%BB%E8%AE%BE%E7%AB%8B%E5%85%A8%E7%9C%81%E9%A6%96%E6%94%AF%E5%9C%B0%E5%B8%82%E7%BA%A7%E4%BD%8E%E7%BA%A7%E5%88%AB%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E4%B8%93%E9%A1%B9%E5%9F%BA%E9%87%91-%E6%92%AC%E5%8A%A8%E7%A4%BE%E4%BC%9A%E5%8F%82%E4%B8%8E",
+            "raised": 49000,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-09-06",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "印度卡纳塔克邦拟设文化遗产基金会，统合 CSR\/NRI\/公众参与约 10 万处古迹保护",
+            "summary": "卡纳塔克邦旅游部拟设 Karnataka Heritage and Cultural Foundation(KHCF)，将政府、私营部门与公众连接起来，借 CSR 资金、NRI 与公众捐款保护约 10 万处古迹与考古遗址，并发展可持续文旅。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8D%B0%E5%BA%A6%E5%8D%A1%E7%BA%B3%E5%A1%94%E5%85%8B%E9%82%A6%E6%8B%9F%E8%AE%BE%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7%E5%9F%BA%E9%87%91%E4%BC%9A-%E7%BB%9F%E5%90%88-csr-nri-%E5%85%AC%E4%BC%97%E5%8F%82%E4%B8%8E%E7%BA%A6-10-%E4%B8%87%E5%A4%84%E5%8F%A4%E8%BF%B9%E4%BF%9D%E6%8A%A4",
+            "raised": 1900,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "嘉定「文化众筹」入选国家级典型案例：累计 2070 个项目、撬动社会资金超 700 万元",
+            "summary": "嘉定「文化众筹」入选四部门第二批公共文化服务高质量发展典型案例。平台 2017 年上线，累计发起 2070 个公共文化项目、举办 1594 场、成功率约 77%、市民参与支持 2.5 万份，撬动社会资金超 700 万元。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%98%89%E5%AE%9A-%E6%96%87%E5%8C%96%E4%BC%97%E7%AD%B9-%E5%85%A5%E9%80%89%E5%9B%BD%E5%AE%B6%E7%BA%A7%E5%85%B8%E5%9E%8B%E6%A1%88%E4%BE%8B-%E7%B4%AF%E8%AE%A1-2070-%E4%B8%AA%E9%A1%B9%E7%9B%AE-%E6%92%AC%E5%8A%A8%E7%A4%BE%E4%BC%9A%E8%B5%84%E9%87%91%E8%B6%85-700-%E4%B8%87%E5%85%83",
+            "raised": 75000,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-08-27",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "揭阳「古树认捐·绿美有我」全省募捐倡议启动",
+            "summary": "绿美广东生态建设工作领导小组办公室等联合发起「古树认捐·绿美有我」全省募捐，揭阳市号召社会各界认捐古树（冠名\/共同认捐\/按等级），款项专项用于古树养护与县镇村绿化，通过绿美广东公共服务平台统一开展并定期公开。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%8F%AD%E9%98%B3-%E5%8F%A4%E6%A0%91%E8%AE%A4%E6%8D%90-%E7%BB%BF%E7%BE%8E%E6%9C%89%E6%88%91-%E5%85%A8%E7%9C%81%E5%8B%9F%E6%8D%90%E5%80%A1%E8%AE%AE%E5%90%AF%E5%8A%A8",
+            "raised": 42000,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-08-31",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "腾讯 SSV × 久久公益节 文博「好事角」文物守护（眉县\/吴文化\/大鹏所城）",
+            "summary": "腾讯 SSV 数字文化实验室携手腾讯公益，在久久公益节于眉县博物馆、吴文化博物馆、深圳大鹏所城设「1㎡好事角」，游客扫码进入探元小程序，以拍文物照片\/乡音讲文物\/捐步数三种方式参与文脉守护，完成可获电子小红花及限量周边。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%85%BE%E8%AE%AF-ssv-%E4%B9%85%E4%B9%85%E5%85%AC%E7%9B%8A%E8%8A%82-%E6%96%87%E5%8D%9A-%E5%A5%BD%E4%BA%8B%E8%A7%92-%E6%96%87%E7%89%A9%E5%AE%88%E6%8A%A4-%E7%9C%89%E5%8E%BF-%E5%90%B4%E6%96%87%E5%8C%96-%E5%A4%A7%E9%B9%8F%E6%89%80%E5%9F%8E",
+            "raised": 8000,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-09-04",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "2026 法国遗产彩票（Mission Patrimoine）遴选 100 处濒危遗址修复",
+            "summary": "由 Stéphane Bern 与 Fondation du Patrimoine 主导的 Mission Patrimoine 2026 遴选全法 100 处濒危遗产，其中 PACA 大区 6 处含索佩尔的圣米歇尔主教座堂与瓦尔省 Vins-sur-Caramy 古桥；资金来自专项彩票与刮刮乐，9\/7–9\/21 开奖，自 2018 年已支持 1080+ 处遗址。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/2026-%E6%B3%95%E5%9B%BD%E9%81%97%E4%BA%A7%E5%BD%A9%E7%A5%A8-mission-patrimoine-%E9%81%B4%E9%80%89-100-%E5%A4%84%E6%BF%92%E5%8D%B1%E9%81%97%E5%9D%80%E4%BF%AE%E5%A4%8D",
+            "raised": 6600,
             "goal": 10000,
             "currency": "eur",
             "tiers": "[10,25,50,100]",
-            "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "latest": "2026-09-05",
+            "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
-            "title": "国家文物局印发《国家文物事业发展\"十五五\"规划》",
-            "summary": "《国家文物事业发展\"十五五\"规划》印发：未定级不可移动文物\"三有\"（标志说明\/记录档案\/管理责任人）完成率 2025 年 40%→2030 年 100%；省级以上文保单位遥感执法监测覆盖率 40%→100%；实施\"中小博物馆提升计划\"\"中国营造\"重点计划，推动文物活起来+社会参与。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E5%9B%BD%E5%AE%B6%E6%96%87%E7%89%A9%E5%B1%80%E5%8D%B0%E5%8F%91-%E5%9B%BD%E5%AE%B6%E6%96%87%E7%89%A9%E4%BA%8B%E4%B8%9A%E5%8F%91%E5%B1%95-%E5%8D%81%E4%BA%94%E4%BA%94-%E8%A7%84%E5%88%92",
-            "raised": 15000,
+            "title": "宜昌市助力革命老区振兴·抢救革命遗址修缮保护公开募捐",
+            "summary": "宜昌市老促会等六部门联合开展革命遗址抢救性保护公开募捐，集中募捐期 2027-01 至 06，依法自愿、不搞摊派；通过银行转账（市老促会账户）与线上捐款二维码接收，用于遗址修缮、展陈提升与活化利用，助力革命老区振兴。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%AE%9C%E6%98%8C%E5%B8%82%E5%8A%A9%E5%8A%9B%E9%9D%A9%E5%91%BD%E8%80%81%E5%8C%BA%E6%8C%AF%E5%85%B4-%E6%8A%A2%E6%95%91%E9%9D%A9%E5%91%BD%E9%81%97%E5%9D%80%E4%BF%AE%E7%BC%AE%E4%BF%9D%E6%8A%A4%E5%85%AC%E5%BC%80%E5%8B%9F%E6%8D%90",
+            "raised": 93000,
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "latest": "2025-07-10",
+            "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
-            "title": "《天津市长城保护条例》今起实施，京津冀长城法规闭环",
-            "summary": "《天津市长城保护条例》2026-09-01 起实施，标志京津冀三地长城保护法规闭环衔接，为全国跨省域线性文化遗产协同治理提供法治样本；明确禁止行为清单+未开放点段警示标志，鼓励大数据\/AI 沉浸式体验与文创开发，推动文商旅农体融合。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E5%A4%A9%E6%B4%A5%E5%B8%82%E9%95%BF%E5%9F%8E%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B-%E4%BB%8A%E8%B5%B7%E5%AE%9E%E6%96%BD-%E4%BA%AC%E6%B4%A5%E5%86%80%E9%95%BF%E5%9F%8E%E6%B3%95%E8%A7%84%E9%97%AD%E7%8E%AF",
-            "raised": 76000,
+            "title": "纽约中央公园方尖碑基金会发起 $5M 长期维护募捐",
+            "summary": "新成立的非营利 Central Park Obelisk Foundation 为中央公园 3,500 年历史埃及方尖碑“克利奥帕特拉之针”发起 $5M 长期维护募捐（18 个月），首期修复约 $2M（激光清洗、稳固裂隙、防护涂层），配套社区教育与线上导览，预计 2026 年底启动。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BA%BD%E7%BA%A6%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9B%AD%E6%96%B9%E5%B0%96%E7%A2%91%E5%9F%BA%E9%87%91%E4%BC%9A%E5%8F%91%E8%B5%B7-5m-%E9%95%BF%E6%9C%9F%E7%BB%B4%E6%8A%A4%E5%8B%9F%E6%8D%90",
+            "raised": 2850000,
+            "goal": 5000000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-08-01",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "研究揭示泰米尔纳德邦寺庙铭文如何指引遗产保护",
+            "summary": "The Hindu 文章梳理泰米尔纳德邦寺庙古铭文对遗产保护实践的启示，反映文化遗产保护中“记录—研究—公众教育”的公益叙事路径。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%A0%94%E7%A9%B6%E6%8F%AD%E7%A4%BA%E6%B3%B0%E7%B1%B3%E5%B0%94%E7%BA%B3%E5%BE%B7%E9%82%A6%E5%AF%BA%E5%BA%99%E9%93%AD%E6%96%87%E5%A6%82%E4%BD%95%E6%8C%87%E5%BC%95%E9%81%97%E4%BA%A7%E4%BF%9D%E6%8A%A4",
+            "raised": 4900,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "山东“繁星计划”数字文博公益：127 家博物馆、50 万+ 公益红花值",
+            "summary": "山东“繁星计划”以数字文博形式联动 127 家博物馆，公众通过公益打卡积累“红花值”参与文化遗产保护，已汇聚 50 万+ 公益红花值。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%B1%B1%E4%B8%9C-%E7%B9%81%E6%98%9F%E8%AE%A1%E5%88%92-%E6%95%B0%E5%AD%97%E6%96%87%E5%8D%9A%E5%85%AC%E7%9B%8A-127-%E5%AE%B6%E5%8D%9A%E7%89%A9%E9%A6%86-50-%E4%B8%87-%E5%85%AC%E7%9B%8A%E7%BA%A2%E8%8A%B1%E5%80%BC",
+            "raised": 19000,
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "latest": "2026-09-03",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "法国 2026“遗产使命”彩票选定 100 处濒危遗产修复点（9 月开售）",
+            "summary": "法国第九版“遗产使命”（Mission Patrimoine）彩票选定全国 100 处濒危遗产修复点，9 月通过专属即开票与超级乐透筹款，由 Stéphane Bern 与遗产基金会推动，累计已资助 1080+ 处遗产。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%B3%95%E5%9B%BD-2026-%E9%81%97%E4%BA%A7%E4%BD%BF%E5%91%BD-%E5%BD%A9%E7%A5%A8%E9%80%89%E5%AE%9A-100-%E5%A4%84%E6%BF%92%E5%8D%B1%E9%81%97%E4%BA%A7%E4%BF%AE%E5%A4%8D%E7%82%B9-9-%E6%9C%88%E5%BC%80%E5%94%AE",
+            "raised": 7500,
+            "goal": 10000,
+            "currency": "eur",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-09-03",
+            "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
             "title": "卡纳塔克邦拟设 Karnataka Heritage and Cultural Foundation（“收养”筹资保护遗产）",
             "summary": "印度卡纳塔克邦提议成立 Karnataka Heritage and Cultural Foundation，通过“收养”模式让企业\/个人认养文保单位并筹资维护，标志地方政府将社会众筹机制纳入遗产保护常态化。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E5%8D%A1%E7%BA%B3%E5%A1%94%E5%85%8B%E9%82%A6%E6%8B%9F%E8%AE%BE-karnataka-heritage-and-cultural-foundation-%E6%94%B6%E5%85%BB-%E7%AD%B9%E8%B5%84%E4%BF%9D%E6%8A%A4%E9%81%97%E4%BA%A7",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8D%A1%E7%BA%B3%E5%A1%94%E5%85%8B%E9%82%A6%E6%8B%9F%E8%AE%BE-karnataka-heritage-and-cultural-foundation-%E6%94%B6%E5%85%BB-%E7%AD%B9%E8%B5%84%E4%BF%9D%E6%8A%A4%E9%81%97%E4%BA%A7",
             "raised": 8500,
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
             "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
             "title": "腾讯“繁星守护·守艺景德”景德镇数字文博公益",
             "summary": "腾讯推出“繁星守护·守艺景德”数字文博项目，以数字化手段呈现景德镇陶瓷非遗与匠人技艺，并配套公益捐赠通道，探索“数字文博 + 众筹守护”的文旅遗产保护新模式。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E8%85%BE%E8%AE%AF-%E7%B9%81%E6%98%9F%E5%AE%88%E6%8A%A4-%E5%AE%88%E8%89%BA%E6%99%AF%E5%BE%B7-%E6%99%AF%E5%BE%B7%E9%95%87%E6%95%B0%E5%AD%97%E6%96%87%E5%8D%9A%E5%85%AC%E7%9B%8A",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%85%BE%E8%AE%AF-%E7%B9%81%E6%98%9F%E5%AE%88%E6%8A%A4-%E5%AE%88%E8%89%BA%E6%99%AF%E5%BE%B7-%E6%99%AF%E5%BE%B7%E9%95%87%E6%95%B0%E5%AD%97%E6%96%87%E5%8D%9A%E5%85%AC%E7%9B%8A",
             "raised": 47000,
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "latest": "2026-09-02",
+            "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
             "title": "《The Table of Gods》美索不达米亚古食谱 Kickstarter 众筹达 $2.03M",
             "summary": "基于楔形文字泥板还原美索不达米亚食谱的众筹出版项目《The Table of Gods》在 Kickstarter 募得 $2.03M+，成为文化遗产\/学术大众化众筹的现象级案例，远超初始目标。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/the-table-of-gods-%E7%BE%8E%E7%B4%A2%E4%B8%8D%E8%BE%BE%E7%B1%B3%E4%BA%9A%E5%8F%A4%E9%A3%9F%E8%B0%B1-kickstarter-%E4%BC%97%E7%AD%B9%E8%BE%BE-2-03m",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/the-table-of-gods-%E7%BE%8E%E7%B4%A2%E4%B8%8D%E8%BE%BE%E7%B1%B3%E4%BA%9A%E5%8F%A4%E9%A3%9F%E8%B0%B1-kickstarter-%E4%BC%97%E7%AD%B9%E8%BE%BE-2-03m",
             "raised": 1700,
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "latest": "2026-09-02",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "法国香波堡 Chambord 启动 €37M 修缮全球众筹（\"Chambord needs you\"）",
+            "summary": "法国第二大城堡 Chambord（UNESCO，1519 年建，426 房间）因气候变化致地基受损、François I 翼面临坍塌，发起 \"Chambord needs you \/ Become a Guardian Angel\" 全球公众参与修缮众筹；2026 财政法提供最高 75% 税收抵扣，分三阶段至 2032 年重开。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%B3%95%E5%9B%BD%E9%A6%99%E6%B3%A2%E5%A0%A1-chambord-%E5%90%AF%E5%8A%A8-37m-%E4%BF%AE%E7%BC%AE%E5%85%A8%E7%90%83%E4%BC%97%E7%AD%B9-chambord-needs-you",
+            "raised": 9200,
+            "goal": 10000,
+            "currency": "eur",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-07-10",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "国家文物局印发《国家文物事业发展\"十五五\"规划》",
+            "summary": "《国家文物事业发展\"十五五\"规划》印发：未定级不可移动文物\"三有\"（标志说明\/记录档案\/管理责任人）完成率 2025 年 40%→2030 年 100%；省级以上文保单位遥感执法监测覆盖率 40%→100%；实施\"中小博物馆提升计划\"\"中国营造\"重点计划，推动文物活起来+社会参与。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%9B%BD%E5%AE%B6%E6%96%87%E7%89%A9%E5%B1%80%E5%8D%B0%E5%8F%91-%E5%9B%BD%E5%AE%B6%E6%96%87%E7%89%A9%E4%BA%8B%E4%B8%9A%E5%8F%91%E5%B1%95-%E5%8D%81%E4%BA%94%E4%BA%94-%E8%A7%84%E5%88%92",
+            "raised": 15000,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-09-01",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "《天津市长城保护条例》今起实施，京津冀长城法规闭环",
+            "summary": "《天津市长城保护条例》2026-09-01 起实施，标志京津冀三地长城保护法规闭环衔接，为全国跨省域线性文化遗产协同治理提供法治样本；明确禁止行为清单+未开放点段警示标志，鼓励大数据\/AI 沉浸式体验与文创开发，推动文商旅农体融合。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%A4%A9%E6%B4%A5%E5%B8%82%E9%95%BF%E5%9F%8E%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B-%E4%BB%8A%E8%B5%B7%E5%AE%9E%E6%96%BD-%E4%BA%AC%E6%B4%A5%E5%86%80%E9%95%BF%E5%9F%8E%E6%B3%95%E8%A7%84%E9%97%AD%E7%8E%AF",
+            "raised": 76000,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-09-01",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "B站×中国文物局“千年微笑守护计划”支持三峡26件文物修复（弹幕变电力）",
+            "summary": "中国文物保护基金会联合 Bilibili 公益启动“千年爱心守护计划”，观众在节目通过弹幕表达即化为“电力值”，累计达 23,333,333 即全部转化为公益基金，专项修复重庆中国三峡博物馆 26 件带有“微笑”特征的出土文物（最小干预原则）。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/b%E7%AB%99-%E4%B8%AD%E5%9B%BD%E6%96%87%E7%89%A9%E5%B1%80-%E5%8D%83%E5%B9%B4%E5%BE%AE%E7%AC%91%E5%AE%88%E6%8A%A4%E8%AE%A1%E5%88%92-%E6%94%AF%E6%8C%81%E4%B8%89%E5%B3%A126%E4%BB%B6%E6%96%87%E7%89%A9%E4%BF%AE%E5%A4%8D-%E5%BC%B9%E5%B9%95%E5%8F%98%E7%94%B5%E5%8A%9B",
+            "raised": 2333333.3,
+            "goal": 23333333,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-08-31",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "登封市文物保护慈善基金募捐项目（一处文保单位，嵩山地区）",
+            "summary": "登封市是全国重点文物保护最多的县级市，市慈善总会联合文物中心成立文物保护慈善基金，专项开展文物保护、古树古柏保护、公共文化和文物保护志愿者等。项目一期截至2026-07已募¥4200余元；另嵩阳书院古树名木保护项目已筹近 ¥93,709。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%99%BB%E5%B0%81%E5%B8%82%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E6%85%88%E5%96%84%E5%9F%BA%E9%87%91%E5%8B%9F%E6%8D%90%E9%A1%B9%E7%9B%AE-%E4%B8%80%E5%A4%84%E6%96%87%E4%BF%9D%E5%8D%95%E4%BD%8D-%E5%B5%A9%E5%B1%B1%E5%9C%B0%E5%8C%BA",
+            "raised": 68000,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-08-31",
+            "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
             "title": "CAMPFIRE × Satofull 推出奈良文化遗产众筹（家乡税+众筹）",
             "summary": "日本最大众筹平台之一 CAMPFIRE 联合家乡税门户 Satofull 启动奈良文化遗产支持项目，通过专属页接受捐赠并补充地方政府预算，捐赠可享所得税减免与地方税扣除；分多期渐进释放。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/campfire-satofull-%E6%8E%A8%E5%87%BA%E5%A5%88%E8%89%AF%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7%E4%BC%97%E7%AD%B9-%E5%AE%B6%E4%B9%A1%E7%A8%8E-%E4%BC%97%E7%AD%B9",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/campfire-satofull-%E6%8E%A8%E5%87%BA%E5%A5%88%E8%89%AF%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7%E4%BC%97%E7%AD%B9-%E5%AE%B6%E4%B9%A1%E7%A8%8E-%E4%BC%97%E7%AD%B9",
             "raised": 6600,
             "goal": 10000,
             "currency": "jpy",
             "tiers": "[1000,3000,5000,10000]",
-            "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "latest": "2026-08-31",
+            "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
             "title": "辽宁慈善总会“天辽地宁文脉传承”文物保护专项基金（一地一码一基金）",
             "summary": "辽宁慈善联合总会推出品牌文保项目，按重点文保区域设专属基金并配独立募捐二维码，线上线下同步募捐、专款专用，已建成奉国寺等 11 处募捐阵地，有效补充基层文保资金。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E8%BE%BD%E5%AE%81%E6%85%88%E5%96%84%E6%80%BB%E4%BC%9A-%E5%A4%A9%E8%BE%BD%E5%9C%B0%E5%AE%81%E6%96%87%E8%84%89%E4%BC%A0%E6%89%BF-%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E4%B8%93%E9%A1%B9%E5%9F%BA%E9%87%91-%E4%B8%80%E5%9C%B0%E4%B8%80%E7%A0%81%E4%B8%80%E5%9F%BA%E9%87%91",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%BE%BD%E5%AE%81%E6%85%88%E5%96%84%E6%80%BB%E4%BC%9A-%E5%A4%A9%E8%BE%BD%E5%9C%B0%E5%AE%81%E6%96%87%E8%84%89%E4%BC%A0%E6%89%BF-%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E4%B8%93%E9%A1%B9%E5%9F%BA%E9%87%91-%E4%B8%80%E5%9C%B0%E4%B8%80%E7%A0%81%E4%B8%80%E5%9F%BA%E9%87%91",
             "raised": 32000,
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "latest": "2026-08-31",
+            "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
             "title": "Loveitaly — 专注意大利文化遗产保护的垂直平台（几乎无直接竞争者）",
             "summary": "Loveitaly 是聚焦意大利艺术与文化遗产保护的非营利平台，与意大利部委、博物馆、高校建立机构合作网络，会员档 €25–€200；被评“最佳且几乎唯一”的意大利遗产众筹平台，印证垂直细分存在空白位。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/loveitaly-%E4%B8%93%E6%B3%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7%E4%BF%9D%E6%8A%A4%E7%9A%84%E5%9E%82%E7%9B%B4%E5%B9%B3%E5%8F%B0-%E5%87%A0%E4%B9%8E%E6%97%A0%E7%9B%B4%E6%8E%A5%E7%AB%9E%E4%BA%89%E8%80%85",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/loveitaly-%E4%B8%93%E6%B3%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7%E4%BF%9D%E6%8A%A4%E7%9A%84%E5%9E%82%E7%9B%B4%E5%B9%B3%E5%8F%B0-%E5%87%A0%E4%B9%8E%E6%97%A0%E7%9B%B4%E6%8E%A5%E7%AB%9E%E4%BA%89%E8%80%85",
             "raised": 9500,
             "goal": 10000,
             "currency": "eur",
             "tiers": "[10,25,50,100]",
-            "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "latest": "2026-08-31",
+            "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
             "title": "Elberta Heritage Center 众筹（Patronicity + MEDC 配捐）",
             "summary": "Elberta Labor Heritage Center 通过密歇根州众筹平台 Patronicity 募资改造旧商号建筑为社区遗产中心；MEDC 的 Public Spaces Community Places 计划提供最高 $50k 配捐，该计划至今已配捐 $14.7M+、424 个项目达标。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/elberta-heritage-center-%E4%BC%97%E7%AD%B9-patronicity-medc-%E9%85%8D%E6%8D%90",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/elberta-heritage-center-%E4%BC%97%E7%AD%B9-patronicity-medc-%E9%85%8D%E6%8D%90",
             "raised": 8260,
             "goal": 14000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "latest": "2026-08-31",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "中国政协提议建全国统一“文化遗产社会参与数字平台”",
+            "summary": "政协委员建议建设全国统一文化遗产社会参与数字平台，整合信息发布、资金捐赠、项目对接、成果展示与监督，吸纳企业捐赠与公益基金、社会众筹等社会资本投入低级别文保与非遗记录。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%8D%8F%E6%8F%90%E8%AE%AE%E5%BB%BA%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80-%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7%E7%A4%BE%E4%BC%9A%E5%8F%82%E4%B8%8E%E6%95%B0%E5%AD%97%E5%B9%B3%E5%8F%B0",
+            "raised": 22000,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-08-31",
+            "paypal": "https:\/\/paypal.me\/temuseller"
         }
     ],
-    "base": "https:\/\/fund.yaolaoye.cn"
+    "base": "http:\/\/127.0.0.1:8899"
 }
