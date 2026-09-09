@@ -2,195 +2,327 @@
     "name": "灾害人道援助专区",
     "brand": "灾害人道援助",
     "primary": "#b91c1c",
-    "footer": "Powered by 透明捐助 · 灾害人道援助专区",
+    "footer": "Powered by 透明捐助 · 灾害人道专区",
     "items": [
         {
-            "title": "钦州台风“美莎克”灾后重建募捐倡议（慈善联合总会）",
-            "summary": "受2026年第10号台风“美莎克”狂风暴雨叠加影响，钦州受灾严重；市慈善联合总会全城发起募捐，承诺依《慈善法》将善款全部用于灾后重建，全程公开公示，支持银行转账＋扫码并备注赈灾。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E9%92%A6%E5%B7%9E%E5%8F%B0%E9%A3%8E-%E7%BE%8E%E8%8E%8E%E5%85%8B-%E7%81%BE%E5%90%8E%E9%87%8D%E5%BB%BA%E5%8B%9F%E6%8D%90%E5%80%A1%E8%AE%AE-%E6%85%88%E5%96%84%E8%81%94%E5%90%88%E6%80%BB%E4%BC%9A",
-            "raised": 23000,
+            "title": "广州市民政局动员社会组织驰援西藏吉隆泥石流灾区",
+            "summary": "针对西藏日喀则吉隆县泥石流灾害，广州市民政局发出倡议动员全市社会组织参与救援及灾后重建。广州市慈善会已备案“穗善有爱 驰援西藏吉隆”公开募捐（编号5144010051736101XNA26019，2026-08-28至09-30），支持线上（广益联募\/微信小程序）、银行汇款与现场三种捐赠方式。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%B9%BF%E5%B7%9E%E5%B8%82%E6%B0%91%E6%94%BF%E5%B1%80%E5%8A%A8%E5%91%98%E7%A4%BE%E4%BC%9A%E7%BB%84%E7%BB%87%E9%A9%B0%E6%8F%B4%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%8C%BA",
+            "raised": 0,
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
             "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "paypal": ""
         },
         {
-            "title": "广东五华县台风“红霞”灾后重建募捐倡议（慈善会）",
-            "summary": "受第12号台风“红霞”强降雨影响，五华县发生严重洪涝，房屋进水、道路损毁、农田受淹；五华县慈善会向社会发出募捐倡议，所有款物专款专用用于受灾群众灾后重建，公开透明接受监督。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E5%B9%BF%E4%B8%9C%E4%BA%94%E5%8D%8E%E5%8E%BF%E5%8F%B0%E9%A3%8E-%E7%BA%A2%E9%9C%9E-%E7%81%BE%E5%90%8E%E9%87%8D%E5%BB%BA%E5%8B%9F%E6%8D%90%E5%80%A1%E8%AE%AE-%E6%85%88%E5%96%84%E4%BC%9A",
-            "raised": 87000,
+            "title": "广西崇左台风“紫檀”救灾重建公开募捐进展公告（第三期）",
+            "summary": "第19号台风“紫檀”致崇左七县市区不同程度受灾。崇左市慈善总会第三期公告：截至2026-09-07 16时累计募得善款¥1,395,414.2、物资折价¥227,614.8，已拨付133万元用于宁明\/凭祥\/龙州\/扶绥\/江州区受灾群众生活救助，剩余款项按捐赠意愿分批精准拨付。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%B9%BF%E8%A5%BF%E5%B4%87%E5%B7%A6%E5%8F%B0%E9%A3%8E-%E7%B4%AB%E6%AA%80-%E6%95%91%E7%81%BE%E9%87%8D%E5%BB%BA%E5%85%AC%E5%BC%80%E5%8B%9F%E6%8D%90%E8%BF%9B%E5%B1%95%E5%85%AC%E5%91%8A-%E7%AC%AC%E4%B8%89%E6%9C%9F",
+            "raised": 0,
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
             "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "paypal": ""
         },
         {
-            "title": "金秀县红十字会“美莎克”善款分配与拨付公示（第一期）",
-            "summary": "金秀县红十字会就抗击台风“美莎克”公开募捐第一申款分配拨付公告：截至7\/30募得¥7.9万，8\/17已按分配方案全额拨付横州红十字会¥48,830.60、贵港市红十字会¥30,250，强调依法规范、全程公示。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E9%87%91%E7%A7%80%E5%8E%BF%E7%BA%A2%E5%8D%81%E5%AD%97%E4%BC%9A-%E7%BE%8E%E8%8E%8E%E5%85%8B-%E5%96%84%E6%AC%BE%E5%88%86%E9%85%8D%E4%B8%8E%E6%8B%A8%E4%BB%98%E5%85%AC%E7%A4%BA-%E7%AC%AC%E4%B8%80%E6%9C%9F",
-            "raised": 49000,
-            "goal": 100000,
-            "currency": "cny",
-            "tiers": "[20,50,100,200,500]",
-            "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
-        },
-        {
-            "title": "中国红十字基金会“美莎克”应急物资连夜送抵广西\/湖北",
-            "summary": "中国红十字基金会 7\/6 启动防洪应急响应，截至 7\/10 接收社会资金 ¥1881.74万（东鹏1000万、上汽五菱基金200万、腾讯备灾计划35万、滴滴27万等）；多批赈济家庭箱、伊利奶粉、毛毯、冲锋衣运抵广西钦州\/南宁\/贵港并开展应急供餐，湖北黄冈获1500袋米+1200条毛毯。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E4%B8%AD%E5%9B%BD%E7%BA%A2%E5%8D%81%E5%AD%97%E5%9F%BA%E9%87%91%E4%BC%9A-%E7%BE%8E%E8%8E%8E%E5%85%8B-%E5%BA%94%E6%80%A5%E7%89%A9%E8%B5%84%E8%BF%9E%E5%A4%9C%E9%80%81%E6%8A%B5%E5%B9%BF%E8%A5%BF-%E6%B9%96%E5%8C%97",
-            "raised": 19000,
-            "goal": 100000,
-            "currency": "cny",
-            "tiers": "[20,50,100,200,500]",
-            "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
-        },
-        {
-            "title": "IOM × Instituto Vakinha 巴西实时灾害响应众筹模型（首个纳入 IOM 救灾体系）",
-            "summary": "国际移民组织 IOM 与巴西最大众筹平台 Instituto Vakinha 推出实时灾害响应资金模型，首次将众筹平台正式纳入 IOM 救灾体系——灾害后数小时内即可发起 campaign，捐款直投 IOM 在巴西人道行动；基于 2026-02 米纳斯吉拉斯州暴雨（3500+ 人流离失所）实测，可复制至他国。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/iom-instituto-vakinha-%E5%B7%B4%E8%A5%BF%E5%AE%9E%E6%97%B6%E7%81%BE%E5%AE%B3%E5%93%8D%E5%BA%94%E4%BC%97%E7%AD%B9%E6%A8%A1%E5%9E%8B-%E9%A6%96%E4%B8%AA%E7%BA%B3%E5%85%A5-iom-%E6%95%91%E7%81%BE%E4%BD%93%E7%B3%BB",
-            "raised": 5600,
+            "title": "新加坡红十字会尼泊尔洪灾募款超S$300万，追加S$17万援助",
+            "summary": "针对尼泊尔8·26洪灾，新加坡红十字会(SRC)追加S$170,000（约US$134,000）人道援助，累计承诺达S$220,000，用于2,500户应急食品与183台净水器。公众募款自启动以来已超S$300万，募款期开放至11月30日；新加坡政府另提供US$100,000种子资金。灾害已致尼泊尔至少1,252人遇难。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%BA%A2%E5%8D%81%E5%AD%97%E4%BC%9A%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B4%AA%E7%81%BE%E5%8B%9F%E6%AC%BE%E8%B6%85s-300%E4%B8%87-%E8%BF%BD%E5%8A%A0s-17%E4%B8%87%E6%8F%B4%E5%8A%A9",
+            "raised": 0,
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
             "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "paypal": ""
         },
         {
-            "title": "天津\"津沽有爱 驰援吉隆\"公募，首批 70 万拨付灾区",
-            "summary": "天津各界响应西藏吉隆泥石流，市慈善协会发起\"津沽有爱 驰援吉隆\"公募，截至 9\/1 累计接收捐款 76 万余元，首批 70 万元经西藏自治区慈善总会拨付灾区，专项用于抢险救援\/群众生活保障\/灾后重建，全程公开。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E5%A4%A9%E6%B4%A5-%E6%B4%A5%E6%B2%BD%E6%9C%89%E7%88%B1-%E9%A9%B0%E6%8F%B4%E5%90%89%E9%9A%86-%E5%85%AC%E5%8B%9F-%E9%A6%96%E6%89%B9-70-%E4%B8%87%E6%8B%A8%E4%BB%98%E7%81%BE%E5%8C%BA",
-            "raised": 11000,
+            "title": "广西崇左市台风“紫檀”救灾重建公开募捐活动进展（第二期）",
+            "summary": "受第19号台风“紫檀”影响，崇左市七县市区受灾。截至2026-09-02 17时，累计接收善款1,378,081.95元、物资折价211,397.8元；已拨付133万元用于受灾群众生活救助。项目为应急慈善项目，按《慈善法》10日内完成备案。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%B9%BF%E8%A5%BF%E5%B4%87%E5%B7%A6%E5%B8%82%E5%8F%B0%E9%A3%8E-%E7%B4%AB%E6%AA%80-%E6%95%91%E7%81%BE%E9%87%8D%E5%BB%BA%E5%85%AC%E5%BC%80%E5%8B%9F%E6%8D%90%E6%B4%BB%E5%8A%A8%E8%BF%9B%E5%B1%95-%E7%AC%AC%E4%BA%8C%E6%9C%9F",
+            "raised": 0,
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "latest": "2026-09-08",
+            "paypal": ""
         },
         {
-            "title": "腾讯公益+红基会等启动\"救灾小时达\"就近采购送达模型",
-            "summary": "腾讯公益慈善基金会联合爱德基金会、中国红十字基金会、中华思源工程基金会启动\"救灾小时达\"项目，就近采购食品\/水\/雨具\/充电宝\/发电机等安置物资运往一线；字节跳动(2000万)、小米(1000万)、美团(15,000+件+星驰行动)、滴滴等同步驰援西藏吉隆，代表\"平台就近调度+实时采购\"的新型救灾物流模型。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E8%85%BE%E8%AE%AF%E5%85%AC%E7%9B%8A-%E7%BA%A2%E5%9F%BA%E4%BC%9A%E7%AD%89%E5%90%AF%E5%8A%A8-%E6%95%91%E7%81%BE%E5%B0%8F%E6%97%B6%E8%BE%BE-%E5%B0%B1%E8%BF%91%E9%87%87%E8%B4%AD%E9%80%81%E8%BE%BE%E6%A8%A1%E5%9E%8B",
-            "raised": 69000,
+            "title": "尼泊尔突发山洪泥石流紧急求助（Amity Foundation 香港）",
+            "summary": "2026-08-26 尼泊尔 Bhote Koshi\/Trishuli 流域突发山洪泥石流，Rasuwa、Nuwakot、Dhading 等地超 1,003 人遇难、3,916 人失踪，道路桥梁损毁、通讯电力中断；香港乐施（Amity Foundation）联合当地伙伴发起紧急求助，优先食品\/饮水\/临时安置\/卫健\/心理与生计恢复。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%B0%BC%E6%B3%8A%E5%B0%94%E7%AA%81%E5%8F%91%E5%B1%B1%E6%B4%AA%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%B4%A7%E6%80%A5%E6%B1%82%E5%8A%A9-amity-foundation-%E9%A6%99%E6%B8%AF",
+            "raised": 40000,
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "latest": "2026-09-04",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "日本财团设立“尼泊尔大规模洪灾紧急救助基金”全球募捐",
+            "summary": "日本财团（The Nippon Foundation）就 2026-08-26 尼泊尔北部特大洪灾设立专项救助基金并向全球募捐，受理期 2026-08-28 至 09-10（可能调整），所募全部用于当地紧急援助，不计提行政费用。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%97%A5%E6%9C%AC%E8%B4%A2%E5%9B%A2%E8%AE%BE%E7%AB%8B-%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B4%AA%E7%81%BE%E7%B4%A7%E6%80%A5%E6%95%91%E5%8A%A9%E5%9F%BA%E9%87%91-%E5%85%A8%E7%90%83%E5%8B%9F%E6%8D%90",
+            "raised": 1100,
+            "goal": 10000,
+            "currency": "jpy",
+            "tiers": "[1000,3000,5000,10000]",
+            "latest": "2026-08-28",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "Rotary 英爱区网络推荐尼泊尔洪灾响应（ShelterBox \/ Aquabox 等）",
+            "summary": "Rotary 大不列颠与爱尔兰区就 2026-08-26 尼泊尔 Rasuwa 山洪推荐旗下响应渠道：Rotary Foundation 灾害响应基金、ShelterBox（曾在 2015 尼泊尔地震为近 6.8 万人提供紧急住所）、Aquabox（净水，可支持 1.5 万流离失所者）、Water Survival Box 及 DRT 长期重建信托。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/rotary-%E8%8B%B1%E7%88%B1%E5%8C%BA%E7%BD%91%E7%BB%9C%E6%8E%A8%E8%8D%90%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B4%AA%E7%81%BE%E5%93%8D%E5%BA%94-shelterbox-aquabox-%E7%AD%89",
+            "raised": 6900,
+            "goal": 10000,
+            "currency": "eur",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-09-04",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "云南勐腊县“8.29”洪涝灾害赈灾募捐倡议（红十字会）",
+            "summary": "受强降雨影响勐腊县 2026-08-29 受灾严重、启动洪涝三级响应；勐腊县红十字会发起紧急募捐，受理期 2026-08-30 至 09-09，接收方便食品等物资与银行转账\/微信捐款，承诺款物全部用于防汛减灾并公开接受监督。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E4%BA%91%E5%8D%97%E5%8B%90%E8%85%8A%E5%8E%BF-8-29-%E6%B4%AA%E6%B6%9D%E7%81%BE%E5%AE%B3%E8%B5%88%E7%81%BE%E5%8B%9F%E6%8D%90%E5%80%A1%E8%AE%AE-%E7%BA%A2%E5%8D%81%E5%AD%97%E4%BC%9A",
+            "raised": 30000,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-09-04",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "广州市民政局动员社会组织驰援西藏吉隆灾区（“穗善有爱”）",
+            "summary": "广州市民政局发布通知，动员全市社会组织参与西藏吉隆县泥石流灾区救援与灾后重建，广州市慈善会发起“穗善有爱 驰援西藏吉隆”公开募捐。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%B9%BF%E5%B7%9E%E5%B8%82%E6%B0%91%E6%94%BF%E5%B1%80%E5%8A%A8%E5%91%98%E7%A4%BE%E4%BC%9A%E7%BB%84%E7%BB%87%E9%A9%B0%E6%8F%B4%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E7%81%BE%E5%8C%BA-%E7%A9%97%E5%96%84%E6%9C%89%E7%88%B1",
+            "raised": 9000,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-09-02",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "日喀则市慈善总会发布接收吉隆泥石流捐赠公告",
+            "summary": "日喀则市慈善总会发布关于接收西藏吉隆县泥石流灾害社会捐赠的公告，公布捐赠渠道与物资需求，统筹灾后救援款物。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%97%A5%E5%96%80%E5%88%99%E5%B8%82%E6%85%88%E5%96%84%E6%80%BB%E4%BC%9A%E5%8F%91%E5%B8%83%E6%8E%A5%E6%94%B6%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%8D%90%E8%B5%A0%E5%85%AC%E5%91%8A",
+            "raised": 67000,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-09-01",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "马来西亚红新月会发起尼泊尔洪灾人道主义基金（939 死\/3925 失踪）",
+            "summary": "马来西亚红新月会（MRA）发起尼泊尔洪灾人道主义基金，援引灾情数据：939 人死亡、3925 人失踪、约 9.3 万人受影响，号召公众捐款支援灾民。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%BA%A2%E6%96%B0%E6%9C%88%E4%BC%9A%E5%8F%91%E8%B5%B7%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B4%AA%E7%81%BE%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E5%9F%BA%E9%87%91-939-%E6%AD%BB-3925-%E5%A4%B1%E8%B8%AA",
+            "raised": 3300,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-09-02",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "UNICEF Australia 向尼泊尔洪灾家庭交付援助物资并呼吁捐款",
+            "summary": "UNICEF Australia 宣布已向尼泊尔暴洪受灾家庭交付清洁饮水、营养与儿童保护物资，并同步发起紧急募捐，支援流离失所儿童与家庭。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/unicef-australia-%E5%90%91%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B4%AA%E7%81%BE%E5%AE%B6%E5%BA%AD%E4%BA%A4%E4%BB%98%E6%8F%B4%E5%8A%A9%E7%89%A9%E8%B5%84%E5%B9%B6%E5%91%BC%E5%90%81%E6%8D%90%E6%AC%BE",
+            "raised": 9600,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-09-04",
+            "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
             "title": "尼泊尔 Bhote Koshi 河暴洪 — 使馆发布自愿捐款倡议",
             "summary": "尼泊尔驻华使馆就 2026-08-26 Bhote Koshi 河冰川溃决暴洪发布自愿捐款倡议，向全球尼泊尔侨民与国际社会募资；与西藏吉隆灾区同属此次跨境洪灾链条。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E5%B0%BC%E6%B3%8A%E5%B0%94-bhote-koshi-%E6%B2%B3%E6%9A%B4%E6%B4%AA-%E4%BD%BF%E9%A6%86%E5%8F%91%E5%B8%83%E8%87%AA%E6%84%BF%E6%8D%90%E6%AC%BE%E5%80%A1%E8%AE%AE",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%B0%BC%E6%B3%8A%E5%B0%94-bhote-koshi-%E6%B2%B3%E6%9A%B4%E6%B4%AA-%E4%BD%BF%E9%A6%86%E5%8F%91%E5%B8%83%E8%87%AA%E6%84%BF%E6%8D%90%E6%AC%BE%E5%80%A1%E8%AE%AE",
             "raised": 4100,
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "latest": "2026-09-01",
+            "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
             "title": "Water Mission 响应尼泊尔暴洪（部署安全饮水救援队）",
             "summary": "基督教工程非营利 Water Mission 向尼泊尔-中国边境暴洪派遣 Disaster Assistance Response Team，提供应急安全饮水与水质处理；25 年响应近 90 次灾难，全球服务 800 万+ 人。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/water-mission-%E5%93%8D%E5%BA%94%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%9A%B4%E6%B4%AA-%E9%83%A8%E7%BD%B2%E5%AE%89%E5%85%A8%E9%A5%AE%E6%B0%B4%E6%95%91%E6%8F%B4%E9%98%9F",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/water-mission-%E5%93%8D%E5%BA%94%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%9A%B4%E6%B4%AA-%E9%83%A8%E7%BD%B2%E5%AE%89%E5%85%A8%E9%A5%AE%E6%B0%B4%E6%95%91%E6%8F%B4%E9%98%9F",
             "raised": 1200,
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "latest": "2026-09-04",
+            "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
             "title": "Children Change Colombia 地震救援更新（2026-09-01）",
             "summary": "Children Change Colombia 发布地震受害者紧急响应更新，协调在地伙伴开展儿童庇护、心理支持与物资发放，并面向国际募捐；聚焦受灾儿童这一最脆弱群体。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/children-change-colombia-%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E6%9B%B4%E6%96%B0-2026-09-01",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/children-change-colombia-%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4%E6%9B%B4%E6%96%B0-2026-09-01",
             "raised": 6500,
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "latest": "2026-09-01",
+            "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
             "title": "尼泊尔-中国边境洪灾死亡超 1000 人，Rochester 团体发起募捐",
             "summary": "尼泊尔-中国边境暴洪死亡人数超 1000，美国 Rochester 的尼泊尔侨胞社区组织线下募捐与物资募集，体现 diaspora（侨民）网络在跨境灾难中的资金桥梁作用。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E5%B0%BC%E6%B3%8A%E5%B0%94-%E4%B8%AD%E5%9B%BD%E8%BE%B9%E5%A2%83%E6%B4%AA%E7%81%BE%E6%AD%BB%E4%BA%A1%E8%B6%85-1000-%E4%BA%BA-rochester-%E5%9B%A2%E4%BD%93%E5%8F%91%E8%B5%B7%E5%8B%9F%E6%8D%90",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%B0%BC%E6%B3%8A%E5%B0%94-%E4%B8%AD%E5%9B%BD%E8%BE%B9%E5%A2%83%E6%B4%AA%E7%81%BE%E6%AD%BB%E4%BA%A1%E8%B6%85-1000-%E4%BA%BA-rochester-%E5%9B%A2%E4%BD%93%E5%8F%91%E8%B5%B7%E5%8B%9F%E6%8D%90",
             "raised": 31000,
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
             "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
             "title": "西藏吉隆灾区截至 2026-09-01 15:00 累计接收 637.15 万元",
             "summary": "据最新汇总，西藏吉隆县泥石流\/边境洪灾接收社会捐款累计 ¥637.15 万元（截至 9 月 1 日 15:00），持续用于抢险救援、过渡安置与灾后重建；多源持续跟踪灾区善款进度。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E7%81%BE%E5%8C%BA%E6%88%AA%E8%87%B3-2026-09-01-15-00-%E7%B4%AF%E8%AE%A1%E6%8E%A5%E6%94%B6-637-15-%E4%B8%87%E5%85%83",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E7%81%BE%E5%8C%BA%E6%88%AA%E8%87%B3-2026-09-01-15-00-%E7%B4%AF%E8%AE%A1%E6%8E%A5%E6%94%B6-637-15-%E4%B8%87%E5%85%83",
             "raised": 94000,
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "latest": "2026-09-01",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "IOM × Instituto Vakinha 巴西实时灾害响应众筹模型（首个纳入 IOM 救灾体系）",
+            "summary": "国际移民组织 IOM 与巴西最大众筹平台 Instituto Vakinha 推出实时灾害响应资金模型，首次将众筹平台正式纳入 IOM 救灾体系——灾害后数小时内即可发起 campaign，捐款直投 IOM 在巴西人道行动；基于 2026-02 米纳斯吉拉斯州暴雨（3500+ 人流离失所）实测，可复制至他国。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/iom-instituto-vakinha-%E5%B7%B4%E8%A5%BF%E5%AE%9E%E6%97%B6%E7%81%BE%E5%AE%B3%E5%93%8D%E5%BA%94%E4%BC%97%E7%AD%B9%E6%A8%A1%E5%9E%8B-%E9%A6%96%E4%B8%AA%E7%BA%B3%E5%85%A5-iom-%E6%95%91%E7%81%BE%E4%BD%93%E7%B3%BB",
+            "raised": 5600,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-05-13",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "天津\"津沽有爱 驰援吉隆\"公募，首批 70 万拨付灾区",
+            "summary": "天津各界响应西藏吉隆泥石流，市慈善协会发起\"津沽有爱 驰援吉隆\"公募，截至 9\/1 累计接收捐款 76 万余元，首批 70 万元经西藏自治区慈善总会拨付灾区，专项用于抢险救援\/群众生活保障\/灾后重建，全程公开。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%A4%A9%E6%B4%A5-%E6%B4%A5%E6%B2%BD%E6%9C%89%E7%88%B1-%E9%A9%B0%E6%8F%B4%E5%90%89%E9%9A%86-%E5%85%AC%E5%8B%9F-%E9%A6%96%E6%89%B9-70-%E4%B8%87%E6%8B%A8%E4%BB%98%E7%81%BE%E5%8C%BA",
+            "raised": 11000,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-09-08",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "腾讯公益+红基会等启动\"救灾小时达\"就近采购送达模型",
+            "summary": "腾讯公益慈善基金会联合爱德基金会、中国红十字基金会、中华思源工程基金会启动\"救灾小时达\"项目，就近采购食品\/水\/雨具\/充电宝\/发电机等安置物资运往一线；字节跳动(2000万)、小米(1000万)、美团(15,000+件+星驰行动)、滴滴等同步驰援西藏吉隆，代表\"平台就近调度+实时采购\"的新型救灾物流模型。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%85%BE%E8%AE%AF%E5%85%AC%E7%9B%8A-%E7%BA%A2%E5%9F%BA%E4%BC%9A%E7%AD%89%E5%90%AF%E5%8A%A8-%E6%95%91%E7%81%BE%E5%B0%8F%E6%97%B6%E8%BE%BE-%E5%B0%B1%E8%BF%91%E9%87%87%E8%B4%AD%E9%80%81%E8%BE%BE%E6%A8%A1%E5%9E%8B",
+            "raised": 69000,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-09-08",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "钦州台风“美莎克”灾后重建募捐倡议（慈善联合总会）",
+            "summary": "受2026年第10号台风“美莎克”狂风暴雨叠加影响，钦州受灾严重；市慈善联合总会全城发起募捐，承诺依《慈善法》将善款全部用于灾后重建，全程公开公示，支持银行转账＋扫码并备注赈灾。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E9%92%A6%E5%B7%9E%E5%8F%B0%E9%A3%8E-%E7%BE%8E%E8%8E%8E%E5%85%8B-%E7%81%BE%E5%90%8E%E9%87%8D%E5%BB%BA%E5%8B%9F%E6%8D%90%E5%80%A1%E8%AE%AE-%E6%85%88%E5%96%84%E8%81%94%E5%90%88%E6%80%BB%E4%BC%9A",
+            "raised": 23000,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-08-31",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "广东五华县台风“红霞”灾后重建募捐倡议（慈善会）",
+            "summary": "受第12号台风“红霞”强降雨影响，五华县发生严重洪涝，房屋进水、道路损毁、农田受淹；五华县慈善会向社会发出募捐倡议，所有款物专款专用用于受灾群众灾后重建，公开透明接受监督。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%B9%BF%E4%B8%9C%E4%BA%94%E5%8D%8E%E5%8E%BF%E5%8F%B0%E9%A3%8E-%E7%BA%A2%E9%9C%9E-%E7%81%BE%E5%90%8E%E9%87%8D%E5%BB%BA%E5%8B%9F%E6%8D%90%E5%80%A1%E8%AE%AE-%E6%85%88%E5%96%84%E4%BC%9A",
+            "raised": 87000,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-09-08",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "金秀县红十字会“美莎克”善款分配与拨付公示（第一期）",
+            "summary": "金秀县红十字会就抗击台风“美莎克”公开募捐第一申款分配拨付公告：截至7\/30募得¥7.9万，8\/17已按分配方案全额拨付横州红十字会¥48,830.60、贵港市红十字会¥30,250，强调依法规范、全程公示。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E9%87%91%E7%A7%80%E5%8E%BF%E7%BA%A2%E5%8D%81%E5%AD%97%E4%BC%9A-%E7%BE%8E%E8%8E%8E%E5%85%8B-%E5%96%84%E6%AC%BE%E5%88%86%E9%85%8D%E4%B8%8E%E6%8B%A8%E4%BB%98%E5%85%AC%E7%A4%BA-%E7%AC%AC%E4%B8%80%E6%9C%9F",
+            "raised": 49000,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-09-08",
+            "paypal": "https:\/\/paypal.me\/temuseller"
+        },
+        {
+            "title": "中国红十字基金会“美莎克”应急物资连夜送抵广西\/湖北",
+            "summary": "中国红十字基金会 7\/6 启动防洪应急响应，截至 7\/10 接收社会资金 ¥1881.74万（东鹏1000万、上汽五菱基金200万、腾讯备灾计划35万、滴滴27万等）；多批赈济家庭箱、伊利奶粉、毛毯、冲锋衣运抵广西钦州\/南宁\/贵港并开展应急供餐，湖北黄冈获1500袋米+1200条毛毯。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E4%B8%AD%E5%9B%BD%E7%BA%A2%E5%8D%81%E5%AD%97%E5%9F%BA%E9%87%91%E4%BC%9A-%E7%BE%8E%E8%8E%8E%E5%85%8B-%E5%BA%94%E6%80%A5%E7%89%A9%E8%B5%84%E8%BF%9E%E5%A4%9C%E9%80%81%E6%8A%B5%E5%B9%BF%E8%A5%BF-%E6%B9%96%E5%8C%97",
+            "raised": 19000,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-09-08",
+            "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
             "title": "Spokane Old Trails Fire — GoFundMe 已验证野火募捐中心",
             "summary": "GoFundMe 为 Washington Wildfire Relief Hub 上线已验证募捐集中页，Trust & Safety 团队逐项核验；示例 Help Sydney & Tyler $11k、Jacob Family $12k、Mark & Tai $33k+；捐款在受益人完成身份验证前由平台暂扣。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/spokane-old-trails-fire-gofundme-%E5%B7%B2%E9%AA%8C%E8%AF%81%E9%87%8E%E7%81%AB%E5%8B%9F%E6%8D%90%E4%B8%AD%E5%BF%83",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/spokane-old-trails-fire-gofundme-%E5%B7%B2%E9%AA%8C%E8%AF%81%E9%87%8E%E7%81%AB%E5%8B%9F%E6%8D%90%E4%B8%AD%E5%BF%83",
             "raised": 1200,
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "latest": "2026-08-31",
+            "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
             "title": "南宁台风“美莎克”救灾募捐进展（第23期）",
             "summary": "南宁市慈善总会 7\/6 起发起台风救灾公募，截至 8\/24 累计接收善款约 1.65 亿元（含广西慈善联合总会下拨 7005 万）、物资折价约 1507 万，已拨付约 1.13 亿用于生活救助与倒损住房重建。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E5%8D%97%E5%AE%81%E5%8F%B0%E9%A3%8E-%E7%BE%8E%E8%8E%8E%E5%85%8B-%E6%95%91%E7%81%BE%E5%8B%9F%E6%8D%90%E8%BF%9B%E5%B1%95-%E7%AC%AC23%E6%9C%9F",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8D%97%E5%AE%81%E5%8F%B0%E9%A3%8E-%E7%BE%8E%E8%8E%8E%E5%85%8B-%E6%95%91%E7%81%BE%E5%8B%9F%E6%8D%90%E8%BF%9B%E5%B1%95-%E7%AC%AC23%E6%9C%9F",
             "raised": 85000,
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "latest": "2026-08-31",
+            "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
             "title": "广西“情暖八桂 抗洪救灾”公募进展（第19期）",
             "summary": "广西慈善联合总会通过腾讯公益、公益宝、银行转账等渠道募得约 3.75 亿元、167.9 万人次参与；本期新增 3454 人次、¥2,244,454.52；已累计拨付 1.46 亿至受灾地市。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E5%B9%BF%E8%A5%BF-%E6%83%85%E6%9A%96%E5%85%AB%E6%A1%82-%E6%8A%97%E6%B4%AA%E6%95%91%E7%81%BE-%E5%85%AC%E5%8B%9F%E8%BF%9B%E5%B1%95-%E7%AC%AC19%E6%9C%9F",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%B9%BF%E8%A5%BF-%E6%83%85%E6%9A%96%E5%85%AB%E6%A1%82-%E6%8A%97%E6%B4%AA%E6%95%91%E7%81%BE-%E5%85%AC%E5%8B%9F%E8%BF%9B%E5%B1%95-%E7%AC%AC19%E6%9C%9F",
             "raised": 47000,
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "latest": "2026-09-08",
+            "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
             "title": "西藏吉隆泥石流 — 北京多家基金会驰援 + 中国社会福利基金会公募",
             "summary": "西藏吉隆县泥石流后，北京字节跳动(2000万+抖音\/头条专题筹款超百万)、小米(1000万)、韩红(1000万)、美团、滴滴等多家基金会驰援；中国社会福利基金会发起“吉隆不孤 家园不弃”公募，截至 8\/28 募集 ¥434.9 万、17.9 万人次。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81-%E5%8C%97%E4%BA%AC%E5%A4%9A%E5%AE%B6%E5%9F%BA%E9%87%91%E4%BC%9A%E9%A9%B0%E6%8F%B4-%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%A6%8F%E5%88%A9%E5%9F%BA%E9%87%91%E4%BC%9A%E5%85%AC%E5%8B%9F",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81-%E5%8C%97%E4%BA%AC%E5%A4%9A%E5%AE%B6%E5%9F%BA%E9%87%91%E4%BC%9A%E9%A9%B0%E6%8F%B4-%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%A6%8F%E5%88%A9%E5%9F%BA%E9%87%91%E4%BC%9A%E5%85%AC%E5%8B%9F",
             "raised": 17000,
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "latest": "2026-08-31",
+            "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
             "title": "GoFundMe 2026 Wildfire Relief Fund（野火现金补助）",
             "summary": "GoFundMe.org 2026 Wildfire Relief Fund 通过 GoFundMe 与一线非营利机构向野火幸存者发放直接现金补助；同时开放认证慈善机构募捐页面创建。",
-            "url": "https:\/\/fund.yaolaoye.cn\/campaign\/gofundme-2026-wildfire-relief-fund-%E9%87%8E%E7%81%AB%E7%8E%B0%E9%87%91%E8%A1%A5%E5%8A%A9",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/gofundme-2026-wildfire-relief-fund-%E9%87%8E%E7%81%AB%E7%8E%B0%E9%87%91%E8%A1%A5%E5%8A%A9",
             "raised": 7800,
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
-            "paypal": "https:\/\/www.paypal.me\/temuseller"
+            "latest": "2026-08-31",
+            "paypal": "https:\/\/paypal.me\/temuseller"
         }
     ],
-    "base": "https:\/\/fund.yaolaoye.cn"
+    "base": "http:\/\/127.0.0.1:8899"
 }
