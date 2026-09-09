@@ -5,6 +5,39 @@
     "footer": "Powered by 透明捐助 · 创作者赞助专区",
     "items": [
         {
+            "title": "Buy Me a Coffee与Patreon 2026费率对比：5% vs 10%平台费",
+            "summary": "第三方评测对比创作者赞助双雄：Buy Me a Coffee免费档5%平台费、无月费，主打打赏\/会员\/数字商品低摩擦收款；Patreon标准档10%平台费（2025-08-04后新页），叠加支付处理后综合成本约12–15%，强在分层会员与社区工具。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/buy-me-a-coffee%E4%B8%8Epatreon-2026%E8%B4%B9%E7%8E%87%E5%AF%B9%E6%AF%94-5-vs-10-%E5%B9%B3%E5%8F%B0%E8%B4%B9",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Patreon公司档案：年付创作者超$15亿，累计支付破$35亿",
+            "summary": "Patreon 2026年化营收run-rate超$120M ARR，每年直付超$15亿给250,000+创作者，累计支付破$35亿。费率8%（Pro）\/12%（Premium）+商品交易5%；产品线含分层订阅、Patreon Video、Commerce、加密私有音频RSS、免费会员层与移动App。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/patreon%E5%85%AC%E5%8F%B8%E6%A1%A3%E6%A1%88-%E5%B9%B4%E4%BB%98%E5%88%9B%E4%BD%9C%E8%80%85%E8%B6%85-15%E4%BA%BF-%E7%B4%AF%E8%AE%A1%E6%94%AF%E4%BB%98%E7%A0%B4-35%E4%BA%BF",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "2026创作者收入平台费率横评：Ko-fi 0%起 \/ BMC 5% \/ Substack 10%",
+            "summary": "创作者经济收入模型盘点：Ko-fi免费档保留100%打赏（0%平台费）、BMC 5%、Patreon 5–12%、Substack抽10%订阅、Twitch约50%订阅分成。低摩擦打赏平台（Ko-fi\/BMC）适合轻量支持，Substack适合直拥邮件列表的写作者。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/2026%E5%88%9B%E4%BD%9C%E8%80%85%E6%94%B6%E5%85%A5%E5%B9%B3%E5%8F%B0%E8%B4%B9%E7%8E%87%E6%A8%AA%E8%AF%84-ko-fi-0-%E8%B5%B7-bmc-5-substack-10",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "2026创作者平台费率重置：Patreon 三档合并为免费8%\/Pro 5%+$29.99，Ko-fi 新账户默认 5% 抽成引关注",
             "summary": "2026上半年创作者平台费率重写：Patreon 将 Lite\/Pro\/Premium 合并为免费8%或 Pro 5%+$29.99\/月（11月1日前强制切换订阅计费）；Ko-fi 新账户默认加入 Contributor 计划对包括小费在内的所有支付抽成5%，需手动关闭恢复0%小费；Substack 维持10%+Stripe。默认设置而非明面费率正成为实际到手的关键变量。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/2026%E5%88%9B%E4%BD%9C%E8%80%85%E5%B9%B3%E5%8F%B0%E8%B4%B9%E7%8E%87%E9%87%8D%E7%BD%AE-patreon-%E4%B8%89%E6%A1%A3%E5%90%88%E5%B9%B6%E4%B8%BA%E5%85%8D%E8%B4%B98-pro-5-29-99-ko-fi-%E6%96%B0%E8%B4%A6%E6%88%B7%E9%BB%98%E8%AE%A4-5-%E6%8A%BD%E6%88%90%E5%BC%95%E5%85%B3%E6%B3%A8",
@@ -144,7 +177,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-08-31",
+            "latest": "2026-09-08",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
