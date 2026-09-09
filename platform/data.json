@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 平台工具专区",
     "items": [
         {
+            "title": "Momentive为GiveSmart推出Pay-As-You-Go定价，取消年费门槛",
+            "summary": "Momentive Software于2026-09-02为其筹款平台GiveSmart推出按需付费(Pay-As-You-Go)定价：无年度订阅费，改为在支付处理时收取事前披露的交易费，面向小型\/新成立\/预算敏感非营利与单场活动组织，提供移动竞拍、在线售票、P2P、捐赠表单等全功能与专属客户成功经理。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/momentive%E4%B8%BAgivesmart%E6%8E%A8%E5%87%BApay-as-you-go%E5%AE%9A%E4%BB%B7-%E5%8F%96%E6%B6%88%E5%B9%B4%E8%B4%B9%E9%97%A8%E6%A7%9B",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "Fundraise Up 推出免费 AI Visibility Assessment，助力非营利组织应对 Agentic Giving 时代",
             "summary": "筹款平台 Fundraise Up（UNICEF、救世军英国等在用）9月1日发布免费“AI Visibility Assessment”工具，让非营利组织查看 AI 助手如何理解与呈现自身信息；其数据称非营利网站自然搜索流量同比降约35%、AI 引荐流量增长约1000%，Agentic Giving（AI 代理捐赠）产品套件含 AI Discovery Readiness、Agentic Giving Pages 与 Agent Donation Gateway。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/fundraise-up-%E6%8E%A8%E5%87%BA%E5%85%8D%E8%B4%B9-ai-visibility-assessment-%E5%8A%A9%E5%8A%9B%E9%9D%9E%E8%90%A5%E5%88%A9%E7%BB%84%E7%BB%87%E5%BA%94%E5%AF%B9-agentic-giving-%E6%97%B6%E4%BB%A3",
@@ -111,7 +122,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-01",
+            "latest": "2026-09-08",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -122,7 +133,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-01",
+            "latest": "2026-09-04",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -133,7 +144,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-08-31",
+            "latest": "2026-09-04",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -144,7 +155,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-08-31",
+            "latest": "2026-09-08",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
