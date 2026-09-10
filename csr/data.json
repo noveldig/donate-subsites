@@ -5,6 +5,61 @@
     "footer": "Powered by 透明捐助 · 企业赞助专区",
     "items": [
         {
+            "title": "GoodAPI为Shopify品牌提供0平台费员工配捐方案，对接公益合规",
+            "summary": "GoodAPI 发布Shopify员工配捐实践：品牌设每人配捐上限、用已跑通的结算链路向员工自选慈善发送核验过的树木\/塑料回收等“礼物”，0%平台费并附商业共营者合规，适合10至数百人规模品牌，无需采购企业级职场捐赠软件。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/goodapi%E4%B8%BAshopify%E5%93%81%E7%89%8C%E6%8F%90%E4%BE%9B0%E5%B9%B3%E5%8F%B0%E8%B4%B9%E5%91%98%E5%B7%A5%E9%85%8D%E6%8D%90%E6%96%B9%E6%A1%88-%E5%AF%B9%E6%8E%A5%E5%85%AC%E7%9B%8A%E5%90%88%E8%A7%84",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Wilson & Company第二届Higher Giving配捐募得$85,414",
+            "summary": "工程建筑公司Wilson & Company第二届企业公益项目Higher Giving，为各办公室配对员工提名的本地非营利，公司先捐、再号召员工配捐，共募$85,414（超2025年$73,500）；员工还赴Ozarks Food Harvest打包超26,000磅食物等志愿行动，覆盖食品安全、动物福利、青少年发展等13家慈善机构。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/wilson-company%E7%AC%AC%E4%BA%8C%E5%B1%8Ahigher-giving%E9%85%8D%E6%8D%90%E5%8B%9F%E5%BE%97-85-414",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-09-09",
+            "paypal": ""
+        },
+        {
+            "title": "C.H. Robinson第22届Robinson Cares Month：14国40+网点员工公益月",
+            "summary": "物流巨头C.H. Robinson启动史上最大规模Robinson Cares Month，9月动员14国、40+办公室与仓库员工做志愿\/募款\/社区合作。2025年公司与基金会捐赠超$530万、志愿超15,000小时；常年Employee Match Program对员工志愿工时与捐款进行配捐，2005年至今基金会累计捐赠超$3,500万。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/c-h-robinson%E7%AC%AC22%E5%B1%8Arobinson-cares-month-14%E5%9B%BD40-%E7%BD%91%E7%82%B9%E5%91%98%E5%B7%A5%E5%85%AC%E7%9B%8A%E6%9C%88",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "深圳龙华美新隆“亲情1+1”员工配捐15年累计善款超¥14万",
+            "summary": "深圳美新隆制罐推行“亲情1+1”爱心互助机制：自2011年起每月员工自愿捐款、公司以公账同等金额1:1配比，用于员工互帮互助。截至目前已累计组织捐款百余次、实施帮扶40余次、捐出善款超¥14万，成为企业员工配捐（matching gift）本土化的15年长期案例。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%B7%B1%E5%9C%B3%E9%BE%99%E5%8D%8E%E7%BE%8E%E6%96%B0%E9%9A%86-%E4%BA%B2%E6%83%851-1-%E5%91%98%E5%B7%A5%E9%85%8D%E6%8D%9015%E5%B9%B4%E7%B4%AF%E8%AE%A1%E5%96%84%E6%AC%BE%E8%B6%85-14%E4%B8%87",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-08-28",
+            "paypal": ""
+        },
+        {
+            "title": "企业公益合作十种模式盘点：配捐\/工资扣款放大员工善意",
+            "summary": "Charity Miles盘点10种可落地企业—慈善合作模式（员工健身挑战、技能公益、义卖促销、配捐与工资扣款放大、志愿日、实物捐赠、联名倡导、系统性联盟、会员积分转捐、混合募款活动），主张以90天小规模试点+可量化指标切入；引用HARMAN案例参与度提升11倍、1,200名员工募得超$120,000。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E4%BC%81%E4%B8%9A%E5%85%AC%E7%9B%8A%E5%90%88%E4%BD%9C%E5%8D%81%E7%A7%8D%E6%A8%A1%E5%BC%8F%E7%9B%98%E7%82%B9-%E9%85%8D%E6%8D%90-%E5%B7%A5%E8%B5%84%E6%89%A3%E6%AC%BE%E6%94%BE%E5%A4%A7%E5%91%98%E5%B7%A5%E5%96%84%E6%84%8F",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-07-10",
+            "paypal": ""
+        },
+        {
             "title": "Goodera 企业志愿与 Benevity API 打通，AI 驱动全球公益规模化",
             "summary": "全球最大企业志愿体验平台Goodera（服务300+企业、500万员工、100+国）与Benevity API集成上线，并以AI基础设施重构企业志愿服务；曾首发MCP Server把实时志愿数据接入AI Agent。2026-03全球志愿服务峰会强调企业级志愿规模化。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/goodera-%E4%BC%81%E4%B8%9A%E5%BF%97%E6%84%BF%E4%B8%8E-benevity-api-%E6%89%93%E9%80%9A-ai-%E9%A9%B1%E5%8A%A8%E5%85%A8%E7%90%83%E5%85%AC%E7%9B%8A%E8%A7%84%E6%A8%A1%E5%8C%96",
@@ -12,7 +67,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-04-23",
             "paypal": ""
         },
         {
@@ -23,7 +78,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-08",
             "paypal": ""
         },
         {
@@ -177,7 +232,7 @@
             "goal": 100000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-08",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -221,7 +276,7 @@
             "goal": 14,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-08-31",
+            "latest": "2026-09-08",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -232,7 +287,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-08-31",
+            "latest": "2026-09-08",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -243,7 +298,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-03-17",
+            "latest": "2026-09-08",
             "paypal": "https:\/\/paypal.me\/temuseller"
         }
     ],
