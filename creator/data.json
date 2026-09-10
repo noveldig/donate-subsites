@@ -5,6 +5,28 @@
     "footer": "Powered by 透明捐助 · 创作者赞助专区",
     "items": [
         {
+            "title": "独立作者众筹变现：Kickstarter精装特典、Patreon连载、Substack付费通讯成三大收入引擎",
+            "summary": "2026年独立作者收入结构盘点：Kickstarter精装特典（平均成功众筹$47,000、68%复跑成功率）、Patreon连载（稳定月度recurring）、Substack\/Beehiiv付费通讯（$5–15\/月）成为最可靠三类变现；品牌赞助仍是最大单一收入池（美国创作者广告2026预计$44B）。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%8B%AC%E7%AB%8B%E4%BD%9C%E8%80%85%E4%BC%97%E7%AD%B9%E5%8F%98%E7%8E%B0-kickstarter%E7%B2%BE%E8%A3%85%E7%89%B9%E5%85%B8-patreon%E8%BF%9E%E8%BD%BD-substack%E4%BB%98%E8%B4%B9%E9%80%9A%E8%AE%AF%E6%88%90%E4%B8%89%E5%A4%A7%E6%94%B6%E5%85%A5%E5%BC%95%E6%93%8E",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "2026创作者经济九大商业模式：品牌赞助、付费会员、付费通讯居前",
+            "summary": "9大创作者商业模式梳理：品牌赞助\/大使（最大且增长最快，IAB预计美国创作者广告2026达$44B）、付费会员（Patreon 2025-08-04后新页10%平台费）、付费通讯（Substack取10%）、数字产品与课程等；强调可拥有性优于平台依赖。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/2026%E5%88%9B%E4%BD%9C%E8%80%85%E7%BB%8F%E6%B5%8E%E4%B9%9D%E5%A4%A7%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F-%E5%93%81%E7%89%8C%E8%B5%9E%E5%8A%A9-%E4%BB%98%E8%B4%B9%E4%BC%9A%E5%91%98-%E4%BB%98%E8%B4%B9%E9%80%9A%E8%AE%AF%E5%B1%85%E5%89%8D",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "Buy Me a Coffee与Patreon 2026费率对比：5% vs 10%平台费",
             "summary": "第三方评测对比创作者赞助双雄：Buy Me a Coffee免费档5%平台费、无月费，主打打赏\/会员\/数字商品低摩擦收款；Patreon标准档10%平台费（2025-08-04后新页），叠加支付处理后综合成本约12–15%，强在分层会员与社区工具。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/buy-me-a-coffee%E4%B8%8Epatreon-2026%E8%B4%B9%E7%8E%87%E5%AF%B9%E6%AF%94-5-vs-10-%E5%B9%B3%E5%8F%B0%E8%B4%B9",
@@ -12,7 +34,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-09",
             "paypal": ""
         },
         {
@@ -23,7 +45,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-08",
             "paypal": ""
         },
         {
@@ -34,7 +56,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-09",
             "paypal": ""
         },
         {
