@@ -5,6 +5,39 @@
     "footer": "Powered by 透明捐助 · 平台工具专区",
     "items": [
         {
+            "title": "PayBee vs OneCause 2026对比：2% vs 5%平台费，AI拍卖与活动管理",
+            "summary": "PayBee（无订阅、电子交易2%平台费、自带CRM与移动竞价）与OneCause（现Bonterra OneCause，定制报价、年费约$2,995起、含AI拍卖工具）2026对比：中小机构宜选PayBee轻量方案，大型活动选OneCause专业模块。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/paybee-vs-onecause-2026%E5%AF%B9%E6%AF%94-2-vs-5-%E5%B9%B3%E5%8F%B0%E8%B4%B9-ai%E6%8B%8D%E5%8D%96%E4%B8%8E%E6%B4%BB%E5%8A%A8%E7%AE%A1%E7%90%86",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "OpenPledge：区块链+AI透明微捐赠App，每笔善款上Solana并语音致谢",
+            "summary": "OpenPledge 以Solana链上记账+Gemini个性化感谢信+ElevenLabs语音致谢+Snowflake影响仪表盘，打造“玻璃盒”慈善：每笔微捐公开可核验，无登录即可查看公共账本与影响总览（演示性质，无真实资金托管）。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/openpledge-%E5%8C%BA%E5%9D%97%E9%93%BE-ai%E9%80%8F%E6%98%8E%E5%BE%AE%E6%8D%90%E8%B5%A0app-%E6%AF%8F%E7%AC%94%E5%96%84%E6%AC%BE%E4%B8%8Asolana%E5%B9%B6%E8%AF%AD%E9%9F%B3%E8%87%B4%E8%B0%A2",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "2026年七大P2P众筹软件横评：Givebutter 0%、Fundraise Up 4%、Qgiv $259\/月",
+            "summary": "2026年7款P2P筹款软件对比：Givebutter（免费+可选tip、内置CRM\/活动\/短信）、Fundraise Up（AI优化结账、4%交易费）、Qgiv（公布定价$25–$259\/月P2P包）、RallyUp（免费tip计划）等，按机构规模与活动复杂度选型。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/2026%E5%B9%B4%E4%B8%83%E5%A4%A7p2p%E4%BC%97%E7%AD%B9%E8%BD%AF%E4%BB%B6%E6%A8%AA%E8%AF%84-givebutter-0-fundraise-up-4-qgiv-259-%E6%9C%88",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "Momentive为GiveSmart推出Pay-As-You-Go定价，取消年费门槛",
             "summary": "Momentive Software于2026-09-02为其筹款平台GiveSmart推出按需付费(Pay-As-You-Go)定价：无年度订阅费，改为在支付处理时收取事前披露的交易费，面向小型\/新成立\/预算敏感非营利与单场活动组织，提供移动竞拍、在线售票、P2P、捐赠表单等全功能与专属客户成功经理。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/momentive%E4%B8%BAgivesmart%E6%8E%A8%E5%87%BApay-as-you-go%E5%AE%9A%E4%BB%B7-%E5%8F%96%E6%B6%88%E5%B9%B4%E8%B4%B9%E9%97%A8%E6%A7%9B",
@@ -12,7 +45,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-07-10",
             "paypal": ""
         },
         {
