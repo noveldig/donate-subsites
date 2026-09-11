@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 灾害人道专区",
     "items": [
         {
+            "title": "IOM与Amazon合作支援尼泊尔中部8月暴洪灾区",
+            "summary": "国际移民组织(IOM)与Amazon合作支援8月中尼泊尔中部暴洪灾区；截至9月2日确认逾1,200人遇难、4,200+失踪、84,000+受影响。Amazon提供弹性资金+实物（越冬包、保暖毯、带充电太阳能灯），IOM启用DTM追踪流离失所并开展心理社会支持。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/iom%E4%B8%8Eamazon%E5%90%88%E4%BD%9C%E6%94%AF%E6%8F%B4%E5%B0%BC%E6%B3%8A%E5%B0%94%E4%B8%AD%E9%83%A88%E6%9C%88%E6%9A%B4%E6%B4%AA%E7%81%BE%E5%8C%BA",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "四川省侨联倡议驰援西藏吉隆“8·26”跨境泥石流灾区",
             "summary": "四川侨联发起紧急倡议，号召海外侨胞、归侨侨眷、侨企驰援西藏日喀则市吉隆县“8·26”跨境巨型泥石流（8-26 10:52，口岸基础设施损毁、人员伤亡\/失联），善款物专款专用、公开透明，由四川省华侨公益基金会接收。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%9B%9B%E5%B7%9D%E7%9C%81%E4%BE%A8%E8%81%94%E5%80%A1%E8%AE%AE%E9%A9%B0%E6%8F%B4%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86-8-26-%E8%B7%A8%E5%A2%83%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%8C%BA",
@@ -12,7 +23,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
+            "latest": "2026-09-10",
             "paypal": ""
         },
         {
@@ -155,7 +166,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-01",
+            "latest": "2026-09-10",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -177,7 +188,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-01",
+            "latest": "2026-09-10",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
