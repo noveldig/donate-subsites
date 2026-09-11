@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 平台工具专区",
     "items": [
         {
+            "title": "EchoAid：ElevenLabs语音+Solana链上微捐，降低AI教育募款摩擦",
+            "summary": "EchoAid将ElevenLabs语音合成与Solana区块链微交易结合，把文字求助转为拟真语音、'Boost'按钮一键链上微捐（亚分费用、全透明）；计划引入Solana生成艺术NFT与'贡献即赚'游戏化机制，降低AI教育募款的情感与金融摩擦。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/echoaid-elevenlabs%E8%AF%AD%E9%9F%B3-solana%E9%93%BE%E4%B8%8A%E5%BE%AE%E6%8D%90-%E9%99%8D%E4%BD%8Eai%E6%95%99%E8%82%B2%E5%8B%9F%E6%AC%BE%E6%91%A9%E6%93%A6",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "PayBee vs OneCause 2026对比：2% vs 5%平台费，AI拍卖与活动管理",
             "summary": "PayBee（无订阅、电子交易2%平台费、自带CRM与移动竞价）与OneCause（现Bonterra OneCause，定制报价、年费约$2,995起、含AI拍卖工具）2026对比：中小机构宜选PayBee轻量方案，大型活动选OneCause专业模块。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/paybee-vs-onecause-2026%E5%AF%B9%E6%AF%94-2-vs-5-%E5%B9%B3%E5%8F%B0%E8%B4%B9-ai%E6%8B%8D%E5%8D%96%E4%B8%8E%E6%B4%BB%E5%8A%A8%E7%AE%A1%E7%90%86",
@@ -12,7 +23,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-08",
             "paypal": ""
         },
         {
@@ -34,7 +45,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-10",
             "paypal": ""
         },
         {
@@ -133,7 +144,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-02",
+            "latest": "2026-09-10",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -144,7 +155,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-08-31",
+            "latest": "2026-09-10",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
