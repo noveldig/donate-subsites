@@ -12,7 +12,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-10",
             "paypal": ""
         },
         {
@@ -177,7 +177,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-01",
+            "latest": "2026-09-10",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
