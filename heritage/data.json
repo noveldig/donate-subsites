@@ -5,6 +5,50 @@
     "footer": "Powered by 透明捐助 · 文旅遗产专区",
     "items": [
         {
+            "title": "DigVentures 2026持续上线众筹社区考古项目（罗马别墅\/新石器遗址）",
+            "summary": "众筹考古平台DigVentures 2026年持续上线多个社区考古项目（Rossett罗马别墅、Earth Trust铁器时代村落、Sacrewell罗马别墅、Boyne Valley新石器遗址等），公众可出资'支持'或参与实地发掘，将遗产保护与众筹参与结合。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/digventures-2026%E6%8C%81%E7%BB%AD%E4%B8%8A%E7%BA%BF%E4%BC%97%E7%AD%B9%E7%A4%BE%E5%8C%BA%E8%80%83%E5%8F%A4%E9%A1%B9%E7%9B%AE-%E7%BD%97%E9%A9%AC%E5%88%AB%E5%A2%85-%E6%96%B0%E7%9F%B3%E5%99%A8%E9%81%97%E5%9D%80",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "eur",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "法国Sospel主教座堂入选第9届'遗产彩票'，修复预算€2,000,000",
+            "summary": "法国Sospel的Saint-Michel共主教座堂入选第9届'遗产彩票'(Loto du Patrimoine，9\/7–9\/21)，由法国游戏集团承办、遗产基金会执行；修复总预算约€2,000,000，涉及钟楼\/立面\/石板路，预计2028年完工，并同步向公众发起捐赠与赞助募资。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%B3%95%E5%9B%BDsospel%E4%B8%BB%E6%95%99%E5%BA%A7%E5%A0%82%E5%85%A5%E9%80%89%E7%AC%AC9%E5%B1%8A-%E9%81%97%E4%BA%A7%E5%BD%A9%E7%A5%A8-%E4%BF%AE%E5%A4%8D%E9%A2%84%E7%AE%97-2-000-000",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "eur",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "北威尔士15世纪Gwydir Castle修缮GoFundMe目标£20,000",
+            "summary": "北威尔士15世纪Gwydir Castle因连年暴雨侵蚀亟需修缮（烟囱、勾缝、石作），业主通过GoFundMe发起'中世纪大厅修缮'募款，目标£20,000，已筹£8,601；该城堡无庄园支撑、无政府资助，完全依赖公众筹款维护对公众开放。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8C%97%E5%A8%81%E5%B0%94%E5%A3%AB15%E4%B8%96%E7%BA%AAgwydir-castle%E4%BF%AE%E7%BC%AEgofundme%E7%9B%AE%E6%A0%87-20-000",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "eur",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "美国佐治亚Gordon County历史学会为百年纪念雕像修复募款约$100,000",
+            "summary": "Gordon County历史学会聘请公司修复百年纪念雕像（一战士兵、内战军人及Sequoyah纪念碑），需焊接、重铸枪托与手部；项目总预算约$100,000，向Calhoun及全县居民募款以在百年纪念前完工。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BE%8E%E5%9B%BD%E4%BD%90%E6%B2%BB%E4%BA%9Agordon-county%E5%8E%86%E5%8F%B2%E5%AD%A6%E4%BC%9A%E4%B8%BA%E7%99%BE%E5%B9%B4%E7%BA%AA%E5%BF%B5%E9%9B%95%E5%83%8F%E4%BF%AE%E5%A4%8D%E5%8B%9F%E6%AC%BE%E7%BA%A6-100-000",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "“点亮长城边·京津冀长城守护与村落振兴公益行动”在京启动",
             "summary": "中国文物保护基金会联合中国银行启动“点亮长城边”行动，聚焦长城遗产保护与古村落活化，首期落地石峡村、黄崖关村、北营子村及丝路嘉峪关黄草营村，探索“金融+文保+乡村振兴”公益模式，后续辐射长城沿线。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%82%B9%E4%BA%AE%E9%95%BF%E5%9F%8E%E8%BE%B9-%E4%BA%AC%E6%B4%A5%E5%86%80%E9%95%BF%E5%9F%8E%E5%AE%88%E6%8A%A4%E4%B8%8E%E6%9D%91%E8%90%BD%E6%8C%AF%E5%85%B4%E5%85%AC%E7%9B%8A%E8%A1%8C%E5%8A%A8-%E5%9C%A8%E4%BA%AC%E5%90%AF%E5%8A%A8",
@@ -12,7 +56,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
+            "latest": "2026-09-10",
             "paypal": ""
         },
         {
@@ -23,7 +67,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
+            "latest": "2026-09-10",
             "paypal": ""
         },
         {
@@ -34,7 +78,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
+            "latest": "2026-09-10",
             "paypal": ""
         },
         {
@@ -45,7 +89,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
+            "latest": "2026-09-10",
             "paypal": ""
         },
         {
@@ -298,7 +342,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-02",
+            "latest": "2026-09-10",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -309,7 +353,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-02",
+            "latest": "2026-09-10",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
