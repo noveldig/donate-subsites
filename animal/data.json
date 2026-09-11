@@ -5,6 +5,39 @@
     "footer": "Powered by 透明捐助 · 动物保护专区",
     "items": [
         {
+            "title": "Little Whiskers拟建Maricopa首座动物收容所，初始资金约$300,000",
+            "summary": "Little Whiskers动物救助（志愿者寄养制）拟建Maricopa首座实体收容所，规划6栋独立通风建筑；初始开门资金约$300,000，通过社媒\/官网募款并办12月2日Whoville Gala（$100\/张）筹资。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/little-whiskers%E6%8B%9F%E5%BB%BAmaricopa%E9%A6%96%E5%BA%A7%E5%8A%A8%E7%89%A9%E6%94%B6%E5%AE%B9%E6%89%80-%E5%88%9D%E5%A7%8B%E8%B5%84%E9%87%91%E7%BA%A6-300-000",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Carlton County动物救助获匿名2:1配捐，筹满$50,000即追加$100,000",
+            "summary": "Carlton County Animal Rescue（2017年县唯一收容所关闭后成立的寄养非营利）发起新募款，匿名捐赠者提供2:1配捐：12月中旬前筹满$50,000即追加$100,000；5月里程碑有望推至$300,000。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/carlton-county%E5%8A%A8%E7%89%A9%E6%95%91%E5%8A%A9%E8%8E%B7%E5%8C%BF%E5%90%8D2-1%E9%85%8D%E6%8D%90-%E7%AD%B9%E6%BB%A1-50-000%E5%8D%B3%E8%BF%BD%E5%8A%A0-100-000",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "1点点'毛孩子关爱计划'9月公益助力定向哈尔滨流浪动物基地",
+            "summary": "1点点发起'毛孩子关爱计划'9月公益助力，筹粮征集期9\/1–9\/30、救助执行期10月，定向哈尔滨刘丽小动物救助基地（常驻猫狗4000余只、累计救助超1万只），用户积分可兑换猫狗粮。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/1%E7%82%B9%E7%82%B9-%E6%AF%9B%E5%AD%A9%E5%AD%90%E5%85%B3%E7%88%B1%E8%AE%A1%E5%88%92-9%E6%9C%88%E5%85%AC%E7%9B%8A%E5%8A%A9%E5%8A%9B%E5%AE%9A%E5%90%91%E5%93%88%E5%B0%94%E6%BB%A8%E6%B5%81%E6%B5%AA%E5%8A%A8%E7%89%A9%E5%9F%BA%E5%9C%B0",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "乌克兰UAnimals为四家救助站190+动物筹冬季干草，目标UAH 679,000",
             "summary": "UAnimals 发起“Crunchy”干草募捐，为Mykolaiv\/Vinnytsia等地四家救助站的马、牛、山羊、矮种马、驴等190余只农场动物采购4,600捆干草过冬，目标UAH 679,000。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E4%B9%8C%E5%85%8B%E5%85%B0uanimals%E4%B8%BA%E5%9B%9B%E5%AE%B6%E6%95%91%E5%8A%A9%E7%AB%99190-%E5%8A%A8%E7%89%A9%E7%AD%B9%E5%86%AC%E5%AD%A3%E5%B9%B2%E8%8D%89-%E7%9B%AE%E6%A0%87uah-679-000",
@@ -12,7 +45,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-10",
             "paypal": ""
         },
         {
@@ -276,7 +309,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-02",
+            "latest": "2026-09-10",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -287,7 +320,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-01",
+            "latest": "2026-09-10",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -298,7 +331,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-02",
+            "latest": "2026-09-10",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
