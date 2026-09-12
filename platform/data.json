@@ -5,6 +5,28 @@
     "footer": "Powered by 透明捐助 · 平台工具专区",
     "items": [
         {
+            "title": "开源捐赠平台OpenPledge用Solana区块链+AI实现捐款全程透明可追溯",
+            "summary": "开发者发布开源捐赠平台OpenPledge：每笔捐款上链Solana形成不可篡改公开账本，Google Gemini生成个性化致谢、ElevenLabs转为语音，Snowflake驱动公开影响力看板；无需登录，源码已开源，定位提升慈善透明度。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%BC%80%E6%BA%90%E6%8D%90%E8%B5%A0%E5%B9%B3%E5%8F%B0openpledge%E7%94%A8solana%E5%8C%BA%E5%9D%97%E9%93%BE-ai%E5%AE%9E%E7%8E%B0%E6%8D%90%E6%AC%BE%E5%85%A8%E7%A8%8B%E9%80%8F%E6%98%8E%E5%8F%AF%E8%BF%BD%E6%BA%AF",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "2026非营利预算友好型AI工具盘点：Funraise\/AppealAI、Instrumentl、Grantable、Candid",
+            "summary": "LowCode Agency盘点面向非营利与社创组织的平价AI工具：Funraise AI（个性化劝捐+反欺诈）、AppealAI（免费劝募文案）、Instrumentl（资助匹配179美元\/月起）、Grantable（AI资助写作99美元\/月起）、Candid Foundation Directory（AI资助发现）。强调AI不能替代关系与契合度。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/2026%E9%9D%9E%E8%90%A5%E5%88%A9%E9%A2%84%E7%AE%97%E5%8F%8B%E5%A5%BD%E5%9E%8Bai%E5%B7%A5%E5%85%B7%E7%9B%98%E7%82%B9-funraise-appealai-instrumentl-grantable-candid",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "EchoAid：ElevenLabs语音+Solana链上微捐，降低AI教育募款摩擦",
             "summary": "EchoAid将ElevenLabs语音合成与Solana区块链微交易结合，把文字求助转为拟真语音、'Boost'按钮一键链上微捐（亚分费用、全透明）；计划引入Solana生成艺术NFT与'贡献即赚'游戏化机制，降低AI教育募款的情感与金融摩擦。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/echoaid-elevenlabs%E8%AF%AD%E9%9F%B3-solana%E9%93%BE%E4%B8%8A%E5%BE%AE%E6%8D%90-%E9%99%8D%E4%BD%8Eai%E6%95%99%E8%82%B2%E5%8B%9F%E6%AC%BE%E6%91%A9%E6%93%A6",
@@ -12,7 +34,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-11",
             "paypal": ""
         },
         {
@@ -34,7 +56,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-11",
             "paypal": ""
         },
         {
@@ -111,7 +133,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-03",
+            "latest": "2026-09-11",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -122,7 +144,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-01",
+            "latest": "2026-09-11",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -133,7 +155,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-03",
+            "latest": "2026-09-11",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
