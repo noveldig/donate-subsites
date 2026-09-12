@@ -5,6 +5,61 @@
     "footer": "Powered by 透明捐助 · 医疗援助专区",
     "items": [
         {
+            "title": "爱尔兰Clare单亲母亲Sarah Glenny急性髓系白血病GoFundMe已筹€74,000（目标€90,000）",
+            "summary": "Sarah Glenny于确诊急性髓系白血病（AML）后24小时内由友人发起GoFundMe，1天内筹得€74,000（逼近€90,000目标），其父母代为照顾幼女。案例折射重病家庭对医疗众筹的高度依赖。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%88%B1%E5%B0%94%E5%85%B0clare%E5%8D%95%E4%BA%B2%E6%AF%8D%E4%BA%B2sarah-glenny%E6%80%A5%E6%80%A7%E9%AB%93%E7%B3%BB%E7%99%BD%E8%A1%80%E7%97%85gofundme%E5%B7%B2%E7%AD%B9-74-000-%E7%9B%AE%E6%A0%87-90-000",
+            "raised": 0,
+            "goal": 90000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "加拿大7岁男童Carter Plaseski患T细胞急淋白血病，GoFundMe已筹CAD $46,000",
+            "summary": "7岁男孩Carter Plaseski由普通感冒发展为T细胞急性淋巴细胞白血病（ALL），在温尼伯儿童医院治疗；父母发起GoFundMe已筹超CAD $46,000，用于覆盖治疗、交通与误工支出。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8A%A0%E6%8B%BF%E5%A4%A77%E5%B2%81%E7%94%B7%E7%AB%A5carter-plaseski%E6%82%A3t%E7%BB%86%E8%83%9E%E6%80%A5%E6%B7%8B%E7%99%BD%E8%A1%80%E7%97%85-gofundme%E5%B7%B2%E7%AD%B9cad-46-000",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "英国Cornwall母亲脊柱重伤长期康复，家人发起GoFundMe缓解收入中断",
+            "summary": "一名Cornwall自雇顾问母亲因L1椎体粉碎合并脊髓压迫，经历9小时手术与3周昏迷后开始康复；其姊妹发起GoFundMe，用于住房生活费、私人理疗、居家适改与康复设备。自雇身份使其无短期收入保障。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%8B%B1%E5%9B%BDcornwall%E6%AF%8D%E4%BA%B2%E8%84%8A%E6%9F%B1%E9%87%8D%E4%BC%A4%E9%95%BF%E6%9C%9F%E5%BA%B7%E5%A4%8D-%E5%AE%B6%E4%BA%BA%E5%8F%91%E8%B5%B7gofundme%E7%BC%93%E8%A7%A3%E6%94%B6%E5%85%A5%E4%B8%AD%E6%96%AD",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "eur",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "加拿大22岁花滑教练Milara Milly Okabe患4期腺癌，GoFundMe已筹CAD $87,000",
+            "summary": "22岁花滑教练Milara Milly Okabe确诊4期腺癌，男友（NHL新秀Austin Roest）与友人发起GoFundMe支持治疗与家庭，已筹超CAD $87,000，用于诊疗、差旅住宿、药物与生育力保存等支出。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8A%A0%E6%8B%BF%E5%A4%A722%E5%B2%81%E8%8A%B1%E6%BB%91%E6%95%99%E7%BB%83milara-milly-okabe%E6%82%A34%E6%9C%9F%E8%85%BA%E7%99%8C-gofundme%E5%B7%B2%E7%AD%B9cad-87-000",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "UFC羽量级选手Danny Silva血栓生命垂危，GoFundMe已筹$8,301",
+            "summary": "UFC羽量级选手Danny Silva因危及生命血栓住院，职业生涯与收入受挫；友人发起GoFundMe已筹$8,301，反映综合格斗选手缺乏稳定医疗与财务安全网的行业困境。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/ufc%E7%BE%BD%E9%87%8F%E7%BA%A7%E9%80%89%E6%89%8Bdanny-silva%E8%A1%80%E6%A0%93%E7%94%9F%E5%91%BD%E5%9E%82%E5%8D%B1-gofundme%E5%B7%B2%E7%AD%B9-8-301",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "爱尔兰美妆企业家Jane Swarbrigg赴美癌症手术GoFundMe已筹€56,000+",
             "summary": "爱尔兰美妆企业家Jane Swarbrigg（44岁，Inglot爱尔兰创始人）确诊4期结肠癌并已转移至肝肺，赴纽约MSK癌症中心接受HAI泵手术（费用超€200,000），9月发起GoFundMe，已筹€56,000+；超出医疗费用部分将捐予爱尔兰癌症协会。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%88%B1%E5%B0%94%E5%85%B0%E7%BE%8E%E5%A6%86%E4%BC%81%E4%B8%9A%E5%AE%B6jane-swarbrigg%E8%B5%B4%E7%BE%8E%E7%99%8C%E7%97%87%E6%89%8B%E6%9C%AFgofundme%E5%B7%B2%E7%AD%B9-56-000",
@@ -23,7 +78,7 @@
             "goal": 10000,
             "currency": "eur",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-11",
             "paypal": ""
         },
         {
@@ -45,7 +100,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-11",
             "paypal": ""
         },
         {
@@ -287,7 +342,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-03",
+            "latest": "2026-09-11",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -298,7 +353,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-03",
+            "latest": "2026-09-11",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -309,7 +364,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-03",
+            "latest": "2026-09-11",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
