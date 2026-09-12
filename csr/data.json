@@ -5,6 +5,39 @@
     "footer": "Powered by 透明捐助 · 企业赞助专区",
     "items": [
         {
+            "title": "企业基金会捐赠术语指南：配捐、薪资捐赠、cause marketing与影响力投资",
+            "summary": "Gower Street Business School梳理企业基金会捐赠术语体系：配捐（matching gift，员工捐赠企业按上限匹配）、员工薪资捐赠、公益赞助（品牌曝光对价）、cause marketing、企业志愿者与战略伙伴、影响力投资等，助力筹款方对齐企业优先事项。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E4%BC%81%E4%B8%9A%E5%9F%BA%E9%87%91%E4%BC%9A%E6%8D%90%E8%B5%A0%E6%9C%AF%E8%AF%AD%E6%8C%87%E5%8D%97-%E9%85%8D%E6%8D%90-%E8%96%AA%E8%B5%84%E6%8D%90%E8%B5%A0-cause-marketing%E4%B8%8E%E5%BD%B1%E5%93%8D%E5%8A%9B%E6%8A%95%E8%B5%84",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "eur",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "职场薪资捐赠（Payroll Giving）指南：年筹约50亿美元，匹配金40至70亿美元\/年未被申领",
+            "summary": "Uncommon Giving指南指出美国职场捐赠年筹约50亿美元，但Double the Donations估计每年40至70亿美元匹配金因员工不知或流程繁琐未被申领；强调连接HRIS、自动名册对账与可携带捐赠账户以提升参与率与留存。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%81%8C%E5%9C%BA%E8%96%AA%E8%B5%84%E6%8D%90%E8%B5%A0-payroll-giving-%E6%8C%87%E5%8D%97-%E5%B9%B4%E7%AD%B9%E7%BA%A650%E4%BA%BF%E7%BE%8E%E5%85%83-%E5%8C%B9%E9%85%8D%E9%87%9140%E8%87%B370%E4%BA%BF%E7%BE%8E%E5%85%83-%E5%B9%B4%E6%9C%AA%E8%A2%AB%E7%94%B3%E9%A2%86",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "2026企业礼品平台横评：Open、Caroo、Sendoso的可持续与员工认可取向",
+            "summary": "SMARTe评测2026企业礼品平台：Open（设计驱动、伦理可持续采购、全球180+国）、Caroo（员工认可、无订阅费、已向Feeding America捐超2000万份餐）、Sendoso（企业级仓储与履约）。可持续与公益绑定成采购决策因素。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/2026%E4%BC%81%E4%B8%9A%E7%A4%BC%E5%93%81%E5%B9%B3%E5%8F%B0%E6%A8%AA%E8%AF%84-open-caroo-sendoso%E7%9A%84%E5%8F%AF%E6%8C%81%E7%BB%AD%E4%B8%8E%E5%91%98%E5%B7%A5%E8%AE%A4%E5%8F%AF%E5%8F%96%E5%90%91",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "Heifer International发起'3倍配捐'，匹配上限$750,000",
             "summary": "Heifer International发起'3倍配捐'活动：每捐$1配$2，月度捐赠首12个月三倍配捐，匹配上限$750,000；月度捐赠者另赠免费礼品，善款用于全球扶贫与自给自足项目。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/heifer-international%E5%8F%91%E8%B5%B7-3%E5%80%8D%E9%85%8D%E6%8D%90-%E5%8C%B9%E9%85%8D%E4%B8%8A%E9%99%90-750-000",
@@ -12,7 +45,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-11",
             "paypal": ""
         },
         {
@@ -23,7 +56,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
+            "latest": "2026-09-11",
             "paypal": ""
         },
         {
@@ -34,7 +67,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
+            "latest": "2026-09-11",
             "paypal": ""
         },
         {
@@ -221,7 +254,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-07-10",
+            "latest": "2026-09-11",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -232,7 +265,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-07-10",
+            "latest": "2026-09-11",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -243,7 +276,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-01",
+            "latest": "2026-09-11",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
