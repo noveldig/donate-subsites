@@ -5,6 +5,28 @@
     "footer": "Powered by 透明捐助 · 企业赞助专区",
     "items": [
         {
+            "title": "Uncommon Giving 发布\"5个Submittable企业捐赠替代方案\"（Foundant\/Blackbaud\/Uncommon等）",
+            "summary": "Uncommon Giving 发布企业捐赠团队 Submittable 五大替代方案盘点：Foundant（年$6,500–$13,900）、Blackbaud Grantmaking（定制报价）、Uncommon Giving（年$2,400起）、SurveyMonkey Apply、Good Grants。指出 Submittable 报价不透明、关键能力限 Enterprise 层、企业\/基金会\/政府三受众共用路线图，企业团队转向专用 grants+员工配捐一体平台。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/uncommon-giving-%E5%8F%91%E5%B8%83-5%E4%B8%AAsubmittable%E4%BC%81%E4%B8%9A%E6%8D%90%E8%B5%A0%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88-foundant-blackbaud-uncommon%E7%AD%89",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Giftpack 评测医疗与生命科学行业企业礼品\/员工认可平台（Sendoso\/Snappy\/Stadium等，合规优先）",
+            "summary": "Giftpack 评测医疗与生命科学行业企业礼品\/员工认可平台（Sendoso、Snappy、Stadium 等），强调受监管行业需将员工\/医护\/HCP\/普通联系人对齐分角色管控、数据权责与审批留痕；提示厂商公开页不等同合规判定，采购前应做受控试点（四类收件人、双审批阈值、禁例）核验。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/giftpack-%E8%AF%84%E6%B5%8B%E5%8C%BB%E7%96%97%E4%B8%8E%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E8%A1%8C%E4%B8%9A%E4%BC%81%E4%B8%9A%E7%A4%BC%E5%93%81-%E5%91%98%E5%B7%A5%E8%AE%A4%E5%8F%AF%E5%B9%B3%E5%8F%B0-sendoso-snappy-stadium%E7%AD%89-%E5%90%88%E8%A7%84%E4%BC%98%E5%85%88",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "企业基金会捐赠术语指南：配捐、薪资捐赠、cause marketing与影响力投资",
             "summary": "Gower Street Business School梳理企业基金会捐赠术语体系：配捐（matching gift，员工捐赠企业按上限匹配）、员工薪资捐赠、公益赞助（品牌曝光对价）、cause marketing、企业志愿者与战略伙伴、影响力投资等，助力筹款方对齐企业优先事项。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E4%BC%81%E4%B8%9A%E5%9F%BA%E9%87%91%E4%BC%9A%E6%8D%90%E8%B5%A0%E6%9C%AF%E8%AF%AD%E6%8C%87%E5%8D%97-%E9%85%8D%E6%8D%90-%E8%96%AA%E8%B5%84%E6%8D%90%E8%B5%A0-cause-marketing%E4%B8%8E%E5%BD%B1%E5%93%8D%E5%8A%9B%E6%8A%95%E8%B5%84",
@@ -23,7 +45,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-12",
             "paypal": ""
         },
         {
@@ -34,7 +56,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-12",
             "paypal": ""
         },
         {
@@ -210,7 +232,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-05",
+            "latest": "2026-09-12",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -232,7 +254,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-07-15",
+            "latest": "2026-09-12",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -243,7 +265,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-04",
+            "latest": "2026-09-12",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
