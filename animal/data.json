@@ -5,6 +5,28 @@
     "footer": "Powered by 透明捐助 · 动物保护专区",
     "items": [
         {
+            "title": "iHeartCats\/Hero VIP Club：订阅制动物救援众筹模式，单篇救助故事驱动recurring捐赠",
+            "summary": "iHeartCats 以 Hero VIP Club 会员订阅模式为猫狗救援持续供血，平台 Stories 页面以单篇救助故事（Burger\/Hugo\/Philly 等）串联捐赠者；其模式强调\"每笔捐赠直抵救助\"，用于绝育、重症医疗与收容安养，体现动物救援众筹从一次性打赏走向 recurring 订阅。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/iheartcats-hero-vip-club-%E8%AE%A2%E9%98%85%E5%88%B6%E5%8A%A8%E7%89%A9%E6%95%91%E6%8F%B4%E4%BC%97%E7%AD%B9%E6%A8%A1%E5%BC%8F-%E5%8D%95%E7%AF%87%E6%95%91%E5%8A%A9%E6%95%85%E4%BA%8B%E9%A9%B1%E5%8A%A8recurring%E6%8D%90%E8%B5%A0",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Animal Heroes 发起尼泊尔洪灾动物紧急救援（与本地Sneha's Care、Animal Nepal合作）",
+            "summary": "荷兰 ANBI 慈善机构 Animal Heroes 联合 Stichting Dierennood，为尼泊尔8\/26特大洪灾中的牲畜、流浪与役用动物发起紧急救援，联合本地 Sneha's Care（Lalitpur）与 Animal Nepal（Kathmandu）24小时提供庇护、食物、药品与燃料，100% 捐款直达动物紧急救助。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/animal-heroes-%E5%8F%91%E8%B5%B7%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B4%AA%E7%81%BE%E5%8A%A8%E7%89%A9%E7%B4%A7%E6%80%A5%E6%95%91%E6%8F%B4-%E4%B8%8E%E6%9C%AC%E5%9C%B0sneha-s-care-animal-nepal%E5%90%88%E4%BD%9C",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "Little Whiskers拟建Maricopa首座动物收容所，初始资金约$300,000",
             "summary": "Little Whiskers动物救助（志愿者寄养制）拟建Maricopa首座实体收容所，规划6栋独立通风建筑；初始开门资金约$300,000，通过社媒\/官网募款并办12月2日Whoville Gala（$100\/张）筹资。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/little-whiskers%E6%8B%9F%E5%BB%BAmaricopa%E9%A6%96%E5%BA%A7%E5%8A%A8%E7%89%A9%E6%94%B6%E5%AE%B9%E6%89%80-%E5%88%9D%E5%A7%8B%E8%B5%84%E9%87%91%E7%BA%A6-300-000",
@@ -188,7 +210,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-03",
+            "latest": "2026-09-12",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -199,7 +221,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-01",
+            "latest": "2026-09-12",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -210,7 +232,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-03",
+            "latest": "2026-09-12",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -221,7 +243,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-05",
+            "latest": "2026-09-12",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -243,7 +265,7 @@
             "goal": 300000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-04",
+            "latest": "2026-09-12",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -254,7 +276,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-07-24",
+            "latest": "2026-09-12",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
