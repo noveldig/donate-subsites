@@ -5,6 +5,39 @@
     "footer": "Powered by 透明捐助 · 创作者赞助专区",
     "items": [
         {
+            "title": "Fourthwall 发布\"2026年9大Patreon替代平台\"盘点，自列头名（会员+周边+捐赠）",
+            "summary": "Fourthwall 发布2026年9大 Patreon 替代平台盘点，将自身列为创作者品牌首选（会员+原生POD周边+数字产品+捐赠）。对比 Ko-fi（打赏0%）、BMC、Substack、Memberful、Mighty Networks 等：Fourthwall 会员约10.9%、Ko-fi Free 约10.9–11%、Substack 付费订阅约16.6%。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/fourthwall-%E5%8F%91%E5%B8%83-2026%E5%B9%B49%E5%A4%A7patreon%E6%9B%BF%E4%BB%A3%E5%B9%B3%E5%8F%B0-%E7%9B%98%E7%82%B9-%E8%87%AA%E5%88%97%E5%A4%B4%E5%90%8D-%E4%BC%9A%E5%91%98-%E5%91%A8%E8%BE%B9-%E6%8D%90%E8%B5%A0",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "YouTube×虾皮在台湾推出联盟分润（最高13.5%），创作者联盟收益达广告5倍；Patreon改规警示自建站",
+            "summary": "YouTube 与虾皮购物在台湾推出联盟合作，创作者在 Studio 内标记虾皮商品，观众不出画下单、分润最高13.5%；实测创作者\"宜峯Chris\"联盟收益为广告5倍、占收入75%。文章同时以 Patreon 4月底强制合并账号+费率上调（含苹果30%）为例，警示过度依赖平台的收入风险，主张将忠实读者导回自建站。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/youtube-%E8%99%BE%E7%9A%AE%E5%9C%A8%E5%8F%B0%E6%B9%BE%E6%8E%A8%E5%87%BA%E8%81%94%E7%9B%9F%E5%88%86%E6%B6%A6-%E6%9C%80%E9%AB%9813-5-%E5%88%9B%E4%BD%9C%E8%80%85%E8%81%94%E7%9B%9F%E6%94%B6%E7%9B%8A%E8%BE%BE%E5%B9%BF%E5%91%8A5%E5%80%8D-patreon%E6%94%B9%E8%A7%84%E8%AD%A6%E7%A4%BA%E8%87%AA%E5%BB%BA%E7%AB%99",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Ko-fi 2026评测：打赏0%平台费、新账户默认Contributor 5%需手动关闭，1M+创作者",
+            "summary": "AI Tool Lab（香港）评测 Ko-fi：1M+ 创作者月访问、免费起、打赏0%平台费（仅 Stripe\/PayPal 约2.9%+$0.30 处理费）、会员\/店铺5%。提示新账户默认进入 Contributor 模式（连打赏也收5%），需手动关闭；Gold $6\/月可将会员\/店铺费率降至0%。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/ko-fi-2026%E8%AF%84%E6%B5%8B-%E6%89%93%E8%B5%8F0-%E5%B9%B3%E5%8F%B0%E8%B4%B9-%E6%96%B0%E8%B4%A6%E6%88%B7%E9%BB%98%E8%AE%A4contributor-5-%E9%9C%80%E6%89%8B%E5%8A%A8%E5%85%B3%E9%97%AD-1m-%E5%88%9B%E4%BD%9C%E8%80%85",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "2026超级粉丝付费平台横评：Bandcamp\/Patreon\/Substack\/流媒体原生订阅费率与留存",
             "summary": "Chartlex基于2400+艺人项目数据，对比Bandcamp（数字抽15%\/实体10%）、Patreon（2025-08-04后新页抽10%）、Substack（抽10%）与Spotify\/Apple原生订阅（约50%平台留存）的真实到手与12个月留存；建议艺人聚焦单一平台以提升40至60%复购留存。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/2026%E8%B6%85%E7%BA%A7%E7%B2%89%E4%B8%9D%E4%BB%98%E8%B4%B9%E5%B9%B3%E5%8F%B0%E6%A8%AA%E8%AF%84-bandcamp-patreon-substack-%E6%B5%81%E5%AA%92%E4%BD%93%E5%8E%9F%E7%94%9F%E8%AE%A2%E9%98%85%E8%B4%B9%E7%8E%87%E4%B8%8E%E7%95%99%E5%AD%98",
@@ -12,7 +45,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-12",
             "paypal": ""
         },
         {
@@ -23,7 +56,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-12",
             "paypal": ""
         },
         {
@@ -144,7 +177,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-01",
+            "latest": "2026-09-12",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -155,7 +188,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-01",
+            "latest": "2026-09-12",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -166,7 +199,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-04",
+            "latest": "2026-09-12",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
