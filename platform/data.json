@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 平台工具专区",
     "items": [
         {
+            "title": "Donorbox 竞争格局情报：累计为10万+组织筹超30亿美元，Standard $15\/月、Pro $150\/月",
+            "summary": "ForesightIQ 发布 Donorbox 竞争情报：2014年创立、总部弗吉尼亚，累计为10万+组织筹超30亿美元；提供可定制捐赠表单、P2P、众筹、会员、活动票务与 AI CRM，22+ 支付方式，Donorbox Live Kiosk 现场捐赠。2026 定价 Standard $15\/月、Pro $150\/月、Premium 定制；对手含 Givebutter、Donately、RallyUp、Bloomerang。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/donorbox-%E7%AB%9E%E4%BA%89%E6%A0%BC%E5%B1%80%E6%83%85%E6%8A%A5-%E7%B4%AF%E8%AE%A1%E4%B8%BA10%E4%B8%87-%E7%BB%84%E7%BB%87%E7%AD%B9%E8%B6%8530%E4%BA%BF%E7%BE%8E%E5%85%83-standard-15-%E6%9C%88-pro-150-%E6%9C%88",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "开源捐赠平台OpenPledge用Solana区块链+AI实现捐款全程透明可追溯",
             "summary": "开发者发布开源捐赠平台OpenPledge：每笔捐款上链Solana形成不可篡改公开账本，Google Gemini生成个性化致谢、ElevenLabs转为语音，Snowflake驱动公开影响力看板；无需登录，源码已开源，定位提升慈善透明度。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%BC%80%E6%BA%90%E6%8D%90%E8%B5%A0%E5%B9%B3%E5%8F%B0openpledge%E7%94%A8solana%E5%8C%BA%E5%9D%97%E9%93%BE-ai%E5%AE%9E%E7%8E%B0%E6%8D%90%E6%AC%BE%E5%85%A8%E7%A8%8B%E9%80%8F%E6%98%8E%E5%8F%AF%E8%BF%BD%E6%BA%AF",
@@ -12,7 +23,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-12",
             "paypal": ""
         },
         {
@@ -23,7 +34,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-12",
             "paypal": ""
         },
         {
@@ -111,7 +122,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-05",
+            "latest": "2026-09-12",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -122,7 +133,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-04",
+            "latest": "2026-09-12",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
