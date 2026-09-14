@@ -5,6 +5,50 @@
     "footer": "Powered by 透明捐助 · 创作者赞助专区",
     "items": [
         {
+            "title": "ShaunSocial推自建托管Patreon替代：一次性$149买断，0月费0抽成",
+            "summary": "ShaunSocial（基于PHP 8.1\/Laravel的商业化开源白标会员平台）主推拥有自己的平台：一次性$149买断含付费订阅、付费内容、会员管理、活动流，无月费无抽成；对标Patreon（2026年9月标准计划抽10%+支付处理费）。原生App包$559，12个月免费更新后$49\/年。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/shaunsocial%E6%8E%A8%E8%87%AA%E5%BB%BA%E6%89%98%E7%AE%A1patreon%E6%9B%BF%E4%BB%A3-%E4%B8%80%E6%AC%A1%E6%80%A7-149%E4%B9%B0%E6%96%AD-0%E6%9C%88%E8%B4%B90%E6%8A%BD%E6%88%90",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "中文盘点：2026年10款最佳Patreon替代品费率对比（Ko-fi\/BuyMeACoffee最便宜）",
+            "summary": "Coursebox中文评测对比10款Patreon替代品真实费率：自2025年8月起Patreon新主页统一抽会员收入10%；Ko-fi与Buy Me a Coffee最接近且最便宜（打赏0%手续费、会员约5%），插画师首选Ko-fi；Gumroad费率有时高过Patreon；掌握受众邮箱\/账单关系（Substack\/Ghost\/Memberful）比省1-2点手续费更值。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E4%B8%AD%E6%96%87%E7%9B%98%E7%82%B9-2026%E5%B9%B410%E6%AC%BE%E6%9C%80%E4%BD%B3patreon%E6%9B%BF%E4%BB%A3%E5%93%81%E8%B4%B9%E7%8E%87%E5%AF%B9%E6%AF%94-ko-fi-buymeacoffee%E6%9C%80%E4%BE%BF%E5%AE%9C",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Gaugius 2026会员软件Top10：Patreon居首，MemberPress\/Kajabi紧随",
+            "summary": "Gaugius于2026-09-13更新发布会员软件Top10（Patreon 9.2\/10居首，MemberPress 9.0、Kajabi 8.4、Wild Apricot 8.1、MemberStack 8.0等），采用功能验证+多媒体评测+合成用户建模+人工编辑四步排名法；指出Patreon适合需可靠会员门户与基础自动化的创作者。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/gaugius-2026%E4%BC%9A%E5%91%98%E8%BD%AF%E4%BB%B6top10-patreon%E5%B1%85%E9%A6%96-memberpress-kajabi%E7%B4%A7%E9%9A%8F",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Luvi定位全能型创作者订阅平台：电商+PPV+AI聊天代理+团队分账",
+            "summary": "Luvi主打创作者一站式工具：内置电商店、按次付费媒体、付费音视频通话、打赏，及含AI聊天代理的CRM与团队分账；对比Patreon（社区强、变现工具单一）与OnlyFans\/Fansly（成人向、缺业务管理）。建议入门档$5-10\/月，并展望AI自动化为下一前沿。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/luvi%E5%AE%9A%E4%BD%8D%E5%85%A8%E8%83%BD%E5%9E%8B%E5%88%9B%E4%BD%9C%E8%80%85%E8%AE%A2%E9%98%85%E5%B9%B3%E5%8F%B0-%E7%94%B5%E5%95%86-ppv-ai%E8%81%8A%E5%A4%A9%E4%BB%A3%E7%90%86-%E5%9B%A2%E9%98%9F%E5%88%86%E8%B4%A6",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "Fourthwall 发布\"2026年9大Patreon替代平台\"盘点，自列头名（会员+周边+捐赠）",
             "summary": "Fourthwall 发布2026年9大 Patreon 替代平台盘点，将自身列为创作者品牌首选（会员+原生POD周边+数字产品+捐赠）。对比 Ko-fi（打赏0%）、BMC、Substack、Memberful、Mighty Networks 等：Fourthwall 会员约10.9%、Ko-fi Free 约10.9–11%、Substack 付费订阅约16.6%。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/fourthwall-%E5%8F%91%E5%B8%83-2026%E5%B9%B49%E5%A4%A7patreon%E6%9B%BF%E4%BB%A3%E5%B9%B3%E5%8F%B0-%E7%9B%98%E7%82%B9-%E8%87%AA%E5%88%97%E5%A4%B4%E5%90%8D-%E4%BC%9A%E5%91%98-%E5%91%A8%E8%BE%B9-%E6%8D%90%E8%B5%A0",
@@ -12,7 +56,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-13",
             "paypal": ""
         },
         {
@@ -23,7 +67,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
+            "latest": "2026-09-13",
             "paypal": ""
         },
         {
@@ -34,7 +78,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-13",
             "paypal": ""
         },
         {
