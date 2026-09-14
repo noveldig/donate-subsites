@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 企业赞助专区",
     "items": [
         {
+            "title": "SAPA发布员工配捐（Matching Gift）指南：企业配捐可让单笔捐赠翻倍",
+            "summary": "苏丹裔美国医师协会（SAPA）发布配捐指南：企业配捐（matching gift）可等于或倍增员工对合格501(c)(3)的捐赠，费用由雇主慈善预算承担；常见最低$25、年度上限数千至$1万+，提交期限通常60天至1年；提示可主动推动雇主新建配捐项目。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/sapa%E5%8F%91%E5%B8%83%E5%91%98%E5%B7%A5%E9%85%8D%E6%8D%90-matching-gift-%E6%8C%87%E5%8D%97-%E4%BC%81%E4%B8%9A%E9%85%8D%E6%8D%90%E5%8F%AF%E8%AE%A9%E5%8D%95%E7%AC%94%E6%8D%90%E8%B5%A0%E7%BF%BB%E5%80%8D",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "Uncommon Giving 发布\"5个Submittable企业捐赠替代方案\"（Foundant\/Blackbaud\/Uncommon等）",
             "summary": "Uncommon Giving 发布企业捐赠团队 Submittable 五大替代方案盘点：Foundant（年$6,500–$13,900）、Blackbaud Grantmaking（定制报价）、Uncommon Giving（年$2,400起）、SurveyMonkey Apply、Good Grants。指出 Submittable 报价不透明、关键能力限 Enterprise 层、企业\/基金会\/政府三受众共用路线图，企业团队转向专用 grants+员工配捐一体平台。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/uncommon-giving-%E5%8F%91%E5%B8%83-5%E4%B8%AAsubmittable%E4%BC%81%E4%B8%9A%E6%8D%90%E8%B5%A0%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88-foundant-blackbaud-uncommon%E7%AD%89",
@@ -12,7 +23,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-13",
             "paypal": ""
         },
         {
@@ -23,7 +34,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-13",
             "paypal": ""
         },
         {
@@ -34,7 +45,7 @@
             "goal": 10000,
             "currency": "eur",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-13",
             "paypal": ""
         },
         {
