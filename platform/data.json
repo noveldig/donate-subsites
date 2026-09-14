@@ -5,6 +5,28 @@
     "footer": "Powered by 透明捐助 · 平台工具专区",
     "items": [
         {
+            "title": "Bonterra发布筹款软件套件与AI助手Que：覆盖21.6万非营利、年捐赠$22B",
+            "summary": "Bonterra Technology整合募款软件套件（Network for Good\/EveryAction\/DonorDrive\/OneCause），核心是AI助手Que——基于21.6万非营利、4,600万支持者与三分之一财富100强数据，提供分群、草拟邮件、生成捐赠页与建议下一步；宣称捐赠增长3倍快、留存+144%、捐赠额+44%。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/bonterra%E5%8F%91%E5%B8%83%E7%AD%B9%E6%AC%BE%E8%BD%AF%E4%BB%B6%E5%A5%97%E4%BB%B6%E4%B8%8Eai%E5%8A%A9%E6%89%8Bque-%E8%A6%86%E7%9B%9621-6%E4%B8%87%E9%9D%9E%E8%90%A5%E5%88%A9-%E5%B9%B4%E6%8D%90%E8%B5%A0-22b",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Network for Good（Bonterra Que驱动）推首年保底教练式AI筹款平台",
+            "summary": "Network for Good面向小型非营利，以教练优先+内置AI助手Bonterra Que（基于20+年小型非营利辅导经验）提供捐赠人管理、活动、邮件、捐赠页；首年保底：按最佳实践执行则筹款不少于去年+订阅费，否则退差；Optimized Ask使每表单筹款额+11%。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/network-for-good-bonterra-que%E9%A9%B1%E5%8A%A8-%E6%8E%A8%E9%A6%96%E5%B9%B4%E4%BF%9D%E5%BA%95%E6%95%99%E7%BB%83%E5%BC%8Fai%E7%AD%B9%E6%AC%BE%E5%B9%B3%E5%8F%B0",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "Donorbox 竞争格局情报：累计为10万+组织筹超30亿美元，Standard $15\/月、Pro $150\/月",
             "summary": "ForesightIQ 发布 Donorbox 竞争情报：2014年创立、总部弗吉尼亚，累计为10万+组织筹超30亿美元；提供可定制捐赠表单、P2P、众筹、会员、活动票务与 AI CRM，22+ 支付方式，Donorbox Live Kiosk 现场捐赠。2026 定价 Standard $15\/月、Pro $150\/月、Premium 定制；对手含 Givebutter、Donately、RallyUp、Bloomerang。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/donorbox-%E7%AB%9E%E4%BA%89%E6%A0%BC%E5%B1%80%E6%83%85%E6%8A%A5-%E7%B4%AF%E8%AE%A1%E4%B8%BA10%E4%B8%87-%E7%BB%84%E7%BB%87%E7%AD%B9%E8%B6%8530%E4%BA%BF%E7%BE%8E%E5%85%83-standard-15-%E6%9C%88-pro-150-%E6%9C%88",
@@ -12,7 +34,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-13",
             "paypal": ""
         },
         {
