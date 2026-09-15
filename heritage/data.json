@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 文旅遗产专区",
     "items": [
         {
+            "title": "伯明翰博物馆信托「Your Museums, Your Move」£2M 保卫战：每 £1 需配对方能维持运营",
+            "summary": "Birmingham Museums Trust（掌管伯明翰博物馆与艺术画廊、Thinktank、Aston Hall 等）发起 £2M「Your Museums, Your Move」募款，尽管有市议会与英格兰艺术委员会常规拨款，仍须等额自筹以维持开放。适逢 BM&AG 140 周年，信托呼吁居民、企业与机构捐助，称每 £1 到位须配对才能保住场馆。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E4%BC%AF%E6%98%8E%E7%BF%B0%E5%8D%9A%E7%89%A9%E9%A6%86%E4%BF%A1%E6%89%98-your-museums-your-move-2m-%E4%BF%9D%E5%8D%AB%E6%88%98-%E6%AF%8F-1-%E9%9C%80%E9%85%8D%E5%AF%B9%E6%96%B9%E8%83%BD%E7%BB%B4%E6%8C%81%E8%BF%90%E8%90%A5",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "eur",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "乐山大佛文物保护公益基金会发布2026年捐赠光荣榜（含¥221,500企业捐赠）",
             "summary": "四川乐山大佛文物保护公益基金会公布2026年捐赠光荣榜：陕西诚辉信泰机电设备有限公司网上转账¥221,500用于乐山大佛修缮保护；崔艳云¥20,000、北京国文旅科技¥2,089.20等；多笔匿名\/个人小额（¥1-¥8.88）持续至2026-09-04，用途均为乐山大佛本体修缮维护。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%85%AC%E7%9B%8A%E5%9F%BA%E9%87%91%E4%BC%9A%E5%8F%91%E5%B8%832026%E5%B9%B4%E6%8D%90%E8%B5%A0%E5%85%89%E8%8D%A3%E6%A6%9C-%E5%90%AB-221-500%E4%BC%81%E4%B8%9A%E6%8D%90%E8%B5%A0",
@@ -12,7 +23,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
+            "latest": "2026-09-14",
             "paypal": ""
         },
         {
@@ -23,7 +34,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
+            "latest": "2026-09-14",
             "paypal": ""
         },
         {
@@ -34,7 +45,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
+            "latest": "2026-09-14",
             "paypal": ""
         },
         {
@@ -232,7 +243,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-07",
+            "latest": "2026-09-14",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -243,7 +254,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-07",
+            "latest": "2026-09-14",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -254,7 +265,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-03",
+            "latest": "2026-09-14",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -265,7 +276,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-06",
+            "latest": "2026-09-14",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -287,7 +298,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-08-27",
+            "latest": "2026-09-14",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
