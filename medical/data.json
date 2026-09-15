@@ -5,6 +5,61 @@
     "footer": "Powered by 透明捐助 · 医疗援助专区",
     "items": [
         {
+            "title": "Transparent Hands：巴基斯坦医疗众筹平台，2026 年 3 月支持信德省 6 场免费医疗营",
+            "summary": "Transparent Hands 是总部位于拉合尔的 nonprofit，运营面向贫困患者的在线医疗众筹平台（2014 成立，Plan9 孵化）。2026 年 3 月 Business Recorder 报道其技术支持信德省 Thatta 区 6 场免费医疗营，诊治 1,198 名门诊患者并分发药品与化验。平台与医院合作核验病例并安排治疗。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/transparent-hands-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9%E5%B9%B3%E5%8F%B0-2026-%E5%B9%B4-3-%E6%9C%88%E6%94%AF%E6%8C%81%E4%BF%A1%E5%BE%B7%E7%9C%81-6-%E5%9C%BA%E5%85%8D%E8%B4%B9%E5%8C%BB%E7%96%97%E8%90%A5",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "英国 Wrexham 家庭为 34 岁脑胶质瘤患者 Joshua Smith 发起 £75,000 治疗与临床试验募捐",
+            "summary": "34 岁 Joshua Smith 确诊 4 级胶质母细胞瘤（无法治愈），已接受手术\/放化疗，家庭发起 £75,000 GoFundMe 募捐以支付海外临床试验与专科治疗、差旅住宿与复查费用。其妻 Kelly 同时为 Brain Tumour Research 募款。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%8B%B1%E5%9B%BD-wrexham-%E5%AE%B6%E5%BA%AD%E4%B8%BA-34-%E5%B2%81%E8%84%91%E8%83%B6%E8%B4%A8%E7%98%A4%E6%82%A3%E8%80%85-joshua-smith-%E5%8F%91%E8%B5%B7-75-000-%E6%B2%BB%E7%96%97%E4%B8%8E%E4%B8%B4%E5%BA%8A%E8%AF%95%E9%AA%8C%E5%8B%9F%E6%8D%90",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "eur",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "夏威夷母亲Pi'ilani白血病治疗GoFundMe众筹（目标$14K，已筹$5,410）",
+            "summary": "22岁Pi'ilani Alapai Lopez确诊APL白血病，需8个月治疗无法工作，家人发起GoFundMe支付医院账单、房租及儿子探视机票；目标$14,000，已筹$5,410（26笔捐赠）。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%A4%8F%E5%A8%81%E5%A4%B7%E6%AF%8D%E4%BA%B2pi-ilani%E7%99%BD%E8%A1%80%E7%97%85%E6%B2%BB%E7%96%97gofundme%E4%BC%97%E7%AD%B9-%E7%9B%AE%E6%A0%87-14k-%E5%B7%B2%E7%AD%B9-5-410",
+            "raised": 0,
+            "goal": 5410,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "西班牙DJ B Jones癌症康复GoFundMe众筹（目标€40,000）",
+            "summary": "西班牙DJ兼制作人B Jones（Beatriz Martínez）经历淋巴瘤化疗、骨髓移植后仍需髋关节手术与假体，朋友与团队经其授权发起GoFundMe，目标€40,000，用于手术、康复、药物及生活开支；其自7月19日坐轮椅登Tomorrowland主舞台。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%A5%BF%E7%8F%AD%E7%89%99dj-b-jones%E7%99%8C%E7%97%87%E5%BA%B7%E5%A4%8Dgofundme%E4%BC%97%E7%AD%B9-%E7%9B%AE%E6%A0%87-40-000",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-09-13",
+            "paypal": ""
+        },
+        {
+            "title": "中文深度分析：癌症患者网络众筹平台选择、费率与诈捐风险",
+            "summary": "梳理癌症患者可用的网络筹款平台：GoFundMe（无平台费，仅2.9%+$0.3\/笔支付处理费）、香港癌症药物众筹平台（需资产审核）、轻松筹\/水滴筹（国内主流但审核漏洞多）；提示诈捐法律风险与公众信任危机（约40%用户因担心受骗拒捐）。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E4%B8%AD%E6%96%87%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90-%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E7%BD%91%E7%BB%9C%E4%BC%97%E7%AD%B9%E5%B9%B3%E5%8F%B0%E9%80%89%E6%8B%A9-%E8%B4%B9%E7%8E%87%E4%B8%8E%E8%AF%88%E6%8D%90%E9%A3%8E%E9%99%A9",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-09-14",
+            "paypal": ""
+        },
+        {
             "title": "水滴(WDH)2026 Q2财报：医疗众筹累计4.99亿捐赠者、筹款747亿元",
             "summary": "水滴2026 Q2净营收14.48亿元（同比+72.8%），保险业务占13.33亿；医疗众筹截至2026-06累计4.99亿捐赠者、助力382万患者、筹款747亿元。本季升级AI风控模型（身份证\/医疗材料\/内容语义分析），提升隐匿资产与敏感身份识别；AI预售助手环比用户+50%。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%B0%B4%E6%BB%B4-wdh-2026-q2%E8%B4%A2%E6%8A%A5-%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9%E7%B4%AF%E8%AE%A14-99%E4%BA%BF%E6%8D%90%E8%B5%A0%E8%80%85-%E7%AD%B9%E6%AC%BE747%E4%BA%BF%E5%85%83",
@@ -12,7 +67,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
+            "latest": "2026-09-13",
             "paypal": ""
         },
         {
@@ -23,7 +78,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
+            "latest": "2026-09-13",
             "paypal": ""
         },
         {
@@ -34,7 +89,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
+            "latest": "2026-09-13",
             "paypal": ""
         },
         {
@@ -45,7 +100,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
+            "latest": "2026-09-13",
             "paypal": ""
         },
         {
@@ -287,7 +342,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-07",
+            "latest": "2026-11-27",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -298,7 +353,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-07",
+            "latest": "2026-09-14",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -309,7 +364,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-05",
+            "latest": "2026-09-14",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -331,7 +386,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2024-07-27",
+            "latest": "2026-09-14",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
