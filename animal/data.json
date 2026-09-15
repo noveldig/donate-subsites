@@ -5,6 +5,61 @@
     "footer": "Powered by 透明捐助 · 动物保护专区",
     "items": [
         {
+            "title": "Clear The Shelters 2026：NBCUniversal 年度宠物领养+筹款活动，Hill's Pet Nutrition 出任主赞助",
+            "summary": "Clear The Shelters 是 NBCUniversal Local 自 2015 年发起的年度全国宠物领养与筹款活动，联合 NBC\/Telemundo 站点与全美救助机构。2026 年版 Hill's Pet Nutrition 出任主赞助；捐赠通道开放至 9 月 15 日。自启动以来已助 130 万只宠物找到家、为参与机构筹得逾 $5.6M（2025 年版 16 万+ 领养、筹款 $628K 为 2020 年来最高）。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/clear-the-shelters-2026-nbcuniversal-%E5%B9%B4%E5%BA%A6%E5%AE%A0%E7%89%A9%E9%A2%86%E5%85%BB-%E7%AD%B9%E6%AC%BE%E6%B4%BB%E5%8A%A8-hill-s-pet-nutrition-%E5%87%BA%E4%BB%BB%E4%B8%BB%E8%B5%9E%E5%8A%A9",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Dogster指南：14种经兽医认可的帮助流浪狗方式（含发起GoFundMe）",
+            "summary": "Dogster发布更新于2026-09-09的指南，列出14种帮助流浪狗方式：做志愿者、建愿望清单、发起GoFundMe众筹、赞助收容所\/动物、报告走失、捐旧物、寄养、领养、加入ASPCA倡导等；指出美国每年约630万只宠物进收容所，多数靠志愿者与紧绷预算维持。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/dogster%E6%8C%87%E5%8D%97-14%E7%A7%8D%E7%BB%8F%E5%85%BD%E5%8C%BB%E8%AE%A4%E5%8F%AF%E7%9A%84%E5%B8%AE%E5%8A%A9%E6%B5%81%E6%B5%AA%E7%8B%97%E6%96%B9%E5%BC%8F-%E5%90%AB%E5%8F%91%E8%B5%B7gofundme",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Wichita动物救助联盟（WAAL）发起$100,000众筹，前$5,000由SB Mow It Forward配捐",
+            "summary": "网红草坪清理博主Spencer Bosley（SB Mow It Forward）发起为Wichita Animal Action League筹$100,000的GoFundMe，其非营利董事会承诺配捐前$5,000；WAAL年分发约25万磅免费宠物粮、运营移动兽医诊所，旨在危机前干预宠物遗弃。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/wichita%E5%8A%A8%E7%89%A9%E6%95%91%E5%8A%A9%E8%81%94%E7%9B%9F-waal-%E5%8F%91%E8%B5%B7-100-000%E4%BC%97%E7%AD%B9-%E5%89%8D-5-000%E7%94%B1sb-mow-it-forward%E9%85%8D%E6%8D%90",
+            "raised": 0,
+            "goal": 5000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-09-14",
+            "paypal": ""
+        },
+        {
+            "title": "温哥华VOKRA猫救助协会Walk for the Kitties目标升至$275,000，已筹$29,000",
+            "summary": "温哥华孤儿小猫救助协会（VOKRA）因通胀、野火致猫咪激增、卑诗省内陆火灾致猫需避难点，将年度Walk for the Kitties筹款目标上调至$275,000；距9月13日5K步行仅筹$29,000，月兽医账单约$80,000，若未达标将限制接收猫数量。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%B8%A9%E5%93%A5%E5%8D%8Evokra%E7%8C%AB%E6%95%91%E5%8A%A9%E5%8D%8F%E4%BC%9Awalk-for-the-kitties%E7%9B%AE%E6%A0%87%E5%8D%87%E8%87%B3-275-000-%E5%B7%B2%E7%AD%B9-29-000",
+            "raised": 0,
+            "goal": 29000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "调查：乌干达假救狗真诈骗产业五年在GoFundMe敛财超$730,000",
+            "summary": "鉅亨号编译调查：过去五年数百个GoFundMe筹款为乌干达动物收容所筹超73万美元，约40%关联Mityana小镇的假救狗诈骗——拍摄同一批狗的摆拍视频、伪造兽医治疗、虚报狗粮价11倍；当地形成公开诈骗文化，反诈骗团体在Instagram有约2万粉丝。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%B0%83%E6%9F%A5-%E4%B9%8C%E5%B9%B2%E8%BE%BE%E5%81%87%E6%95%91%E7%8B%97%E7%9C%9F%E8%AF%88%E9%AA%97%E4%BA%A7%E4%B8%9A%E4%BA%94%E5%B9%B4%E5%9C%A8gofundme%E6%95%9B%E8%B4%A2%E8%B6%85-730-000",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "iHeartCats\/Hero VIP Club：订阅制动物救援众筹模式，单篇救助故事驱动recurring捐赠",
             "summary": "iHeartCats 以 Hero VIP Club 会员订阅模式为猫狗救援持续供血，平台 Stories 页面以单篇救助故事（Burger\/Hugo\/Philly 等）串联捐赠者；其模式强调\"每笔捐赠直抵救助\"，用于绝育、重症医疗与收容安养，体现动物救援众筹从一次性打赏走向 recurring 订阅。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/iheartcats-hero-vip-club-%E8%AE%A2%E9%98%85%E5%88%B6%E5%8A%A8%E7%89%A9%E6%95%91%E6%8F%B4%E4%BC%97%E7%AD%B9%E6%A8%A1%E5%BC%8F-%E5%8D%95%E7%AF%87%E6%95%91%E5%8A%A9%E6%95%85%E4%BA%8B%E9%A9%B1%E5%8A%A8recurring%E6%8D%90%E8%B5%A0",
@@ -12,7 +67,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-13",
             "paypal": ""
         },
         {
@@ -23,7 +78,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-13",
             "paypal": ""
         },
         {
@@ -177,7 +232,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-07",
+            "latest": "2026-09-14",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -188,7 +243,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-01",
+            "latest": "2026-09-14",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
