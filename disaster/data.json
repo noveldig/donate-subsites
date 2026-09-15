@@ -5,6 +5,28 @@
     "footer": "Powered by 透明捐助 · 灾害人道专区",
     "items": [
         {
+            "title": "MIT Group Foundation 发起尼泊尔 Bhotekoshi 洪灾儿童救助 Appeal（援助失亲学童至 12 年级）",
+            "summary": "2026-08-26 Bhotekoshi 河暴洪重创尼泊尔 Rasuwa 等地。MIT Group Foundation 发起 Nepal Flood Appeal，规划为期约 10 年、覆盖至多 110 名因洪灾失去父\/母的学龄儿童的长期教育与照护项目（学费、教材、食宿、心理支持），拟与尼泊尔政府签署三方 MoU；当前已在澳开放捐款（满 $2 澳元可抵税）。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/mit-group-foundation-%E5%8F%91%E8%B5%B7%E5%B0%BC%E6%B3%8A%E5%B0%94-bhotekoshi-%E6%B4%AA%E7%81%BE%E5%84%BF%E7%AB%A5%E6%95%91%E5%8A%A9-appeal-%E6%8F%B4%E5%8A%A9%E5%A4%B1%E4%BA%B2%E5%AD%A6%E7%AB%A5%E8%87%B3-12-%E5%B9%B4%E7%BA%A7",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "ABM Anglican Board of Mission 启动尼泊尔暴洪紧急 Appeal（经 ACT Alliance 渠道）",
+            "summary": "2026-08-27 冰川溃决引发的暴洪席卷尼泊尔中部，截至 9 月 1 日官方确认至少 950 人死亡、4,400 人失踪，含 43 名澳大利亚人。ABM AID 启动 Nepal Flash Flood Emergency Appeal，经 ACT Alliance（全球基督教人道联盟）提供紧急安置、食物、水卫、健康、家庭寻亲与心理支持；捐款经 Westpac 账户，满 $2 澳元可抵税。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/abm-anglican-board-of-mission-%E5%90%AF%E5%8A%A8%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%9A%B4%E6%B4%AA%E7%B4%A7%E6%80%A5-appeal-%E7%BB%8F-act-alliance-%E6%B8%A0%E9%81%93",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "研究：美国移民diaspora团体快速响应尼泊尔、哥伦比亚、委内瑞拉祖国灾害募捐",
             "summary": "The Conversation报道diaspora主导的非营利组织在2026年尼泊尔、哥伦比亚、委内瑞拉等地灾害中快速募捐与落地，依托祖国在地伙伴网络；研究指出此类组织规模虽小但响应敏捷，是大型人道组织之外的重要补充。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%A0%94%E7%A9%B6-%E7%BE%8E%E5%9B%BD%E7%A7%BB%E6%B0%91diaspora%E5%9B%A2%E4%BD%93%E5%BF%AB%E9%80%9F%E5%93%8D%E5%BA%94%E5%B0%BC%E6%B3%8A%E5%B0%94-%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A-%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E7%A5%96%E5%9B%BD%E7%81%BE%E5%AE%B3%E5%8B%9F%E6%8D%90",
