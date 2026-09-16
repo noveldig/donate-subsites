@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 灾害人道专区",
     "items": [
         {
+            "title": "福建莆田涵江区红十字会就台风「沙德尔」防汛救灾发起公开募捐",
+            "summary": "受台风「沙德尔」持续强降雨影响，涵江区多地内涝、道路受阻、设施受损；涵江区红十字会向社会发起防汛救灾公开募捐，资金专项用于受灾困难群众生活救助、临时安置与基础设施修复，全程公开可追溯。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%A6%8F%E5%BB%BA%E8%8E%86%E7%94%B0%E6%B6%B5%E6%B1%9F%E5%8C%BA%E7%BA%A2%E5%8D%81%E5%AD%97%E4%BC%9A%E5%B0%B1%E5%8F%B0%E9%A3%8E-%E6%B2%99%E5%BE%B7%E5%B0%94-%E9%98%B2%E6%B1%9B%E6%95%91%E7%81%BE%E5%8F%91%E8%B5%B7%E5%85%AC%E5%BC%80%E5%8B%9F%E6%8D%90",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "MIT Group Foundation 发起尼泊尔 Bhotekoshi 洪灾儿童救助 Appeal（援助失亲学童至 12 年级）",
             "summary": "2026-08-26 Bhotekoshi 河暴洪重创尼泊尔 Rasuwa 等地。MIT Group Foundation 发起 Nepal Flood Appeal，规划为期约 10 年、覆盖至多 110 名因洪灾失去父\/母的学龄儿童的长期教育与照护项目（学费、教材、食宿、心理支持），拟与尼泊尔政府签署三方 MoU；当前已在澳开放捐款（满 $2 澳元可抵税）。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/mit-group-foundation-%E5%8F%91%E8%B5%B7%E5%B0%BC%E6%B3%8A%E5%B0%94-bhotekoshi-%E6%B4%AA%E7%81%BE%E5%84%BF%E7%AB%A5%E6%95%91%E5%8A%A9-appeal-%E6%8F%B4%E5%8A%A9%E5%A4%B1%E4%BA%B2%E5%AD%A6%E7%AB%A5%E8%87%B3-12-%E5%B9%B4%E7%BA%A7",
@@ -12,7 +23,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-15",
             "paypal": ""
         },
         {
@@ -23,7 +34,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-15",
             "paypal": ""
         },
         {
@@ -122,7 +133,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-08",
+            "latest": "2026-09-15",
             "paypal": ""
         },
         {
@@ -276,7 +287,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-05-13",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -287,7 +298,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-08",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -298,7 +309,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-08",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -309,7 +320,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-08-31",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -320,7 +331,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-08",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -331,7 +342,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-08",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -342,7 +353,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-08",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -353,7 +364,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-08-31",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -364,7 +375,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-08-31",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -375,7 +386,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-08",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -386,7 +397,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-08-31",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -397,7 +408,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-08-31",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         }
     ],
