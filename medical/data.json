@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 医疗援助专区",
     "items": [
         {
+            "title": "前《比弗利娇妻》明星 Brandi Glanville 因疑难病症发起 $28,000 医疗众筹",
+            "summary": "前《Real Housewives》明星 Brandi Glanville 确诊多重耐药感染、真菌球等疑难病症，需多次手术，发起 GoFundMe 筹资 $28,000 支付治疗与手术费用；多位前同事已捐款，凸显疑难病症自费医疗负担。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%89%8D-%E6%AF%94%E5%BC%97%E5%88%A9%E5%A8%87%E5%A6%BB-%E6%98%8E%E6%98%9F-brandi-glanville-%E5%9B%A0%E7%96%91%E9%9A%BE%E7%97%85%E7%97%87%E5%8F%91%E8%B5%B7-28-000-%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "Transparent Hands：巴基斯坦医疗众筹平台，2026 年 3 月支持信德省 6 场免费医疗营",
             "summary": "Transparent Hands 是总部位于拉合尔的 nonprofit，运营面向贫困患者的在线医疗众筹平台（2014 成立，Plan9 孵化）。2026 年 3 月 Business Recorder 报道其技术支持信德省 Thatta 区 6 场免费医疗营，诊治 1,198 名门诊患者并分发药品与化验。平台与医院合作核验病例并安排治疗。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/transparent-hands-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9%E5%B9%B3%E5%8F%B0-2026-%E5%B9%B4-3-%E6%9C%88%E6%94%AF%E6%8C%81%E4%BF%A1%E5%BE%B7%E7%9C%81-6-%E5%9C%BA%E5%85%8D%E8%B4%B9%E5%8C%BB%E7%96%97%E8%90%A5",
@@ -23,7 +34,7 @@
             "goal": 10000,
             "currency": "eur",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-15",
             "paypal": ""
         },
         {
@@ -276,7 +287,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-01",
+            "latest": "2026-09-15",
             "paypal": ""
         },
         {
@@ -287,7 +298,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-08",
+            "latest": "2026-09-15",
             "paypal": ""
         },
         {
@@ -298,7 +309,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-07",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -309,7 +320,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-07",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -320,7 +331,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-08-31",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -507,7 +518,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-07-25",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -529,7 +540,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-08",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -540,7 +551,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-08-31",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -562,7 +573,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-08",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -573,7 +584,7 @@
             "goal": 10000,
             "currency": "eur",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-08-31",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
