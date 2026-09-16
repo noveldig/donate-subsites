@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 平台工具专区",
     "items": [
         {
+            "title": "2026 非营利 AI 筹款工具综述：从捐赠表单到预测性 donor 洞察",
+            "summary": "综述 2026 年非营利组织 AI 筹款实践：基于历史捐赠数据的智能建议金额、P2P（Classy\/Fundraise Up）AI 优化、AI 受众定向投放降低单位筹款成本；建议从 donor 分层、个性化沟通或资助研究单点切入，6–12 个月内可观测留存率与平均礼金提升。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/2026-%E9%9D%9E%E8%90%A5%E5%88%A9-ai-%E7%AD%B9%E6%AC%BE%E5%B7%A5%E5%85%B7%E7%BB%BC%E8%BF%B0-%E4%BB%8E%E6%8D%90%E8%B5%A0%E8%A1%A8%E5%8D%95%E5%88%B0%E9%A2%84%E6%B5%8B%E6%80%A7-donor-%E6%B4%9E%E5%AF%9F",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "Donate Directly 推「全球首个 AI 天课(Zakat)计算器」驱动巴基斯坦清洁水 Appeal",
             "summary": "AI 驱动的慈善平台 Donate Directly 借「国家水质月」发起清洁水 Appeal，并以「全球首个 AI Zakat 计算器」帮助穆斯林 donor 即时核算天课并定向净水项目（打井、可持续水设施）。平台结合 AI 与透明捐赠：donor 可见资金去向、项目 GPS\/照片\/竣工报告；支持自建个性化募捐页。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/donate-directly-%E6%8E%A8-%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA-ai-%E5%A4%A9%E8%AF%BE-zakat-%E8%AE%A1%E7%AE%97%E5%99%A8-%E9%A9%B1%E5%8A%A8%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%B8%85%E6%B4%81%E6%B0%B4-appeal",
@@ -12,7 +23,7 @@
             "goal": 10000,
             "currency": "eur",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-15",
             "paypal": ""
         },
         {
@@ -133,7 +144,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-01",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -144,7 +155,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-07-10",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -232,7 +243,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-08",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -243,7 +254,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-04",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -254,7 +265,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-04",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -276,7 +287,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-08-31",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -287,7 +298,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-08-25",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -298,7 +309,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-07-10",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -309,7 +320,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-08-31",
+            "latest": "2026-09-15",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
