@@ -5,6 +5,50 @@
     "footer": "Powered by 透明捐助 · 平台工具专区",
     "items": [
         {
+            "title": "2026 最佳非营利 AI 工具盘点：Givebutter 0 平台费、Fundraise Up 4% 按交易、Funraise\/AppealAI 免费 AI 文案",
+            "summary": "AItoolsbakery 评测 2026 非营利 AI 工具：筹款平台 Givebutter（捐赠人打赏时免平台费、Plus $29\/月起，已处理 $1B+ 捐赠、Fast Company 2026 最具创新公司）、Fundraise Up（AI 优化捐赠页、4% 交易费、被 UNICEF USA\/加拿大红会等采用）、Funraise\/AppealAI（免费 AI 募捐文案生成）；grant 工具 Instrumentl（$179\/月起）、Grantable（$99\/月起）等。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/DI-20260917-005",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Bloomerang 评出 2026 年 23 款最佳筹款软件：Givebutter\/Donorbox\/Fundraise Up\/GoFundMe 领衔",
+            "summary": "Bloomerang 汇总 2026 年 23 款非营利筹款软件：Givebutter（无平台费、2.9%+$0.30 处理费）、Mightycause（$59\/月起，强 P2P\/Giving Day）、Fundraise Up（4% 交易费、ML 智能建议金额）、Donately（4% 平台费、可嵌入捐赠页）、Donorbox（1.75% 平台费）、FundRazr（无平台费）、GoFundMe（2010–2020 累计筹超 $15B）等，覆盖捐赠页、P2P、众筹与企业场景。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/bloomerang-%E8%AF%84%E5%87%BA-2026-%E5%B9%B4-23-%E6%AC%BE%E6%9C%80%E4%BD%B3%E7%AD%B9%E6%AC%BE%E8%BD%AF%E4%BB%B6-givebutter-donorbox-fundraise-up-gofundme-%E9%A2%86%E8%A1%94",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Fundraise Up 推出 Agentic Giving：AI 助手可直接为捐赠人预填并跳转官方捐赠页完成「代理捐赠」",
+            "summary": "Fundraise Up 发布 Agentic Giving：捐赠人向 AI 助手描述意图后，AI 完成检索、比对乃至代建预填捐赠链接，直达该机构既有 Fundraise Up 结账页（同一页面\/收据\/定捐\/CRM 同步），捐赠人仍在官方页完成支付；配套免费 AI Visibility Assessment 评估机构被 AI 误读的风险，并供给「单一事实来源」结构化文件让 AI 准确理解机构与项目。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/fundraise-up-%E6%8E%A8%E5%87%BA-agentic-giving-ai-%E5%8A%A9%E6%89%8B%E5%8F%AF%E7%9B%B4%E6%8E%A5%E4%B8%BA%E6%8D%90%E8%B5%A0%E4%BA%BA%E9%A2%84%E5%A1%AB%E5%B9%B6%E8%B7%B3%E8%BD%AC%E5%AE%98%E6%96%B9%E6%8D%90%E8%B5%A0%E9%A1%B5%E5%AE%8C%E6%88%90-%E4%BB%A3%E7%90%86%E6%8D%90%E8%B5%A0",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Donorbox 成首个接入 Stripe Directory 的筹款平台，解锁 AI 助手内「对话即捐赠」的代理捐赠",
+            "summary": "Donorbox CEO Charles Zhang 宣布平台成为全球首个集成 Stripe Directory 的筹款平台：捐赠人可在 Hermes\/Meta Muse\/Instinct\/Grok 等个人 AI 助手对话中搜索 Stripe Directory、找到心仪公益项目并直接完成捐赠，无需跳转网页或填表；现阶段仅适用于拥有美国 Stripe 账户的机构，被视为筹款新获客入口。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/donorbox-%E6%88%90%E9%A6%96%E4%B8%AA%E6%8E%A5%E5%85%A5-stripe-directory-%E7%9A%84%E7%AD%B9%E6%AC%BE%E5%B9%B3%E5%8F%B0-%E8%A7%A3%E9%94%81-ai-%E5%8A%A9%E6%89%8B%E5%86%85-%E5%AF%B9%E8%AF%9D%E5%8D%B3%E6%8D%90%E8%B5%A0-%E7%9A%84%E4%BB%A3%E7%90%86%E6%8D%90%E8%B5%A0",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "2026 非营利 AI 筹款工具综述：从捐赠表单到预测性 donor 洞察",
             "summary": "综述 2026 年非营利组织 AI 筹款实践：基于历史捐赠数据的智能建议金额、P2P（Classy\/Fundraise Up）AI 优化、AI 受众定向投放降低单位筹款成本；建议从 donor 分层、个性化沟通或资助研究单点切入，6–12 个月内可观测留存率与平均礼金提升。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/2026-%E9%9D%9E%E8%90%A5%E5%88%A9-ai-%E7%AD%B9%E6%AC%BE%E5%B7%A5%E5%85%B7%E7%BB%BC%E8%BF%B0-%E4%BB%8E%E6%8D%90%E8%B5%A0%E8%A1%A8%E5%8D%95%E5%88%B0%E9%A2%84%E6%B5%8B%E6%80%A7-donor-%E6%B4%9E%E5%AF%9F",
@@ -12,7 +56,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-16",
             "paypal": ""
         },
         {
