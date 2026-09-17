@@ -5,6 +5,72 @@
     "footer": "Powered by 透明捐助 · 医疗援助专区",
     "items": [
         {
+            "title": "爱尔兰美妆创业者 Jane Swarbrigg 确诊 4 期结肠癌，家人发起 GoFundMe 赴美治疗",
+            "summary": "爱尔兰美妆品牌 Inglot 联合创始人 Jane Swarbrigg（两个孩子母亲）2026 年 4 月确诊结肠癌并已转移至肝肺，需赴美接受爱尔兰无法提供的 HAI Pump 专门治疗；家人发起 GoFundMe 筹医疗旅费。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%88%B1%E5%B0%94%E5%85%B0%E7%BE%8E%E5%A6%86%E5%88%9B%E4%B8%9A%E8%80%85-jane-swarbrigg-%E7%A1%AE%E8%AF%8A-4-%E6%9C%9F%E7%BB%93%E8%82%A0%E7%99%8C-%E5%AE%B6%E4%BA%BA%E5%8F%91%E8%B5%B7-gofundme-%E8%B5%B4%E7%BE%8E%E6%B2%BB%E7%96%97",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "支付宝公益联合中国红十字基金会等上线「健康救助专区」，构建医院+公募+平台三位一体救助生态",
+            "summary": "第十一个中华慈善日之际，支付宝公益平台「健康救助专区」上线，联合中国红十字基金会等 10 余家慈善组织及多家知名公立医院，搭建「医院+公募机构+平台」三位一体健康救助新生态；红基会首发「红纽扣人道服务支持」「帮小天使对抗白血病」等项目，善款由慈善组织账户直达医院、链路可追溯。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%94%AF%E4%BB%98%E5%AE%9D%E5%85%AC%E7%9B%8A%E8%81%94%E5%90%88%E4%B8%AD%E5%9B%BD%E7%BA%A2%E5%8D%81%E5%AD%97%E5%9F%BA%E9%87%91%E4%BC%9A%E7%AD%89%E4%B8%8A%E7%BA%BF-%E5%81%A5%E5%BA%B7%E6%95%91%E5%8A%A9%E4%B8%93%E5%8C%BA-%E6%9E%84%E5%BB%BA%E5%8C%BB%E9%99%A2-%E5%85%AC%E5%8B%9F-%E5%B9%B3%E5%8F%B0%E4%B8%89%E4%BD%8D%E4%B8%80%E4%BD%93%E6%95%91%E5%8A%A9%E7%94%9F%E6%80%81",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Testicular Cancer Foundation 2026 迄今筹款 $135,923，加密捐赠新渠道首年即超所有卡基线上捐赠",
+            "summary": "TCF 披露截至 2026-09-16 年度筹款 $135,923（目标 $200K 的 68%）：Fundraise Up 线上 $24,322（151 笔，中位一次性 gift $59）、2026 新开 Donate.gg 加密捐赠 $25,825（255 笔，首年即超所有卡基线上捐赠）、线下收入 $85,776；月捐 12 个计划、MRR $460（+53%）。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/testicular-cancer-foundation-2026-%E8%BF%84%E4%BB%8A%E7%AD%B9%E6%AC%BE-135-923-%E5%8A%A0%E5%AF%86%E6%8D%90%E8%B5%A0%E6%96%B0%E6%B8%A0%E9%81%93%E9%A6%96%E5%B9%B4%E5%8D%B3%E8%B6%85%E6%89%80%E6%9C%89%E5%8D%A1%E5%9F%BA%E7%BA%BF%E4%B8%8A%E6%8D%90%E8%B5%A0",
+            "raised": 0,
+            "goal": 200000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "加拿大 Kootenay 家庭的 John Tallman 确诊 4 级星细胞瘤，GoFundMe 目标 C$12,000 已筹 C$7,300",
+            "summary": "38 岁的 John Tallman 四年前两度战胜癌症，2026 年 7 月复发为侵袭性 4 级星细胞瘤（Stage 4 脑癌），9 月初在卡尔加里 Foothills 医院手术后准备放疗；妻子 Kalista Pruden 为照顾 4 岁女儿与两名年长孩子发起 GoFundMe 筹旅费与生活费，目标 C$12,000，已筹 C$7,300，预后约 12–18 个月。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8A%A0%E6%8B%BF%E5%A4%A7-kootenay-%E5%AE%B6%E5%BA%AD%E7%9A%84-john-tallman-%E7%A1%AE%E8%AF%8A-4-%E7%BA%A7%E6%98%9F%E7%BB%86%E8%83%9E%E7%98%A4-gofundme-%E7%9B%AE%E6%A0%87-c-12-000-%E5%B7%B2%E7%AD%B9-c-7-300",
+            "raised": 0,
+            "goal": 7300,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "NHL 记者 Todd Little 为患 3 期癌症的妻子 Stacey 发起 GoFundMe，目标 $15,000",
+            "summary": "长期报道 NHL 佛罗里达豹队的记者 Todd Little 于 2026-09-07 为患 3 期癌症的妻子 Stacey 发起 GoFundMe，目标 $15,000 用于 6 个月内覆盖健康保险费、医保外医疗费及房贷\/水电\/食品等家庭开支；医疗费用已成为家庭负担，报道时已筹逾 $5,000。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/nhl-%E8%AE%B0%E8%80%85-todd-little-%E4%B8%BA%E6%82%A3-3-%E6%9C%9F%E7%99%8C%E7%97%87%E7%9A%84%E5%A6%BB%E5%AD%90-stacey-%E5%8F%91%E8%B5%B7-gofundme-%E7%9B%AE%E6%A0%87-15-000",
+            "raised": 0,
+            "goal": 5000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "纳什维尔新秀 Austin Roest 女友 Milly Okabe 确诊 4 期腺癌，冰球界募捐已超 C$84,000",
+            "summary": "22 岁前花样滑冰选手、纳什维尔 Predators 新秀 Austin Roest 女友 Milly Okabe 确诊 4 期腺癌，其友人 Kristin LeDuc 发起 GoFundMe 筹治疗费；冰球界积极响应，截至 2026-09-08 已筹逾 C$84,000，Predators 官方、Hayley Wickenheiser 等留言声援，Dostal 等球员直接捐款。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BA%B3%E4%BB%80%E7%BB%B4%E5%B0%94%E6%96%B0%E7%A7%80-austin-roest-%E5%A5%B3%E5%8F%8B-milly-okabe-%E7%A1%AE%E8%AF%8A-4-%E6%9C%9F%E8%85%BA%E7%99%8C-%E5%86%B0%E7%90%83%E7%95%8C%E5%8B%9F%E6%8D%90%E5%B7%B2%E8%B6%85-c-84-000",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "前《比弗利娇妻》明星 Brandi Glanville 因疑难病症发起 $28,000 医疗众筹",
             "summary": "前《Real Housewives》明星 Brandi Glanville 确诊多重耐药感染、真菌球等疑难病症，需多次手术，发起 GoFundMe 筹资 $28,000 支付治疗与手术费用；多位前同事已捐款，凸显疑难病症自费医疗负担。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%89%8D-%E6%AF%94%E5%BC%97%E5%88%A9%E5%A8%87%E5%A6%BB-%E6%98%8E%E6%98%9F-brandi-glanville-%E5%9B%A0%E7%96%91%E9%9A%BE%E7%97%85%E7%97%87%E5%8F%91%E8%B5%B7-28-000-%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9",
@@ -12,7 +78,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-16",
             "paypal": ""
         },
         {
@@ -177,7 +243,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-16",
             "paypal": ""
         },
         {
@@ -199,7 +265,7 @@
             "goal": 10000,
             "currency": "eur",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-16",
             "paypal": ""
         },
         {
@@ -265,7 +331,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-16",
             "paypal": ""
         },
         {
@@ -386,7 +452,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-16",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
