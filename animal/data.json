@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 动物保护专区",
     "items": [
         {
+            "title": "弃养小猫 Gizmo 康复后再现健康危机，家属发起 GoFundMe 续筹医疗护理费",
+            "summary": "被弃养小猫 Gizmo 幼年入院、近期因可治疗的胆囊阻塞重病住院，经治疗已回家康复，但仍需持续兽医护理、用药、监测与处方粮；家属创建 GoFundMe 覆盖后续费用并分享康复历程，号召更多人帮助。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%BC%83%E5%85%BB%E5%B0%8F%E7%8C%AB-gizmo-%E5%BA%B7%E5%A4%8D%E5%90%8E%E5%86%8D%E7%8E%B0%E5%81%A5%E5%BA%B7%E5%8D%B1%E6%9C%BA-%E5%AE%B6%E5%B1%9E%E5%8F%91%E8%B5%B7-gofundme-%E7%BB%AD%E7%AD%B9%E5%8C%BB%E7%96%97%E6%8A%A4%E7%90%86%E8%B4%B9",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "加拿大 Moose Jaw 人道协会启动 Facebook 拍卖为 12 小时广播募捐接力",
             "summary": "Moose Jaw 人道协会上线 39 件物品 Facebook 拍卖，为 11 月 6 日 12 小时「4 Paws Radiothon」广播募捐预热，善款用于动物医疗基金（急救兽医、绝育、疫苗、驱虫、芯片）。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8A%A0%E6%8B%BF%E5%A4%A7-moose-jaw-%E4%BA%BA%E9%81%93%E5%8D%8F%E4%BC%9A%E5%90%AF%E5%8A%A8-facebook-%E6%8B%8D%E5%8D%96%E4%B8%BA-12-%E5%B0%8F%E6%97%B6%E5%B9%BF%E6%92%AD%E5%8B%9F%E6%8D%90%E6%8E%A5%E5%8A%9B",
@@ -155,7 +166,7 @@
             "goal": 5000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-07-01",
+            "latest": "2026-09-17",
             "paypal": ""
         },
         {
@@ -397,7 +408,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-10",
+            "latest": "2026-09-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -408,7 +419,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-10",
+            "latest": "2026-09-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -419,7 +430,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-10",
+            "latest": "2026-09-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -441,7 +452,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-15",
+            "latest": "2026-09-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -474,7 +485,7 @@
             "goal": 20000,
             "currency": "eur",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-15",
+            "latest": "2026-09-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -496,7 +507,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-15",
+            "latest": "2026-09-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         }
     ],
