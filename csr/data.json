@@ -5,6 +5,39 @@
     "footer": "Powered by 透明捐助 · 企业赞助专区",
     "items": [
         {
+            "title": "YourCause 推 AI 赋能企业公益：Impact Edge 用 AI 讲 impact 故事与基准对比",
+            "summary": "Blackbaud 旗下 YourCause 主打\"AI Solutions for Corporate Impact\"，以 AI 自动化与指导降低 admin 负担；其 Impact Edge 用 Blackbaud AI 将 CSR 数据转为高管级叙事、看板与基准对比，并依托最大规模受筛非营利网络使捐赠最快 95% 提速到达，覆盖员工捐赠、志愿、配捐与 grantmaking。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/yourcause-%E6%8E%A8-ai-%E8%B5%8B%E8%83%BD%E4%BC%81%E4%B8%9A%E5%85%AC%E7%9B%8A-impact-edge-%E7%94%A8-ai-%E8%AE%B2-impact-%E6%95%85%E4%BA%8B%E4%B8%8E%E5%9F%BA%E5%87%86%E5%AF%B9%E6%AF%94",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Benevity vs YourCause vs Uncommon Giving：万人以下企业职场捐赠平台选型对比",
+            "summary": "Uncommon Giving 发布 Benevity、YourCause（Blackbaud）与自身三方对比（2026-09 核查）：Benevity 与 YourCause 面向万人员工以上的大型企业、报价未公开、上线以月计；Uncommon Giving 面向 100–10,000 人企业，年费 $5,000 起、数日内上线，并提供可随员工跨职携带的可移植捐赠账户。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/benevity-vs-yourcause-vs-uncommon-giving-%E4%B8%87%E4%BA%BA%E4%BB%A5%E4%B8%8B%E4%BC%81%E4%B8%9A%E8%81%8C%E5%9C%BA%E6%8D%90%E8%B5%A0%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B%E5%AF%B9%E6%AF%94",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Benevity 将善款到账缩短至 14 天，覆盖工资扣款\/员工捐赠\/企业配捐\/资助全类型",
+            "summary": "Benevity 宣布通过平台捐出的善款最快 14 天即可到达受验非营利（此前行业平均 30–60 天），且所有捐赠类型（工资扣款、员工捐赠、企业配捐、资助）均适用，并保留四层尽调；同时升级 Causes Portal，为非营利提供实时预测看板、即时交易检索与多币种统一报表，以提升员工参与与留存。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/benevity-%E5%B0%86%E5%96%84%E6%AC%BE%E5%88%B0%E8%B4%A6%E7%BC%A9%E7%9F%AD%E8%87%B3-14-%E5%A4%A9-%E8%A6%86%E7%9B%96%E5%B7%A5%E8%B5%84%E6%89%A3%E6%AC%BE-%E5%91%98%E5%B7%A5%E6%8D%90%E8%B5%A0-%E4%BC%81%E4%B8%9A%E9%85%8D%E6%8D%90-%E8%B5%84%E5%8A%A9%E5%85%A8%E7%B1%BB%E5%9E%8B",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "Benevity 费率曝光：每笔捐款扣 2.99% 善款支持费（单笔封顶 $500），累计处理善款超 $15B",
             "summary": "Uncommon Giving 拆解 Benevity 定价：平台不公开订阅价，按员工数与模块销售；捐款侧按官方 Foundations Fees Schedule（2026-05-01 更新）每笔扣 2.99% 善款支持费（封顶 $500）、卡处理 2.95%（美国）、FX 加价 1.50%；Grants 模块独立计价、实施负担最重；Benevity 累计处理 $15B+ 善款、支付效率 99%、覆盖 200 万+ 受筛非营利，最适合 1 万+ 员工且有专职 CSR 团队的企业。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/benevity-%E8%B4%B9%E7%8E%87%E6%9B%9D%E5%85%89-%E6%AF%8F%E7%AC%94%E6%8D%90%E6%AC%BE%E6%89%A3-2-99-%E5%96%84%E6%AC%BE%E6%94%AF%E6%8C%81%E8%B4%B9-%E5%8D%95%E7%AC%94%E5%B0%81%E9%A1%B6-500-%E7%B4%AF%E8%AE%A1%E5%A4%84%E7%90%86%E5%96%84%E6%AC%BE%E8%B6%85-15b",
@@ -375,7 +408,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-10",
+            "latest": "2026-09-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -397,7 +430,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-10",
+            "latest": "2026-09-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -419,7 +452,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-15",
+            "latest": "2026-09-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -430,7 +463,7 @@
             "goal": 14,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-15",
+            "latest": "2026-09-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -441,7 +474,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-15",
+            "latest": "2026-09-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -452,7 +485,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-15",
+            "latest": "2026-09-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         }
     ],
