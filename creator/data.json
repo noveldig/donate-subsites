@@ -5,6 +5,50 @@
     "footer": "Powered by 透明捐助 · 创作者赞助专区",
     "items": [
         {
+            "title": "Substack 作家 2025 年经平台创收约 $4.5 亿，6 月推原生品牌赞助框架",
+            "summary": "分析指出 Substack 不直接给作家发薪，而是由读者付费、平台抽 10% + Stripe 手续费；Sacra 估算 2025 年作家经 Substack 创收约 $4.5 亿、平台抽成约 $4,500 万；2025-07 C 轮融资 $1 亿、估值超 $11 亿；2026-06 推出原生赞助框架（Nieman Lab 报道），作家可经平台直接对接品牌合作。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/substack-%E4%BD%9C%E5%AE%B6-2025-%E5%B9%B4%E7%BB%8F%E5%B9%B3%E5%8F%B0%E5%88%9B%E6%94%B6%E7%BA%A6-4-5-%E4%BA%BF-6-%E6%9C%88%E6%8E%A8%E5%8E%9F%E7%94%9F%E5%93%81%E7%89%8C%E8%B5%9E%E5%8A%A9%E6%A1%86%E6%9E%B6",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Patreon 2026 推出 30 项新功能，重塑内容发现与创作者黏性",
+            "summary": "据 TechCrunch，Patreon 已推出或翻新 30 项功能助力创作者被发现、建社区与洞察数据，包括 Clips（将视频转短视频在平台内作 Quips 分发）以及按主题\/工艺\/风格\/主题（而非仅相似创作者）重做的发现算法；文章指该策略虽助发现，也加深创作者对平台内部机制的依赖，建议多渠道分散。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/patreon-2026-%E6%8E%A8%E5%87%BA-30-%E9%A1%B9%E6%96%B0%E5%8A%9F%E8%83%BD-%E9%87%8D%E5%A1%91%E5%86%85%E5%AE%B9%E5%8F%91%E7%8E%B0%E4%B8%8E%E5%88%9B%E4%BD%9C%E8%80%85%E9%BB%8F%E6%80%A7",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Substack 应用新增播客标签页，创作者播客年创收超 $2 亿",
+            "summary": "Substack 在其应用中上线独立\"播客\"标签页，作为创作者播客的集中入口，并称在 Substack 发布播客的创作者合计年创收超 $2 亿；同期 Spotify Megaphone 调整 SPAN 准入（9 月 8 日起新节目须至少 3 期才可加入）。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/substack-%E5%BA%94%E7%94%A8%E6%96%B0%E5%A2%9E%E6%92%AD%E5%AE%A2%E6%A0%87%E7%AD%BE%E9%A1%B5-%E5%88%9B%E4%BD%9C%E8%80%85%E6%92%AD%E5%AE%A2%E5%B9%B4%E5%88%9B%E6%94%B6%E8%B6%85-2-%E4%BA%BF",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Patreon 强制迁移订阅计费：遗留\"按创作计费\"创作者须 2026-11-01 前切换",
+            "summary": "Patreon 要求仍使用遗留\"按创作计费（per-creation）\"的创作者于 2026-11-01 前强制切换为订阅计费；若由系统自动转换，会员计费将暂停至创作者接受推荐倍数或自定价格。关键节点：9-30（月初计费者求助截止）、10-01（按创作计费者定价\/沟通求助截止）、10-15（一对一迁移协助最终日）、11-01 强制切换。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/patreon-%E5%BC%BA%E5%88%B6%E8%BF%81%E7%A7%BB%E8%AE%A2%E9%98%85%E8%AE%A1%E8%B4%B9-%E9%81%97%E7%95%99-%E6%8C%89%E5%88%9B%E4%BD%9C%E8%AE%A1%E8%B4%B9-%E5%88%9B%E4%BD%9C%E8%80%85%E9%A1%BB-2026-11-01-%E5%89%8D%E5%88%87%E6%8D%A2",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "2026 创作者变现平台格局：Patreon 11 月计费变更，15 平台选型地图（日本市场）",
             "summary": "日本创作者经济分析梳理 15 个海外变现平台费率与监管差异，指出 Patreon 将于 2026 年 11 月调整计费规格（费率 8–12%+ 支付手续费），建议采用「主机+副平台」双基制降低平台风险；Ko-fi 打赏 0%、Buy Me a Coffee 5%、OnlyFans 20%。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/2026-%E5%88%9B%E4%BD%9C%E8%80%85%E5%8F%98%E7%8E%B0%E5%B9%B3%E5%8F%B0%E6%A0%BC%E5%B1%80-patreon-11-%E6%9C%88%E8%AE%A1%E8%B4%B9%E5%8F%98%E6%9B%B4-15-%E5%B9%B3%E5%8F%B0%E9%80%89%E5%9E%8B%E5%9C%B0%E5%9B%BE-%E6%97%A5%E6%9C%AC%E5%B8%82%E5%9C%BA",
@@ -287,7 +331,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-10",
+            "latest": "2026-09-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -320,7 +364,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-15",
+            "latest": "2026-09-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         }
     ],
