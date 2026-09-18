@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 平台工具专区",
     "items": [
         {
+            "title": "GoFundMe Pro 推 Intelligence AI 筹款工具：智能建议金额带来最高 7% 收入提升",
+            "summary": "GoFundMe Pro 推出 GoFundMe Intelligence AI 筹款套件，基于全球最大筹款数据集提供个性化建议金额（Intelligent Ask Amounts）、活动前收入\/转化预测、实时洞察与 AI 反欺诈；官方称智能建议金额经 600 万+ 会话 A\/B 测试，平均带来最高 7% 的收入提升。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/gofundme-pro-%E6%8E%A8-intelligence-ai-%E7%AD%B9%E6%AC%BE%E5%B7%A5%E5%85%B7-%E6%99%BA%E8%83%BD%E5%BB%BA%E8%AE%AE%E9%87%91%E9%A2%9D%E5%B8%A6%E6%9D%A5%E6%9C%80%E9%AB%98-7-%E6%94%B6%E5%85%A5%E6%8F%90%E5%8D%87",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "2026 最佳非营利 AI 工具盘点：Givebutter 0 平台费、Fundraise Up 4% 按交易、Funraise\/AppealAI 免费 AI 文案",
             "summary": "AItoolsbakery 评测 2026 非营利 AI 工具：筹款平台 Givebutter（捐赠人打赏时免平台费、Plus $29\/月起，已处理 $1B+ 捐赠、Fast Company 2026 最具创新公司）、Fundraise Up（AI 优化捐赠页、4% 交易费、被 UNICEF USA\/加拿大红会等采用）、Funraise\/AppealAI（免费 AI 募捐文案生成）；grant 工具 Instrumentl（$179\/月起）、Grantable（$99\/月起）等。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/DI-20260917-005",
@@ -265,7 +276,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-10",
+            "latest": "2026-09-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -276,7 +287,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-10",
+            "latest": "2026-09-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -309,7 +320,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-15",
+            "latest": "2026-09-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -320,7 +331,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-08",
+            "latest": "2026-09-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -331,7 +342,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-15",
+            "latest": "2026-09-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -342,7 +353,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-15",
+            "latest": "2026-09-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -353,7 +364,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-15",
+            "latest": "2026-09-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -364,7 +375,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-15",
+            "latest": "2026-09-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
