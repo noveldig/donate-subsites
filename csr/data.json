@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 企业赞助专区",
     "items": [
         {
+            "title": "企业慈善责任（Philanthropic Responsibility）成CSR规划核心，专用软件降管理负担",
+            "summary": "Groundswell指出企业慈善责任需以KPI为指引，推荐移动端CSR软件具备即时员工配捐、非营利资质筛查、可定制员工名单与可视化报告，覆盖员工志愿、企业资助、DAF与ERGs等模块。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E4%BC%81%E4%B8%9A%E6%85%88%E5%96%84%E8%B4%A3%E4%BB%BB-philanthropic-responsibility-%E6%88%90csr%E8%A7%84%E5%88%92%E6%A0%B8%E5%BF%83-%E4%B8%93%E7%94%A8%E8%BD%AF%E4%BB%B6%E9%99%8D%E7%AE%A1%E7%90%86%E8%B4%9F%E6%8B%85",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "YourCause 推 AI 赋能企业公益：Impact Edge 用 AI 讲 impact 故事与基准对比",
             "summary": "Blackbaud 旗下 YourCause 主打\"AI Solutions for Corporate Impact\"，以 AI 自动化与指导降低 admin 负担；其 Impact Edge 用 Blackbaud AI 将 CSR 数据转为高管级叙事、看板与基准对比，并依托最大规模受筛非营利网络使捐赠最快 95% 提速到达，覆盖员工捐赠、志愿、配捐与 grantmaking。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/yourcause-%E6%8E%A8-ai-%E8%B5%8B%E8%83%BD%E4%BC%81%E4%B8%9A%E5%85%AC%E7%9B%8A-impact-edge-%E7%94%A8-ai-%E8%AE%B2-impact-%E6%95%85%E4%BA%8B%E4%B8%8E%E5%9F%BA%E5%87%86%E5%AF%B9%E6%AF%94",
@@ -12,7 +23,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -23,7 +34,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -34,7 +45,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -45,7 +56,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -67,7 +78,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -166,7 +177,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-11",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -177,7 +188,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-11",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -188,7 +199,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-11",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -199,7 +210,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-10",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -210,7 +221,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-09",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -221,7 +232,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-10",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -243,7 +254,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-07-10",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -375,7 +386,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-11",
+            "latest": "2026-09-18",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -386,7 +397,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-11",
+            "latest": "2026-09-18",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -397,7 +408,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-11",
+            "latest": "2026-09-18",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -408,7 +419,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-17",
+            "latest": "2026-09-18",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -430,7 +441,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-17",
+            "latest": "2026-09-18",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
