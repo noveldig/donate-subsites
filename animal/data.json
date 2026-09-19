@@ -5,6 +5,28 @@
     "footer": "Powered by 透明捐助 · 动物保护专区",
     "items": [
         {
+            "title": "美国迷你驴HeeHaw遭警察枪击，主人暂停GoFundMe并承诺退款（已筹逾$118,000）",
+            "summary": "一岁迷你驴HeeHaw在警方搜救行动中遭枪击死亡，主人发起GoFundMe筹法律费，募得逾11.8万美元远超3万目标后暂停捐赠，称将退还指定用途捐款，余款用于农场运营与动物照护，引发\"Justice for HeeHaw\"热议。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BE%8E%E5%9B%BD%E8%BF%B7%E4%BD%A0%E9%A9%B4heehaw%E9%81%AD%E8%AD%A6%E5%AF%9F%E6%9E%AA%E5%87%BB-%E4%B8%BB%E4%BA%BA%E6%9A%82%E5%81%9Cgofundme%E5%B9%B6%E6%89%BF%E8%AF%BA%E9%80%80%E6%AC%BE-%E5%B7%B2%E7%AD%B9%E9%80%BE-118-000",
+            "raised": 0,
+            "goal": 30000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "宠物紧急医疗众筹对比：GoFundMe与Waggle成主要求助渠道",
+            "summary": "Gerald对比宠物紧急资金方案，指出GoFundMe（2.2%+支付手续费，保留100%捐款）与宠物专属众筹Waggle.org（8%+手续费、平台引流）是社区众筹主力；另列RedRover、Brown Dog等免费补助与CareCredit等分期方案。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%AE%A0%E7%89%A9%E7%B4%A7%E6%80%A5%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9%E5%AF%B9%E6%AF%94-gofundme%E4%B8%8Ewaggle%E6%88%90%E4%B8%BB%E8%A6%81%E6%B1%82%E5%8A%A9%E6%B8%A0%E9%81%93",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "弃养小猫 Gizmo 康复后再现健康危机，家属发起 GoFundMe 续筹医疗护理费",
             "summary": "被弃养小猫 Gizmo 幼年入院、近期因可治疗的胆囊阻塞重病住院，经治疗已回家康复，但仍需持续兽医护理、用药、监测与处方粮；家属创建 GoFundMe 覆盖后续费用并分享康复历程，号召更多人帮助。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%BC%83%E5%85%BB%E5%B0%8F%E7%8C%AB-gizmo-%E5%BA%B7%E5%A4%8D%E5%90%8E%E5%86%8D%E7%8E%B0%E5%81%A5%E5%BA%B7%E5%8D%B1%E6%9C%BA-%E5%AE%B6%E5%B1%9E%E5%8F%91%E8%B5%B7-gofundme-%E7%BB%AD%E7%AD%B9%E5%8C%BB%E7%96%97%E6%8A%A4%E7%90%86%E8%B4%B9",
@@ -12,7 +34,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -111,7 +133,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-11",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -122,7 +144,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-03",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -133,7 +155,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-11",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -144,7 +166,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-10",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -375,7 +397,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-11",
+            "latest": "2026-09-18",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -386,7 +408,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-11",
+            "latest": "2026-09-18",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -397,7 +419,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-11",
+            "latest": "2026-09-18",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -408,7 +430,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-17",
+            "latest": "2026-09-18",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -419,7 +441,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-17",
+            "latest": "2026-09-18",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -430,7 +452,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-17",
+            "latest": "2026-09-18",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
