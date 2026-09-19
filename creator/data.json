@@ -5,6 +5,39 @@
     "footer": "Powered by 透明捐助 · 创作者赞助专区",
     "items": [
         {
+            "title": "2026年九大Patreon替代平台对比：费率与掌控权成迁移主因",
+            "summary": "Kourses对比Ko-fi、Substack、Kourses、Gumroad、Memberful等九大Patreon替代平台，指2025-08-04后新建页面收10%平台费推动创作者外流，低费率（Ko-fi 0%、Kourses 0%）与品牌自主成为迁移关键。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/2026%E5%B9%B4%E4%B9%9D%E5%A4%A7patreon%E6%9B%BF%E4%BB%A3%E5%B9%B3%E5%8F%B0%E5%AF%B9%E6%AF%94-%E8%B4%B9%E7%8E%87%E4%B8%8E%E6%8E%8C%E6%8E%A7%E6%9D%83%E6%88%90%E8%BF%81%E7%A7%BB%E4%B8%BB%E5%9B%A0",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Patreon vs Substack 2026对比：会员与付费通讯路线分化",
+            "summary": "ToolRadar对比两平台：Patreon标准10%平台费+支付手续费（实测约12–15%），适合会员分层；Substack免费起步、付费通讯抽10%，适合写作者；两者均Freemium，Patreon用户评分4.3\/Substack 2.4。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/patreon-vs-substack-2026%E5%AF%B9%E6%AF%94-%E4%BC%9A%E5%91%98%E4%B8%8E%E4%BB%98%E8%B4%B9%E9%80%9A%E8%AE%AF%E8%B7%AF%E7%BA%BF%E5%88%86%E5%8C%96",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "2026年十大Stan Store替代平台：Fourthwall领跑全合一创作者店铺",
+            "summary": "Fourthwall盘点Stan Store替代：Fourthwall（品牌店铺+周边+会员+数字商品）、Ko-fi（0%打赏）、Patreon（新页10%平台费）等；Ko-fi Trustpilot 4.6，Patreon仅1.2（900+评），反映创作者对平台费与客服不满。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/2026%E5%B9%B4%E5%8D%81%E5%A4%A7stan-store%E6%9B%BF%E4%BB%A3%E5%B9%B3%E5%8F%B0-fourthwall%E9%A2%86%E8%B7%91%E5%85%A8%E5%90%88%E4%B8%80%E5%88%9B%E4%BD%9C%E8%80%85%E5%BA%97%E9%93%BA",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "Substack 作家 2025 年经平台创收约 $4.5 亿，6 月推原生品牌赞助框架",
             "summary": "分析指出 Substack 不直接给作家发薪，而是由读者付费、平台抽 10% + Stripe 手续费；Sacra 估算 2025 年作家经 Substack 创收约 $4.5 亿、平台抽成约 $4,500 万；2025-07 C 轮融资 $1 亿、估值超 $11 亿；2026-06 推出原生赞助框架（Nieman Lab 报道），作家可经平台直接对接品牌合作。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/substack-%E4%BD%9C%E5%AE%B6-2025-%E5%B9%B4%E7%BB%8F%E5%B9%B3%E5%8F%B0%E5%88%9B%E6%94%B6%E7%BA%A6-4-5-%E4%BA%BF-6-%E6%9C%88%E6%8E%A8%E5%8E%9F%E7%94%9F%E5%93%81%E7%89%8C%E8%B5%9E%E5%8A%A9%E6%A1%86%E6%9E%B6",
@@ -12,7 +45,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -23,7 +56,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -45,7 +78,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-14",
             "paypal": ""
         },
         {
@@ -166,7 +199,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-10",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -188,7 +221,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-09",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -199,7 +232,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-08",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -210,7 +243,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-09",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -309,7 +342,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-11",
+            "latest": "2026-09-18",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -320,7 +353,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-11",
+            "latest": "2026-09-18",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -331,7 +364,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-17",
+            "latest": "2026-09-18",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
