@@ -5,6 +5,28 @@
     "footer": "Powered by 透明捐助 · 平台工具专区",
     "items": [
         {
+            "title": "Givebutter vs Zeffy vs RallyUp 2026实测：三平台AI众筹写作路线分野",
+            "summary": "RallyUp对比三免费\/低费众筹平台：Zeffy上游规划型AI（Grant Finder）、Givebutter提示式文本助手（Beta）、RallyUp内嵌\"一键生成\/增强\"文案；RallyUp主打15–20分钟模板上线与真实测试交易预览。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/givebutter-vs-zeffy-vs-rallyup-2026%E5%AE%9E%E6%B5%8B-%E4%B8%89%E5%B9%B3%E5%8F%B0ai%E4%BC%97%E7%AD%B9%E5%86%99%E4%BD%9C%E8%B7%AF%E7%BA%BF%E5%88%86%E9%87%8E",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "2026年20款非营利软件盘点：AI捐赠页与配捐成核心能力",
+            "summary": "Bloomerang盘点20款非营利软件，重点覆盖捐赠表单\/配捐（Double the Donation\/360MatchPro自动提交配捐，年未被申领配捐40–70亿美元）、P2P（Bloomerang Fundraising原Qgiv）、AI转化（Fundraise Up机器学习建议金额）等。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/2026%E5%B9%B420%E6%AC%BE%E9%9D%9E%E8%90%A5%E5%88%A9%E8%BD%AF%E4%BB%B6%E7%9B%98%E7%82%B9-ai%E6%8D%90%E8%B5%A0%E9%A1%B5%E4%B8%8E%E9%85%8D%E6%8D%90%E6%88%90%E6%A0%B8%E5%BF%83%E8%83%BD%E5%8A%9B",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "GoFundMe Pro 推 Intelligence AI 筹款工具：智能建议金额带来最高 7% 收入提升",
             "summary": "GoFundMe Pro 推出 GoFundMe Intelligence AI 筹款套件，基于全球最大筹款数据集提供个性化建议金额（Intelligent Ask Amounts）、活动前收入\/转化预测、实时洞察与 AI 反欺诈；官方称智能建议金额经 600 万+ 会话 A\/B 测试，平均带来最高 7% 的收入提升。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/gofundme-pro-%E6%8E%A8-intelligence-ai-%E7%AD%B9%E6%AC%BE%E5%B7%A5%E5%85%B7-%E6%99%BA%E8%83%BD%E5%BB%BA%E8%AE%AE%E9%87%91%E9%A2%9D%E5%B8%A6%E6%9D%A5%E6%9C%80%E9%AB%98-7-%E6%94%B6%E5%85%A5%E6%8F%90%E5%8D%87",
@@ -23,7 +45,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -34,7 +56,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -45,7 +67,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -144,7 +166,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-11",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -155,7 +177,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-08",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -166,7 +188,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-11",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -177,7 +199,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-10",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -188,7 +210,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-07-10",
+            "latest": "2026-09-18",
             "paypal": ""
         },
         {
@@ -243,7 +265,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-11",
+            "latest": "2026-09-18",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -254,7 +276,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-11",
+            "latest": "2026-09-18",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -265,7 +287,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-11",
+            "latest": "2026-09-18",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -276,7 +298,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-17",
+            "latest": "2026-09-18",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -287,7 +309,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-17",
+            "latest": "2026-09-18",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -331,7 +353,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-17",
+            "latest": "2026-09-18",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
