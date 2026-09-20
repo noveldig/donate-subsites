@@ -5,6 +5,28 @@
     "footer": "Powered by 透明捐助 · 平台工具专区",
     "items": [
         {
+            "title": "GivingTuesday 2026 定档 12 月 1 日，2025 年美国捐赠额达 40 亿美元",
+            "summary": "GivingTuesday 官方与多家筹款平台确认 2026 年活动日为 12 月 1 日（感恩节后周二）。2025 年该全球慷慨日美国捐赠额同比增长 13% 至 40 亿美元，志愿者增长 20% 达 1110 万人次，覆盖 110 余国家；业内预期 2026 年捐赠规模再创新高，移动钱包与短信捐赠工具进一步降低参与门槛。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/givingtuesday-2026-%E5%AE%9A%E6%A1%A3-12-%E6%9C%88-1-%E6%97%A5-2025-%E5%B9%B4%E7%BE%8E%E5%9B%BD%E6%8D%90%E8%B5%A0%E9%A2%9D%E8%BE%BE-40-%E4%BA%BF%E7%BE%8E%E5%85%83",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Classy 品牌退役整合为 GoFundMe Pro，累计筹款达 400 亿美元",
+            "summary": "非营利筹款平台 Classy 已正式退役并整合为 GoFundMe Pro，classy.org 重定向至 pro.gofundme.com。GoFundMe Pro 采用「年度订阅+每笔交易费」定制报价模式（费率不公开），其定价页显示平台累计筹款 400 亿美元；行业对比显示多数同类平台公开费率且不对捐赠抽成。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/classy-%E5%93%81%E7%89%8C%E9%80%80%E5%BD%B9%E6%95%B4%E5%90%88%E4%B8%BA-gofundme-pro-%E7%B4%AF%E8%AE%A1%E7%AD%B9%E6%AC%BE%E8%BE%BE-400-%E4%BA%BF%E7%BE%8E%E5%85%83",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "Givebutter vs Zeffy vs RallyUp 2026实测：三平台AI众筹写作路线分野",
             "summary": "RallyUp对比三免费\/低费众筹平台：Zeffy上游规划型AI（Grant Finder）、Givebutter提示式文本助手（Beta）、RallyUp内嵌\"一键生成\/增强\"文案；RallyUp主打15–20分钟模板上线与真实测试交易预览。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/givebutter-vs-zeffy-vs-rallyup-2026%E5%AE%9E%E6%B5%8B-%E4%B8%89%E5%B9%B3%E5%8F%B0ai%E4%BC%97%E7%AD%B9%E5%86%99%E4%BD%9C%E8%B7%AF%E7%BA%BF%E5%88%86%E9%87%8E",
@@ -34,7 +56,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-19",
             "paypal": ""
         },
         {
@@ -78,7 +100,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-19",
             "paypal": ""
         },
         {
