@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 动物保护专区",
     "items": [
         {
+            "title": "AWLQ Giving Day 配捐翻倍：目标筹集 30 万澳元救助困境宠物与家庭",
+            "summary": "Animal Welfare League Queensland（AWLQ）于 9 月 17 日举办 Giving Day，企业及大额捐赠者已汇集 15 万澳元配捐资金，公众当日每笔捐款 1:1 匹配，目标 30 万澳元，用于黄金海岸、布里斯班、伊普斯威奇等地动物紧急医疗、社区兽医诊所与宠物食品援助。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/awlq-giving-day-%E9%85%8D%E6%8D%90%E7%BF%BB%E5%80%8D-%E7%9B%AE%E6%A0%87%E7%AD%B9%E9%9B%86-30-%E4%B8%87%E6%BE%B3%E5%85%83%E6%95%91%E5%8A%A9%E5%9B%B0%E5%A2%83%E5%AE%A0%E7%89%A9%E4%B8%8E%E5%AE%B6%E5%BA%AD",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "美国迷你驴HeeHaw遭警察枪击，主人暂停GoFundMe并承诺退款（已筹逾$118,000）",
             "summary": "一岁迷你驴HeeHaw在警方搜救行动中遭枪击死亡，主人发起GoFundMe筹法律费，募得逾11.8万美元远超3万目标后暂停捐赠，称将退还指定用途捐款，余款用于农场运营与动物照护，引发\"Justice for HeeHaw\"热议。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BE%8E%E5%9B%BD%E8%BF%B7%E4%BD%A0%E9%A9%B4heehaw%E9%81%AD%E8%AD%A6%E5%AF%9F%E6%9E%AA%E5%87%BB-%E4%B8%BB%E4%BA%BA%E6%9A%82%E5%81%9Cgofundme%E5%B9%B6%E6%89%BF%E8%AF%BA%E9%80%80%E6%AC%BE-%E5%B7%B2%E7%AD%B9%E9%80%BE-118-000",
@@ -12,7 +23,7 @@
             "goal": 30000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2025-07-10",
             "paypal": ""
         },
         {
@@ -23,7 +34,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-19",
             "paypal": ""
         },
         {
@@ -45,7 +56,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-19",
             "paypal": ""
         },
         {
@@ -89,7 +100,7 @@
             "goal": 29000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-19",
             "paypal": ""
         },
         {
