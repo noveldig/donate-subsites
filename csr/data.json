@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 企业赞助专区",
     "items": [
         {
+            "title": "2026企业宗旨现状：Benevity已撬动$360亿、惠及56万非营利、770万行动者",
+            "summary": "Benevity CEO Sona Khosla 在Purpose 360播客披露：平台累计撬动超$360亿至56万+非营利，赋能约770万行动者；Benevity Impact Labs第五年，基于数据湖发布CSR研究。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/2026%E4%BC%81%E4%B8%9A%E5%AE%97%E6%97%A8%E7%8E%B0%E7%8A%B6-benevity%E5%B7%B2%E6%92%AC%E5%8A%A8-360%E4%BA%BF-%E6%83%A0%E5%8F%8A56%E4%B8%87%E9%9D%9E%E8%90%A5%E5%88%A9-770%E4%B8%87%E8%A1%8C%E5%8A%A8%E8%80%85",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "摩根士丹利 Inclusive & Sustainable Ventures 公布 2026 全球创新者队列，24 家组织各获 15 万美元",
             "summary": "摩根士丹利宣布 2026 年 MSISV 全球队列，从数千申请中选出 20 家初创企业与 4 家非营利组织，各获 15 万美元股权或拨款，进入为期 5 个月的加速器，聚焦环境、健康福祉、经济赋能与教育人力四大主题；该计划自 2017 年以来已向 160 余家组织投入逾 4000 万美元。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%91%A9%E6%A0%B9%E5%A3%AB%E4%B8%B9%E5%88%A9-inclusive-sustainable-ventures-%E5%85%AC%E5%B8%83-2026-%E5%85%A8%E7%90%83%E5%88%9B%E6%96%B0%E8%80%85%E9%98%9F%E5%88%97-24-%E5%AE%B6%E7%BB%84%E7%BB%87%E5%90%84%E8%8E%B7-15-%E4%B8%87%E7%BE%8E%E5%85%83",
@@ -12,7 +23,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-20",
             "paypal": ""
         },
         {
@@ -133,7 +144,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-13",
+            "latest": "2026-09-20",
             "paypal": ""
         },
         {
@@ -144,7 +155,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-13",
+            "latest": "2026-09-20",
             "paypal": ""
         },
         {
@@ -155,7 +166,7 @@
             "goal": 10000,
             "currency": "eur",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-13",
+            "latest": "2026-09-20",
             "paypal": ""
         },
         {
@@ -166,7 +177,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-12",
+            "latest": "2026-09-20",
             "paypal": ""
         },
         {
@@ -177,7 +188,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-12",
+            "latest": "2026-09-20",
             "paypal": ""
         },
         {
@@ -254,7 +265,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-08-28",
+            "latest": "2026-09-20",
             "paypal": ""
         },
         {
@@ -353,7 +364,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-12",
+            "latest": "2026-09-20",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -375,7 +386,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-12",
+            "latest": "2026-09-20",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -386,7 +397,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-12",
+            "latest": "2026-09-20",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
