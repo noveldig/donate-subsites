@@ -5,6 +5,39 @@
     "footer": "Powered by 透明捐助 · 创作者赞助专区",
     "items": [
         {
+            "title": "Patreon 2026数据：超1000万月活会员、28.6万创作者、创作者累计获付$100亿",
+            "summary": "Backlinko\/Search Engine Land 更新Patreon统计：平台托管超1000万月活支持者、约28.6万付费创作者，创作者累计收入超$100亿，年创作者收入超$20亿；付费创作者较2021年2月增长约114%。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/patreon-2026%E6%95%B0%E6%8D%AE-%E8%B6%851000%E4%B8%87%E6%9C%88%E6%B4%BB%E4%BC%9A%E5%91%98-28-6%E4%B8%87%E5%88%9B%E4%BD%9C%E8%80%85-%E5%88%9B%E4%BD%9C%E8%80%85%E7%B4%AF%E8%AE%A1%E8%8E%B7%E4%BB%98-100%E4%BA%BF",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "DAOs与区块链重塑艺术赞助：从Medici到微赞助者的2026范式转移",
+            "summary": "Troy Like 分析小众艺术资助新范式：订阅模式（Substack头部作者年入超$100万）、DAO（如The LAO投资$150万数字艺术）、Kickstarter（超20万项目、约38%成功率）混合模型降低单一收入依赖。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/daos%E4%B8%8E%E5%8C%BA%E5%9D%97%E9%93%BE%E9%87%8D%E5%A1%91%E8%89%BA%E6%9C%AF%E8%B5%9E%E5%8A%A9-%E4%BB%8Emedici%E5%88%B0%E5%BE%AE%E8%B5%9E%E5%8A%A9%E8%80%85%E7%9A%842026%E8%8C%83%E5%BC%8F%E8%BD%AC%E7%A7%BB",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Substack 2026定位成熟：500万付费订阅、创作者保留90%分成",
+            "summary": "Mean CEO 综述：截至9月12日Substack自称500万付费订阅、App强化视频\/直播\/群聊\/短视频；创作者保留90%订阅收入（平台抽10%+支付处理费），从Newsletter工具转向创作者网络。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/substack-2026%E5%AE%9A%E4%BD%8D%E6%88%90%E7%86%9F-500%E4%B8%87%E4%BB%98%E8%B4%B9%E8%AE%A2%E9%98%85-%E5%88%9B%E4%BD%9C%E8%80%85%E4%BF%9D%E7%95%9990-%E5%88%86%E6%88%90",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "2026年九大Patreon替代平台对比：费率与掌控权成迁移主因",
             "summary": "Kourses对比Ko-fi、Substack、Kourses、Gumroad、Memberful等九大Patreon替代平台，指2025-08-04后新建页面收10%平台费推动创作者外流，低费率（Ko-fi 0%、Kourses 0%）与品牌自主成为迁移关键。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/2026%E5%B9%B4%E4%B9%9D%E5%A4%A7patreon%E6%9B%BF%E4%BB%A3%E5%B9%B3%E5%8F%B0%E5%AF%B9%E6%AF%94-%E8%B4%B9%E7%8E%87%E4%B8%8E%E6%8E%8C%E6%8E%A7%E6%9D%83%E6%88%90%E8%BF%81%E7%A7%BB%E4%B8%BB%E5%9B%A0",
@@ -144,7 +177,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-13",
+            "latest": "2026-09-20",
             "paypal": ""
         },
         {
@@ -155,7 +188,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-13",
+            "latest": "2026-09-20",
             "paypal": ""
         },
         {
@@ -166,7 +199,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-13",
+            "latest": "2026-09-20",
             "paypal": ""
         },
         {
@@ -177,7 +210,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-12",
+            "latest": "2026-09-20",
             "paypal": ""
         },
         {
@@ -188,7 +221,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-12",
+            "latest": "2026-09-20",
             "paypal": ""
         },
         {
@@ -309,7 +342,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-12",
+            "latest": "2026-09-20",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -320,7 +353,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-12",
+            "latest": "2026-09-20",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -331,7 +364,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-12",
+            "latest": "2026-09-20",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
