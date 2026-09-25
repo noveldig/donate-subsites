@@ -5,6 +5,39 @@
     "footer": "Powered by 透明捐助 · 医疗援助专区",
     "items": [
         {
+            "title": "澳大利亚首届「医学研究捐赠日」筹得近 A$150 万，超目标 3 倍",
+            "summary": "9 月 9 日全澳 30+ 医学研究所联合举办首届 Medical Research Giving Day，超 2600 名捐赠者参与，筹得近 A$150 万（目标 A$50 万，后两度上调至 A$125 万仍破），含合作方配捐。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E9%A6%96%E5%B1%8A-%E5%8C%BB%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%8D%90%E8%B5%A0%E6%97%A5-%E7%AD%B9%E5%BE%97%E8%BF%91-a-150-%E4%B8%87-%E8%B6%85%E7%9B%AE%E6%A0%87-3-%E5%80%8D",
+            "raised": 0,
+            "goal": 500000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Ferry Health 以 AI 代理平台走出隐身期，完成 $900 万种子轮",
+            "summary": "Ferry Health 用 AI 代理代患者拨打预约、查找并安排全网内就诊，9\/16 走出隐身期完成 $900 万种子轮（a16z、Index Ventures 等）。反映医疗行政 AI 融资热度。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/ferry-health-%E4%BB%A5-ai-%E4%BB%A3%E7%90%86%E5%B9%B3%E5%8F%B0%E8%B5%B0%E5%87%BA%E9%9A%90%E8%BA%AB%E6%9C%9F-%E5%AE%8C%E6%88%90-900-%E4%B8%87%E7%A7%8D%E5%AD%90%E8%BD%AE",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Forus 完成 $1.5 亿 C 轮，以 AI 代理打通处方药到治疗的通路",
+            "summary": "Forus（原 Tandem）用药疗可及 AI 代理处理事前授权、财务援助与药房路由，9\/8 完成 $1.5 亿 C 轮（Bain Capital Ventures 领投，估值 $30 亿），向多专科扩展。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/forus-%E5%AE%8C%E6%88%90-1-5-%E4%BA%BF-c-%E8%BD%AE-%E4%BB%A5-ai-%E4%BB%A3%E7%90%86%E6%89%93%E9%80%9A%E5%A4%84%E6%96%B9%E8%8D%AF%E5%88%B0%E6%B2%BB%E7%96%97%E7%9A%84%E9%80%9A%E8%B7%AF",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "BioTech Social 成立顾问委员会推进生命科学众筹，Reg CF 门户年募上限 $500 万",
             "summary": "BioTech Social Inc. 宣布成立顾问委员会，推进生命科学公司金融基础设施；其 BioTech Funding Portal（SEC 注册、FINRA 会员的 Reg CF 众筹门户）2026 年 6 月上线，合格企业每年可面向个人投资者募集最高 $5,000,000。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/biotech-social-%E6%88%90%E7%AB%8B%E9%A1%BE%E9%97%AE%E5%A7%94%E5%91%98%E4%BC%9A%E6%8E%A8%E8%BF%9B%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E4%BC%97%E7%AD%B9-reg-cf-%E9%97%A8%E6%88%B7%E5%B9%B4%E5%8B%9F%E4%B8%8A%E9%99%90-500-%E4%B8%87",
@@ -12,7 +45,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-25",
             "paypal": ""
         },
         {
@@ -78,7 +111,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-18",
+            "latest": "2026-09-25",
             "paypal": ""
         },
         {
@@ -100,7 +133,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-18",
+            "latest": "2026-09-25",
             "paypal": ""
         },
         {
@@ -111,7 +144,7 @@
             "goal": 200000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-18",
+            "latest": "2026-09-25",
             "paypal": ""
         },
         {
@@ -122,7 +155,7 @@
             "goal": 7300,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-18",
+            "latest": "2026-09-25",
             "paypal": ""
         },
         {
@@ -133,7 +166,7 @@
             "goal": 5000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-18",
+            "latest": "2026-09-25",
             "paypal": ""
         },
         {
@@ -144,7 +177,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-18",
+            "latest": "2026-09-25",
             "paypal": ""
         },
         {
@@ -155,7 +188,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-16",
+            "latest": "2026-09-25",
             "paypal": ""
         },
         {
@@ -199,7 +232,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-13",
+            "latest": "2026-09-25",
             "paypal": ""
         },
         {
@@ -331,7 +364,7 @@
             "goal": 10000,
             "currency": "eur",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-18",
+            "latest": "2026-09-25",
             "paypal": ""
         },
         {
@@ -364,7 +397,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-18",
+            "latest": "2026-09-25",
             "paypal": ""
         },
         {
@@ -386,7 +419,7 @@
             "goal": 740000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-18",
+            "latest": "2026-09-25",
             "paypal": ""
         },
         {
@@ -430,7 +463,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-15",
+            "latest": "2026-09-25",
             "paypal": ""
         },
         {
@@ -441,7 +474,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-15",
+            "latest": "2026-09-25",
             "paypal": ""
         },
         {
@@ -452,7 +485,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-15",
+            "latest": "2026-09-25",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -463,7 +496,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-15",
+            "latest": "2026-09-25",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -474,7 +507,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-15",
+            "latest": "2026-09-25",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -507,7 +540,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-14",
+            "latest": "2026-09-25",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -518,7 +551,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-14",
+            "latest": "2026-09-25",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -540,7 +573,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-14",
+            "latest": "2026-09-25",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -595,7 +628,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-18",
+            "latest": "2026-09-25",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -606,7 +639,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-18",
+            "latest": "2026-09-25",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -617,7 +650,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-18",
+            "latest": "2026-09-25",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -628,7 +661,7 @@
             "goal": 1000000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-18",
+            "latest": "2026-09-25",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -639,7 +672,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-18",
+            "latest": "2026-09-25",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -650,7 +683,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-18",
+            "latest": "2026-09-25",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -661,7 +694,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-15",
+            "latest": "2026-09-25",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -672,7 +705,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-08-31",
+            "latest": "2026-09-25",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -683,7 +716,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-09-17",
+            "latest": "2026-09-25",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -694,7 +727,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-17",
+            "latest": "2026-09-25",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -727,7 +760,7 @@
             "goal": 10000,
             "currency": "eur",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-17",
+            "latest": "2026-09-25",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
