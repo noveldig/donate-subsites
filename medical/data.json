@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 医疗援助专区",
     "items": [
         {
+            "title": "BioTech Social 成立顾问委员会推进生命科学众筹，Reg CF 门户年募上限 $500 万",
+            "summary": "BioTech Social Inc. 宣布成立顾问委员会，推进生命科学公司金融基础设施；其 BioTech Funding Portal（SEC 注册、FINRA 会员的 Reg CF 众筹门户）2026 年 6 月上线，合格企业每年可面向个人投资者募集最高 $5,000,000。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/biotech-social-%E6%88%90%E7%AB%8B%E9%A1%BE%E9%97%AE%E5%A7%94%E5%91%98%E4%BC%9A%E6%8E%A8%E8%BF%9B%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E4%BC%97%E7%AD%B9-reg-cf-%E9%97%A8%E6%88%B7%E5%B9%B4%E5%8B%9F%E4%B8%8A%E9%99%90-500-%E4%B8%87",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "8%服务费成大病筹款行业普遍标准，行业面临成本压力",
             "summary": "德州晚报报道，暖心惠民2024年底将服务费调至8%，轻松筹2025年对线下项目实行8%，水滴筹2026年8月由6%上调至8%（单个项目上限8000元）。8%渐成行业普遍标准，监管允许“保本微利”收费，平台需承担求助核验与资金监督义务。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/8-%E6%9C%8D%E5%8A%A1%E8%B4%B9%E6%88%90%E5%A4%A7%E7%97%85%E7%AD%B9%E6%AC%BE%E8%A1%8C%E4%B8%9A%E6%99%AE%E9%81%8D%E6%A0%87%E5%87%86-%E8%A1%8C%E4%B8%9A%E9%9D%A2%E4%B8%B4%E6%88%90%E6%9C%AC%E5%8E%8B%E5%8A%9B",
@@ -12,7 +23,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
+            "latest": "2026-09-21",
             "paypal": ""
         },
         {
@@ -23,7 +34,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
+            "latest": "2026-09-21",
             "paypal": ""
         },
         {
@@ -34,7 +45,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
+            "latest": "2026-09-21",
             "paypal": ""
         },
         {
