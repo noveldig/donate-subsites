@@ -5,6 +5,28 @@
     "footer": "Powered by 透明捐助 · 企业赞助专区",
     "items": [
         {
+            "title": "Axiobench 发布 2026 最佳员工配捐软件横评（Benevity\/360MatchPro 等）",
+            "summary": "Axiobench 发布 2026 年最佳员工配捐（Matching Gift）软件横评，对比 GiveAmply、Millie、Benevity、Double the Donation 360MatchPro、Blackbaud、YourCause CSRconnect 等，关注配捐请求工作流与状态追踪。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/axiobench-%E5%8F%91%E5%B8%83-2026-%E6%9C%80%E4%BD%B3%E5%91%98%E5%B7%A5%E9%85%8D%E6%8D%90%E8%BD%AF%E4%BB%B6%E6%A8%AA%E8%AF%84-benevity-360matchpro-%E7%AD%89",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Deed 员工公益平台并入 Bonterra，推一体化捐赠+配捐+志愿者方案",
+            "summary": "Deed（员工公益参与平台）现已并入 Bonterra，提供捐赠、配捐、志愿者、活动与 ERG 一体化员工参与方案，移动优先覆盖 170+ 国家、37+ 币种、1000 万+ 非营利，由 CyberGrants 提供企业级拨款与合规基础设施。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/deed-%E5%91%98%E5%B7%A5%E5%85%AC%E7%9B%8A%E5%B9%B3%E5%8F%B0%E5%B9%B6%E5%85%A5-bonterra-%E6%8E%A8%E4%B8%80%E4%BD%93%E5%8C%96%E6%8D%90%E8%B5%A0-%E9%85%8D%E6%8D%90-%E5%BF%97%E6%84%BF%E8%80%85%E6%96%B9%E6%A1%88",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "2026企业宗旨现状：Benevity已撬动$360亿、惠及56万非营利、770万行动者",
             "summary": "Benevity CEO Sona Khosla 在Purpose 360播客披露：平台累计撬动超$360亿至56万+非营利，赋能约770万行动者；Benevity Impact Labs第五年，基于数据湖发布CSR研究。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/2026%E4%BC%81%E4%B8%9A%E5%AE%97%E6%97%A8%E7%8E%B0%E7%8A%B6-benevity%E5%B7%B2%E6%92%AC%E5%8A%A8-360%E4%BA%BF-%E6%83%A0%E5%8F%8A56%E4%B8%87%E9%9D%9E%E8%90%A5%E5%88%A9-770%E4%B8%87%E8%A1%8C%E5%8A%A8%E8%80%85",
@@ -12,7 +34,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-21",
             "paypal": ""
         },
         {
