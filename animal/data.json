@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 动物保护专区",
     "items": [
         {
+            "title": "No Dogs Left Behind 十周年发起 $150,000 救援募款，目标解救 475 只狗肉贸易幸存犬",
+            "summary": "成立于 2016 年的非营利 No Dogs Left Behind 在 9 月 4 日纽约 Sag Harbor 十周年活动上宣布募款目标 $150,000，用于 Freedom Flights 解救 475 只东亚狗肉贸易幸存犬、在乌克兰启动全球救援\/疫苗\/绝育巡回路演，并扩建美国收容所。NBA 球星 Josh Hart 到场助阵。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/no-dogs-left-behind-%E5%8D%81%E5%91%A8%E5%B9%B4%E5%8F%91%E8%B5%B7-150-000-%E6%95%91%E6%8F%B4%E5%8B%9F%E6%AC%BE-%E7%9B%AE%E6%A0%87%E8%A7%A3%E6%95%91-475-%E5%8F%AA%E7%8B%97%E8%82%89%E8%B4%B8%E6%98%93%E5%B9%B8%E5%AD%98%E7%8A%AC",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "美国阿肯色 Stuttgart 动物收容所筹建基金冲刺 $10 万目标，已破 $2 万",
             "summary": "Stuttgart Animal Shelter Building Fund 为新建收容所募资以匹配一笔补助，现容量满载且年久失修；社区通过 GoFundMe\/PayPal 与支票捐赠，目标 $10 万。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BE%8E%E5%9B%BD%E9%98%BF%E8%82%AF%E8%89%B2-stuttgart-%E5%8A%A8%E7%89%A9%E6%94%B6%E5%AE%B9%E6%89%80%E7%AD%B9%E5%BB%BA%E5%9F%BA%E9%87%91%E5%86%B2%E5%88%BA-10-%E4%B8%87%E7%9B%AE%E6%A0%87-%E5%B7%B2%E7%A0%B4-2-%E4%B8%87",
