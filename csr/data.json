@@ -5,6 +5,28 @@
     "footer": "Powered by 透明捐助 · 企业赞助专区",
     "items": [
         {
+            "title": "赛轮轮胎实控人一致行动人向青岛科技大学教育发展基金会无偿捐赠 3,786 万股",
+            "summary": "赛轮集团实控人袁仲雪之一致行动人煜明投资、瑞元鼎实、杨德华、袁嵩于 9 月 30 日签署协议，合计向青岛科技大学教育发展基金会无偿捐赠 3,786 万股无限售条件流通股（占总股本 1.15%），用于支持该校教育事业发展；基金会承诺受让后 6 个月内不减持，不会导致公司控制权变化。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%B5%9B%E8%BD%AE%E8%BD%AE%E8%83%8E%E5%AE%9E%E6%8E%A7%E4%BA%BA%E4%B8%80%E8%87%B4%E8%A1%8C%E5%8A%A8%E4%BA%BA%E5%90%91%E9%9D%92%E5%B2%9B%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E6%95%99%E8%82%B2%E5%8F%91%E5%B1%95%E5%9F%BA%E9%87%91%E4%BC%9A%E6%97%A0%E5%81%BF%E6%8D%90%E8%B5%A0-3-786-%E4%B8%87%E8%82%A1",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Dynamo Software 凭员工配捐计划与「服务日」获 2026 TrustRadius Tech Cares 与 Champions in AI 双奖",
+            "summary": "Dynamo Software 获 2026 TrustRadius Tech Cares（企业社会责任）与 Best in Biz Champions in AI 双奖；其两大旗舰 CSR 项目——Global Employer Matching Program（员工向最重要议题捐款，公司按比例配捐）与 Global Day of Service（每位员工半天带薪志愿服务），体现「员工捐、公司配」的职场公益模式。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/dynamo-software-%E5%87%AD%E5%91%98%E5%B7%A5%E9%85%8D%E6%8D%90%E8%AE%A1%E5%88%92%E4%B8%8E-%E6%9C%8D%E5%8A%A1%E6%97%A5-%E8%8E%B7-2026-trustradius-tech-cares-%E4%B8%8E-champions-in-ai-%E5%8F%8C%E5%A5%96",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "America's Charities 发布企业公益与职场捐赠整体解决方案",
             "summary": "America's Charities（1980 起做 workplace giving）提供员工捐赠、配捐、志愿者、灾难救助、EAF 困难救助金与奖学金等一体化企业公益方案，服务 200+ 雇主，强调透明合规。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/america-s-charities-%E5%8F%91%E5%B8%83%E4%BC%81%E4%B8%9A%E5%85%AC%E7%9B%8A%E4%B8%8E%E8%81%8C%E5%9C%BA%E6%8D%90%E8%B5%A0%E6%95%B4%E4%BD%93%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88",
@@ -78,7 +100,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-19",
+            "latest": "2026-09-26",
             "paypal": ""
         },
         {
