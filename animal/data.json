@@ -5,6 +5,28 @@
     "footer": "Powered by 透明捐助 · 动物保护专区",
     "items": [
         {
+            "title": "澳大利亚 RSPCA「Give to Get Them Home」配捐日 10·1 回归，企业配捐每澳元翻倍",
+            "summary": "RSPCA Australia 年度配捐日「Give to Get Them Home」于 10 月 1 日回归，Royal Canin、Peter Alexander、Bravecto 等全国配捐伙伴当日配捐每一澳元；2025 年同日 16,200+ 名澳洲人募得 365 万澳元，2026 年力争超越。RSPCA Pet Insurance 另对当日捐款者提供新保单首两月免费，并再捐 100 澳元至 RSPCA。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A-rspca-give-to-get-them-home-%E9%85%8D%E6%8D%90%E6%97%A5-10-1-%E5%9B%9E%E5%BD%92-%E4%BC%81%E4%B8%9A%E9%85%8D%E6%8D%90%E6%AF%8F%E6%BE%B3%E5%85%83%E7%BF%BB%E5%80%8D",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "马来西亚 IJM Land「Paws to Home」宠物领养活动，向两家动物福利 NGO 各捐 RM1,000",
+            "summary": "马来西亚开发商 IJM Land 在 S2 Heights Aman 举办「Paws to Home」宠物领养活动，联动地方政府与 NS Happy Paws、FurryKids Safehaven 等动物福利 NGO，现场 6 只狗狗被领养、31 只宠物绝育、12 份养宠牌照申请；IJM Land 同时向两家 NGO 各捐赠 1,000 林吉特支持运营。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A-ijm-land-paws-to-home-%E5%AE%A0%E7%89%A9%E9%A2%86%E5%85%BB%E6%B4%BB%E5%8A%A8-%E5%90%91%E4%B8%A4%E5%AE%B6%E5%8A%A8%E7%89%A9%E7%A6%8F%E5%88%A9-ngo-%E5%90%84%E6%8D%90-rm1-000",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "No Dogs Left Behind 十周年发起 $150,000 救援募款，目标解救 475 只狗肉贸易幸存犬",
             "summary": "成立于 2016 年的非营利 No Dogs Left Behind 在 9 月 4 日纽约 Sag Harbor 十周年活动上宣布募款目标 $150,000，用于 Freedom Flights 解救 475 只东亚狗肉贸易幸存犬、在乌克兰启动全球救援\/疫苗\/绝育巡回路演，并扩建美国收容所。NBA 球星 Josh Hart 到场助阵。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/no-dogs-left-behind-%E5%8D%81%E5%91%A8%E5%B9%B4%E5%8F%91%E8%B5%B7-150-000-%E6%95%91%E6%8F%B4%E5%8B%9F%E6%AC%BE-%E7%9B%AE%E6%A0%87%E8%A7%A3%E6%95%91-475-%E5%8F%AA%E7%8B%97%E8%82%89%E8%B4%B8%E6%98%93%E5%B9%B8%E5%AD%98%E7%8A%AC",
@@ -12,7 +34,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-09-26",
             "paypal": ""
         },
         {
@@ -67,7 +89,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-19",
+            "latest": "2026-09-26",
             "paypal": ""
         },
         {
@@ -551,7 +573,7 @@
             "goal": 20000,
             "currency": "eur",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-09-17",
+            "latest": "2026-09-26",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
