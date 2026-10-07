@@ -5,6 +5,39 @@
     "footer": "Powered by 透明捐助 · 医疗援助专区",
     "items": [
         {
+            "title": "香港博爱医院《博爱欢乐传万家2026》大型电视筹款节目现正接受捐款",
+            "summary": "博爱医院年度大型电视筹款节目《博爱欢乐传万家》将于2026年3月21日晚在无线电视翡翠台直播，筹得款项用于发展社会服务、关怀弱势社群；现正接受各界善长及市民捐款，提供7-Eleven现金、多家银行转账、转数快(FPS)、PayMe、Alipay、WeChat等多种捐款渠道。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E9%A6%99%E6%B8%AF%E5%8D%9A%E7%88%B1%E5%8C%BB%E9%99%A2-%E5%8D%9A%E7%88%B1%E6%AC%A2%E4%B9%90%E4%BC%A0%E4%B8%87%E5%AE%B62026-%E5%A4%A7%E5%9E%8B%E7%94%B5%E8%A7%86%E7%AD%B9%E6%AC%BE%E8%8A%82%E7%9B%AE%E7%8E%B0%E6%AD%A3%E6%8E%A5%E5%8F%97%E6%8D%90%E6%AC%BE",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "加拿大 Trillium Health Partners 基金会启动 10 亿加元 \"Built for Us\" 医疗筹款运动",
+            "summary": "Trillium Health Partners Foundation 启动史上最大规模 10 亿加元筹款运动 \"Built for Us\"，用于建设加拿大最大医院 The Peter Gilgan Mississauga Hospital、安省首间妇女儿童专科医院 Shah Family Hospital，以及重建 Queensway Health Centre，以改善加拿大增长最快、最多元社区的就近就医条件。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8A%A0%E6%8B%BF%E5%A4%A7-trillium-health-partners-%E5%9F%BA%E9%87%91%E4%BC%9A%E5%90%AF%E5%8A%A8-10-%E4%BA%BF%E5%8A%A0%E5%85%83-built-for-us-%E5%8C%BB%E7%96%97%E7%AD%B9%E6%AC%BE%E8%BF%90%E5%8A%A8",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "中国红十字基金会合生元母婴救助基金联动22家医院久久公益节筹超30万元",
+            "summary": "9月，中国红十字基金会合生元母婴救助基金携手腾讯公益，联合全国22家爱心医院开展「合你一起，做好心人」公益活动；久久公益节期间汇聚4077位好心人，累计筹集超30万元善款用于重症母婴救助。截至2026年7月通过久久公益节累计资助337名重症母婴、拨付资助款超293万元；基金自2007年设立以来累计募集款物近9572.45万元、救助4879名母亲及儿童。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E4%B8%AD%E5%9B%BD%E7%BA%A2%E5%8D%81%E5%AD%97%E5%9F%BA%E9%87%91%E4%BC%9A%E5%90%88%E7%94%9F%E5%85%83%E6%AF%8D%E5%A9%B4%E6%95%91%E5%8A%A9%E5%9F%BA%E9%87%91%E8%81%94%E5%8A%A822%E5%AE%B6%E5%8C%BB%E9%99%A2%E4%B9%85%E4%B9%85%E5%85%AC%E7%9B%8A%E8%8A%82%E7%AD%B9%E8%B6%8530%E4%B8%87%E5%85%83",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-10-06",
+            "paypal": ""
+        },
+        {
             "title": "台湾 PatientsForce（采鋐健康）获 2026 全球福祉先锋奖，创「企业出资」生医永续模式",
             "summary": "PatientsForce（采鋐健康）于伦敦 2026 全球福祉奖获「全球福祉先锋奖」银牌，为台湾数位医疗与病患支持服务首度获该权威国际大奖。其不向大众募款，而是连结 50+ 跨国药企由企业端出资，为重症患者打造病人支持计划（PSP）；自 2017 年成立，每年服务超 3 万名重症患者，截至 2025 年累计递送藥品補助金額突破 100 亿元新台幣，开创「公私协力（PPP）」生医永续新模式。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8F%B0%E6%B9%BE-patientsforce-%E9%87%87%E9%8B%90%E5%81%A5%E5%BA%B7-%E8%8E%B7-2026-%E5%85%A8%E7%90%83%E7%A6%8F%E7%A5%89%E5%85%88%E9%94%8B%E5%A5%96-%E5%88%9B-%E4%BC%81%E4%B8%9A%E5%87%BA%E8%B5%84-%E7%94%9F%E5%8C%BB%E6%B0%B8%E7%BB%AD%E6%A8%A1%E5%BC%8F",
@@ -12,7 +45,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
+            "latest": "2026-10-05",
             "paypal": ""
         },
         {
