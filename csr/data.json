@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 企业赞助专区",
     "items": [
         {
+            "title": "7 家科技公司本地公益回馈：员工志愿、配捐与社区赠款成 CSR 主线",
+            "summary": "Purpose Jobs 盘点 Wells Fargo、Hyland、Stryker、StockX、Q2 等 7 家科技公司的本地公益实践：员工带薪志愿时间、捐赠配捐、社区关怀赠款；其中 Q2 的 Philanthropy Fund 2025 年向非营利机构发放 15 万美元赠款，志愿时数由 2022 年 9000 小时增至 2024 年 23500 小时，体现企业将社区投资纳入组织文化的趋势。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/7-%E5%AE%B6%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E6%9C%AC%E5%9C%B0%E5%85%AC%E7%9B%8A%E5%9B%9E%E9%A6%88-%E5%91%98%E5%B7%A5%E5%BF%97%E6%84%BF-%E9%85%8D%E6%8D%90%E4%B8%8E%E7%A4%BE%E5%8C%BA%E8%B5%A0%E6%AC%BE%E6%88%90-csr-%E4%B8%BB%E7%BA%BF",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "Benevity 推出 Teams\/Slack 内嵌，让员工在协作工具内直接行善",
             "summary": "Benevity 发布「Benevity for Microsoft Teams」（即将上线 Slack 与无登录二维码），员工无需跳转 CSR 平台，在协作软件内一键完成捐赠、报名志愿班次或工资扣款；后台自动套用企业配捐规则，连接超250万家已核验非营利。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/benevity-%E6%8E%A8%E5%87%BA-teams-slack-%E5%86%85%E5%B5%8C-%E8%AE%A9%E5%91%98%E5%B7%A5%E5%9C%A8%E5%8D%8F%E4%BD%9C%E5%B7%A5%E5%85%B7%E5%86%85%E7%9B%B4%E6%8E%A5%E8%A1%8C%E5%96%84",
