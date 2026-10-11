@@ -5,6 +5,72 @@
     "footer": "Powered by 透明捐助 · 文旅遗产专区",
     "items": [
         {
+            "title": "美国明尼苏达 Stearns History Museum 发起 30 万美元藏品楼修缮募款（已筹 14 万）",
+            "summary": "建馆 90 年的 Stearns History Museum 发起 30 万美元公众募款升级藏品楼（气候控制、屋顶、安防照明），静默筹款半年已筹 14 万美元，余款用于新屋顶与安保。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BE%8E%E5%9B%BD%E6%98%8E%E5%B0%BC%E8%8B%8F%E8%BE%BE-stearns-history-museum-%E5%8F%91%E8%B5%B7-30-%E4%B8%87%E7%BE%8E%E5%85%83%E8%97%8F%E5%93%81%E6%A5%BC%E4%BF%AE%E7%BC%AE%E5%8B%9F%E6%AC%BE-%E5%B7%B2%E7%AD%B9-14-%E4%B8%87",
+            "raised": 0,
+            "goal": 140000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "纽约 Eli Wilner 公司开放 20 万美元画框修复资助周期（至 10\/31）",
+            "summary": "专注博物馆级画框修复的 Eli Wilner & Company 承诺 20 万美元新一期画框修复资助，采用共担成本模式，先到先得，10\/31 截止；机构须承担部分项目费用。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BA%BD%E7%BA%A6-eli-wilner-%E5%85%AC%E5%8F%B8%E5%BC%80%E6%94%BE-20-%E4%B8%87%E7%BE%8E%E5%85%83%E7%94%BB%E6%A1%86%E4%BF%AE%E5%A4%8D%E8%B5%84%E5%8A%A9%E5%91%A8%E6%9C%9F-%E8%87%B3-10-31",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "意大利 FAI 秋季遗产开放日开放 700 处遗产，2026 年拟投 1200 万欧元修缮",
+            "summary": "意大利环境保护基金 FAI 于 10\/10–11 举办 Autumn Days，开放 700 处通常封闭的艺术、工艺与隐秘遗产地，并配套月内筹款活动；2026 年计划投入超 1200 万欧元用于修缮与维护。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%84%8F%E5%A4%A7%E5%88%A9-fai-%E7%A7%8B%E5%AD%A3%E9%81%97%E4%BA%A7%E5%BC%80%E6%94%BE%E6%97%A5%E5%BC%80%E6%94%BE-700-%E5%A4%84%E9%81%97%E4%BA%A7-2026-%E5%B9%B4%E6%8B%9F%E6%8A%95-1200-%E4%B8%87%E6%AC%A7%E5%85%83%E4%BF%AE%E7%BC%AE",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "eur",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "美国里士满 Historic Richmond“捐赠日”获理事会 5000 美元配捐",
+            "summary": "成立 90 余年的 Historic Richmond 在 10\/8“捐赠日”发起年度筹款保护城市历史建筑与街区，Council of Historic Richmond 提供最高 5000 美元配捐，善款翻倍。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BE%8E%E5%9B%BD%E9%87%8C%E5%A3%AB%E6%BB%A1-historic-richmond-%E6%8D%90%E8%B5%A0%E6%97%A5-%E8%8E%B7%E7%90%86%E4%BA%8B%E4%BC%9A-5000-%E7%BE%8E%E5%85%83%E9%85%8D%E6%8D%90",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "杭州博物馆“百万收藏”计划五年获捐 12383 件，第十期聚焦“记忆中的杭州老街巷”",
+            "summary": "杭州博物馆建馆 25 周年暨“百万收藏”五周年，第九期获西泠印社 95 位社员捐 181 件、城建集团移交工业遗存等，累计 12383 件；第十期主题为“记忆中的杭州老街巷”面向全社会征集街巷物证。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%9D%AD%E5%B7%9E%E5%8D%9A%E7%89%A9%E9%A6%86-%E7%99%BE%E4%B8%87%E6%94%B6%E8%97%8F-%E8%AE%A1%E5%88%92%E4%BA%94%E5%B9%B4%E8%8E%B7%E6%8D%90-12383-%E4%BB%B6-%E7%AC%AC%E5%8D%81%E6%9C%9F%E8%81%9A%E7%84%A6-%E8%AE%B0%E5%BF%86%E4%B8%AD%E7%9A%84%E6%9D%AD%E5%B7%9E%E8%80%81%E8%A1%97%E5%B7%B7",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "山西低级别文物陷气候与资金困境，“文明守望工程”动员社会认养与“撑伞计划”",
+            "summary": "新京报调查山西低级别文保单位因气候变暖、雨水侵蚀面临坍塌风险；“文明守望工程”通过捐资认养、“撑伞计划”护棚等动员社会力量，晋城志愿者集资为古建筑撑伞，民间资本补官方修缮缺口。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%B1%B1%E8%A5%BF%E4%BD%8E%E7%BA%A7%E5%88%AB%E6%96%87%E7%89%A9%E9%99%B7%E6%B0%94%E5%80%99%E4%B8%8E%E8%B5%84%E9%87%91%E5%9B%B0%E5%A2%83-%E6%96%87%E6%98%8E%E5%AE%88%E6%9C%9B%E5%B7%A5%E7%A8%8B-%E5%8A%A8%E5%91%98%E7%A4%BE%E4%BC%9A%E8%AE%A4%E5%85%BB%E4%B8%8E-%E6%92%91%E4%BC%9E%E8%AE%A1%E5%88%92",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "芝加哥 Bronzeville Legacy Collective 为 9 处文化遗址筹得 7500 万美元",
             "summary": "由 8 位社区领袖组成的 Bronzeville Legacy Collective 宣布已筹得 7500 万美元，用于建设或重建 9 处 Bronzeville 文化遗址（含国家福音音乐博物馆、Emmett Till 故居、Bronzeville Trail 等）；长期目标为 2.5 亿美元（含 1 亿美元用于 Trail），以应对联邦艺术资助削减，拟将社区打造成国家级艺术与旅游目的地。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%8A%9D%E5%8A%A0%E5%93%A5-bronzeville-legacy-collective-%E4%B8%BA-9-%E5%A4%84%E6%96%87%E5%8C%96%E9%81%97%E5%9D%80%E7%AD%B9%E5%BE%97-7500-%E4%B8%87%E7%BE%8E%E5%85%83",
