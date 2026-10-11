@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 平台工具专区",
     "items": [
         {
+            "title": "Givebutter 发布“Givebutter Magic”AI 套件与邮件编辑器改版（10\/1 发布会）",
+            "summary": "Givebutter 在 The Spread 发布会推出 Givebutter Magic AI 套件：活动创建器、智能建议金额与目标、联系人摘要、智能筛选、ChatGPT\/Claude 连接器；另发布重构邮件编辑器、视频消息、移动支票入账、Wix 集成等。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/givebutter-%E5%8F%91%E5%B8%83-givebutter-magic-ai-%E5%A5%97%E4%BB%B6%E4%B8%8E%E9%82%AE%E4%BB%B6%E7%BC%96%E8%BE%91%E5%99%A8%E6%94%B9%E7%89%88-10-1-%E5%8F%91%E5%B8%83%E4%BC%9A",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "Kindsight 2026 Kindness Awards：Hoag 医院感恩患者项目半年筹得 500 万美元，AI 驱动筹款提速",
             "summary": "筹款软件商 Kindsight 在 KindCon 2026 颁发第二届 Kindness Awards，表彰以 AI 与数据驱动的筹款实践；Hoag 医院基金会借 Ascend+iWave 将现代感恩患者项目半年筹得超 500 万美元，体现 AI 采纳提速。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/kindsight-2026-kindness-awards-hoag-%E5%8C%BB%E9%99%A2%E6%84%9F%E6%81%A9%E6%82%A3%E8%80%85%E9%A1%B9%E7%9B%AE%E5%8D%8A%E5%B9%B4%E7%AD%B9%E5%BE%97-500-%E4%B8%87%E7%BE%8E%E5%85%83-ai-%E9%A9%B1%E5%8A%A8%E7%AD%B9%E6%AC%BE%E6%8F%90%E9%80%9F",
