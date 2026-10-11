@@ -5,6 +5,50 @@
     "footer": "Powered by 透明捐助 · 动物保护专区",
     "items": [
         {
+            "title": "加拿大 Saskatoon New Hope Dog Rescue 配捐活动，每笔普通捐款 1:1 配捐上限 1 万加元",
+            "summary": "前领养人 Jen 与 Logan 为纪念救援犬 Fynn 发起配捐，截至 10\/28 前通过 newhoperescue.org 与 CanadaHelps 的普通捐款将获 1:1 配捐，上限 1 万加元，用于犬只医疗与安置。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8A%A0%E6%8B%BF%E5%A4%A7-saskatoon-new-hope-dog-rescue-%E9%85%8D%E6%8D%90%E6%B4%BB%E5%8A%A8-%E6%AF%8F%E7%AC%94%E6%99%AE%E9%80%9A%E6%8D%90%E6%AC%BE-1-1-%E9%85%8D%E6%8D%90%E4%B8%8A%E9%99%90-1-%E4%B8%87%E5%8A%A0%E5%85%83",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "美国密西西比“Rebels For Rescue”为救援转运车筹款 10 万美元，降低安乐死率",
+            "summary": "Rescue Revival 的 2026 Rebels For Rescue 活动为密西西比救援组织募资 10 万美元购置专用转运车，将动物送往急救兽医、寄养与领养家庭；该州收容所安乐死率居高。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BE%8E%E5%9B%BD%E5%AF%86%E8%A5%BF%E8%A5%BF%E6%AF%94-rebels-for-rescue-%E4%B8%BA%E6%95%91%E6%8F%B4%E8%BD%AC%E8%BF%90%E8%BD%A6%E7%AD%B9%E6%AC%BE-10-%E4%B8%87%E7%BE%8E%E5%85%83-%E9%99%8D%E4%BD%8E%E5%AE%89%E4%B9%90%E6%AD%BB%E7%8E%87",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "英国 RSPCA 哈利法克斯分支为三只幸存小猫募款 732 英镑医疗费",
+            "summary": "四只被弃小猫中一只（Starlight）不幸离世，RSPCA 哈利法克斯\/哈德斯菲尔德\/布拉德福德分支为幸存三只（Starbright\/Sunbright\/Sunlight）募集 732 英镑医疗费，并警示孕猫数量增 30%。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%8B%B1%E5%9B%BD-rspca-%E5%93%88%E5%88%A9%E6%B3%95%E5%85%8B%E6%96%AF%E5%88%86%E6%94%AF%E4%B8%BA%E4%B8%89%E5%8F%AA%E5%B9%B8%E5%AD%98%E5%B0%8F%E7%8C%AB%E5%8B%9F%E6%AC%BE-732-%E8%8B%B1%E9%95%91%E5%8C%BB%E7%96%97%E8%B4%B9",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "eur",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "美国佐治亚 Klassy Kats 猫救助寻捐 2 万美元购置移动领养拖车",
+            "summary": "全志愿非营利 Klassy Kats 因合作宠物店关闭而失去领养空间，发起 2 万美元募款购置带空调的移动猫领养拖车，截止 10\/19；首日已筹近 1,300 美元。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BE%8E%E5%9B%BD%E4%BD%90%E6%B2%BB%E4%BA%9A-klassy-kats-%E7%8C%AB%E6%95%91%E5%8A%A9%E5%AF%BB%E6%8D%90-2-%E4%B8%87%E7%BE%8E%E5%85%83%E8%B4%AD%E7%BD%AE%E7%A7%BB%E5%8A%A8%E9%A2%86%E5%85%BB%E6%8B%96%E8%BD%A6",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "美国弗吉尼亚 RHSPCA「One Gift, Twice the Hope」月募款超目标筹得 7.7 万美元",
             "summary": "Rockingham-Harrisonburg SPCA 九月「Raise a Glass, Raise Some Hope」系列募款活动 \"One Gift, Twice the Hope\" 共筹得 7.7 万美元，超出 5 万美元原定目标；款项用于补充今夏高收容量对动物收容所运营资金造成的消耗，并为来年做准备。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BE%8E%E5%9B%BD%E5%BC%97%E5%90%89%E5%B0%BC%E4%BA%9A-rhspca-one-gift-twice-the-hope-%E6%9C%88%E5%8B%9F%E6%AC%BE%E8%B6%85%E7%9B%AE%E6%A0%87%E7%AD%B9%E5%BE%97-7-7-%E4%B8%87%E7%BE%8E%E5%85%83",
@@ -12,7 +56,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-10-07",
             "paypal": ""
         },
         {
