@@ -5,6 +5,50 @@
     "footer": "Powered by 透明捐助 · 医疗援助专区",
     "items": [
         {
+            "title": "美国密歇根 McKenzie 医疗系统基金会启动“Building Together”数字募款，匿名捐赠人承诺 2 万美元配捐",
+            "summary": "McKenzie Health System Foundation 于 10\/1–10\/24 开展 2026 数字募款活动，支持新院区建设；匿名捐赠人提供 2 万美元 1:1 配捐（上限 2 万美元），目标筹款 5 万美元，并鼓励社区创建 P2P 筹款页。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BE%8E%E5%9B%BD%E5%AF%86%E6%AD%87%E6%A0%B9-mckenzie-%E5%8C%BB%E7%96%97%E7%B3%BB%E7%BB%9F%E5%9F%BA%E9%87%91%E4%BC%9A%E5%90%AF%E5%8A%A8-building-together-%E6%95%B0%E5%AD%97%E5%8B%9F%E6%AC%BE-%E5%8C%BF%E5%90%8D%E6%8D%90%E8%B5%A0%E4%BA%BA%E6%89%BF%E8%AF%BA-2-%E4%B8%87%E7%BE%8E%E5%85%83%E9%85%8D%E6%8D%90",
+            "raised": 0,
+            "goal": 50000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "加拿大多伦多 Trillium Health Partners 基金会启动 10 亿加元“Built for Us”建院募款（加国医疗史上最大）",
+            "summary": "Trillium Health Partners Foundation 宣布 10 亿加元募款活动，用于建设加拿大最大医院（Peter Gilgan Mississauga Hospital）及妇女儿童专科医院；同步发售限量服饰，部分收益注入该基金。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%9A%E4%BC%A6%E5%A4%9A-trillium-health-partners-%E5%9F%BA%E9%87%91%E4%BC%9A%E5%90%AF%E5%8A%A8-10-%E4%BA%BF%E5%8A%A0%E5%85%83-built-for-us-%E5%BB%BA%E9%99%A2%E5%8B%9F%E6%AC%BE-%E5%8A%A0%E5%9B%BD%E5%8C%BB%E7%96%97%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "澳大利亚塔斯马尼亚 Royal Hobart 医院研究基金会“Rock for the Royal”全月募款，目标 5 万澳元",
+            "summary": "Royal Hobart Hospital Research Foundation 10 月开展“Rock for the Royal”活动，通过奇装袜、空气吉他挑战、社区活动为医院科研与患者照护筹款，善款全部留在本州。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%A1%94%E6%96%AF%E9%A9%AC%E5%B0%BC%E4%BA%9A-royal-hobart-%E5%8C%BB%E9%99%A2%E7%A0%94%E7%A9%B6%E5%9F%BA%E9%87%91%E4%BC%9A-rock-for-the-royal-%E5%85%A8%E6%9C%88%E5%8B%9F%E6%AC%BE-%E7%9B%AE%E6%A0%87-5-%E4%B8%87%E6%BE%B3%E5%85%83",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "美国怀俄明 Powell 医院基金会“粉红火烈鸟认领”十月募款，支持输液科与抗癌关怀",
+            "summary": "Powell Valley Hospital 基金会借乳癌 Awareness 月启动第四年“火烈鸟认领”募款，善款用于输液科及患者交通食宿补助；另办谋杀悬疑+赌场之夜支持长期护理中心。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BE%8E%E5%9B%BD%E6%80%80%E4%BF%84%E6%98%8E-powell-%E5%8C%BB%E9%99%A2%E5%9F%BA%E9%87%91%E4%BC%9A-%E7%B2%89%E7%BA%A2%E7%81%AB%E7%83%88%E9%B8%9F%E8%AE%A4%E9%A2%86-%E5%8D%81%E6%9C%88%E5%8B%9F%E6%AC%BE-%E6%94%AF%E6%8C%81%E8%BE%93%E6%B6%B2%E7%A7%91%E4%B8%8E%E6%8A%97%E7%99%8C%E5%85%B3%E6%80%80",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "香港博爱医院《博爱欢乐传万家2026》大型电视筹款节目现正接受捐款",
             "summary": "博爱医院年度大型电视筹款节目《博爱欢乐传万家》将于2026年3月21日晚在无线电视翡翠台直播，筹得款项用于发展社会服务、关怀弱势社群；现正接受各界善长及市民捐款，提供7-Eleven现金、多家银行转账、转数快(FPS)、PayMe、Alipay、WeChat等多种捐款渠道。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E9%A6%99%E6%B8%AF%E5%8D%9A%E7%88%B1%E5%8C%BB%E9%99%A2-%E5%8D%9A%E7%88%B1%E6%AC%A2%E4%B9%90%E4%BC%A0%E4%B8%87%E5%AE%B62026-%E5%A4%A7%E5%9E%8B%E7%94%B5%E8%A7%86%E7%AD%B9%E6%AC%BE%E8%8A%82%E7%9B%AE%E7%8E%B0%E6%AD%A3%E6%8E%A5%E5%8F%97%E6%8D%90%E6%AC%BE",
@@ -12,7 +56,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
+            "latest": "2026-10-07",
             "paypal": ""
         },
         {
