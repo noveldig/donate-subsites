@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 创作者赞助专区",
     "items": [
         {
+            "title": "创作者邮件平台Beehiiv上调付费套餐价格至少10美元\/月",
+            "summary": "邮件通讯平台Beehiiv将中端Lite与顶级Pro套餐分别上调至139\/239美元\/月（原109\/219），CEO称用于产品投资；曾以「无百分比抽成」吸引逃离Substack（抽成10%）的创作者，此次提价引发部分用户不满。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%88%9B%E4%BD%9C%E8%80%85%E9%82%AE%E4%BB%B6%E5%B9%B3%E5%8F%B0beehiiv%E4%B8%8A%E8%B0%83%E4%BB%98%E8%B4%B9%E5%A5%97%E9%A4%90%E4%BB%B7%E6%A0%BC%E8%87%B3%E5%B0%9110%E7%BE%8E%E5%85%83-%E6%9C%88",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "Patreon 限期 10\/31 前切换订阅计费，iOS 应用内购买 11\/1 起由苹果抽成最高 30%",
             "summary": "Patreon 要求仍用旧计费模式的创作者在 10\/31（太平洋时间）前切换订阅计费，否则自动迁移并暂停 billing；11\/1 起 iOS 应用内新会员购买须走苹果 IAP，非美粉丝将被抽 30%（满一年降至 15%），新创作者平台费 10%。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/patreon-%E9%99%90%E6%9C%9F-10-31-%E5%89%8D%E5%88%87%E6%8D%A2%E8%AE%A2%E9%98%85%E8%AE%A1%E8%B4%B9-ios-%E5%BA%94%E7%94%A8%E5%86%85%E8%B4%AD%E4%B9%B0-11-1-%E8%B5%B7%E7%94%B1%E8%8B%B9%E6%9E%9C%E6%8A%BD%E6%88%90%E6%9C%80%E9%AB%98-30",
@@ -122,7 +133,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-04",
+            "latest": "2026-10-17",
             "paypal": ""
         },
         {
@@ -133,7 +144,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-04",
+            "latest": "2026-10-17",
             "paypal": ""
         },
         {
@@ -144,7 +155,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-04",
+            "latest": "2026-10-17",
             "paypal": ""
         },
         {
@@ -221,7 +232,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-04",
+            "latest": "2026-10-17",
             "paypal": ""
         },
         {
@@ -232,7 +243,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-04",
+            "latest": "2026-10-17",
             "paypal": ""
         },
         {
@@ -243,7 +254,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-04",
+            "latest": "2026-10-17",
             "paypal": ""
         },
         {
@@ -364,7 +375,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-03",
+            "latest": "2026-10-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -397,7 +408,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-03",
+            "latest": "2026-10-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -452,7 +463,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-16",
+            "latest": "2026-10-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
