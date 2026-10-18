@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 平台工具专区",
     "items": [
         {
+            "title": "Fundraise Up上线P2P众筹功能，支持AI生成故事与页标题",
+            "summary": "筹款平台Fundraise Up新增P2P（点对点）众筹：支持者自助建页为生日\/纪念等 occasion 募款，AI可将粗略句子改写为故事并生成页标题；集成雇主配捐与Meta\/Google追踪，与既有直捐同账户。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/fundraise-up%E4%B8%8A%E7%BA%BFp2p%E4%BC%97%E7%AD%B9%E5%8A%9F%E8%83%BD-%E6%94%AF%E6%8C%81ai%E7%94%9F%E6%88%90%E6%95%85%E4%BA%8B%E4%B8%8E%E9%A1%B5%E6%A0%87%E9%A2%98",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "Givebutter 发布“Givebutter Magic”AI 套件与邮件编辑器改版（10\/1 发布会）",
             "summary": "Givebutter 在 The Spread 发布会推出 Givebutter Magic AI 套件：活动创建器、智能建议金额与目标、联系人摘要、智能筛选、ChatGPT\/Claude 连接器；另发布重构邮件编辑器、视频消息、移动支票入账、Wix 集成等。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/givebutter-%E5%8F%91%E5%B8%83-givebutter-magic-ai-%E5%A5%97%E4%BB%B6%E4%B8%8E%E9%82%AE%E4%BB%B6%E7%BC%96%E8%BE%91%E5%99%A8%E6%94%B9%E7%89%88-10-1-%E5%8F%91%E5%B8%83%E4%BC%9A",
@@ -221,7 +232,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-04",
+            "latest": "2026-10-17",
             "paypal": ""
         },
         {
@@ -232,7 +243,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-04",
+            "latest": "2026-10-17",
             "paypal": ""
         },
         {
@@ -463,7 +474,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-16",
+            "latest": "2026-10-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
