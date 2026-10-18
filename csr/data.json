@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 企业赞助专区",
     "items": [
         {
+            "title": "Goodera盘点志愿匹配平台：Benevity、YourCause、Double the Donation主导企业公益",
+            "summary": "Goodera梳理企业志愿匹配平台格局：Benevity整合员工志愿\/捐赠\/配捐\/ERG，YourCause（Blackbaud）覆盖CSRconnect\/GrantsConnect\/Impact Edge，Double the Donation以覆盖99.68%雇主配捐与志愿补助数据库帮助非营利机构转化企业志愿时数为资金。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/goodera%E7%9B%98%E7%82%B9%E5%BF%97%E6%84%BF%E5%8C%B9%E9%85%8D%E5%B9%B3%E5%8F%B0-benevity-yourcause-double-the-donation%E4%B8%BB%E5%AF%BC%E4%BC%81%E4%B8%9A%E5%85%AC%E7%9B%8A",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "Teleskope 与 Every.org 合作，将员工配捐与公益捐赠嵌入企业员工体验平台",
             "summary": "AI 员工体验平台 Teleskope 接入 Every.org（501(c)(3) 公益基建），员工可在既有社区内发现公益项目、用薪资\/卡\/DAF\/股票\/加密捐款，企业配捐按规则自动触发，免去单独申请表单。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/teleskope-%E4%B8%8E-every-org-%E5%90%88%E4%BD%9C-%E5%B0%86%E5%91%98%E5%B7%A5%E9%85%8D%E6%8D%90%E4%B8%8E%E5%85%AC%E7%9B%8A%E6%8D%90%E8%B5%A0%E5%B5%8C%E5%85%A5%E4%BC%81%E4%B8%9A%E5%91%98%E5%B7%A5%E4%BD%93%E9%AA%8C%E5%B9%B3%E5%8F%B0",
@@ -34,7 +45,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-07",
+            "latest": "2026-10-17",
             "paypal": ""
         },
         {
@@ -45,7 +56,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-04",
+            "latest": "2026-10-17",
             "paypal": ""
         },
         {
@@ -133,7 +144,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-03",
+            "latest": "2026-10-17",
             "paypal": ""
         },
         {
@@ -166,7 +177,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-04",
+            "latest": "2026-10-17",
             "paypal": ""
         },
         {
@@ -232,7 +243,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-04",
+            "latest": "2026-10-17",
             "paypal": ""
         },
         {
@@ -551,7 +562,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-16",
+            "latest": "2026-10-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -584,7 +595,7 @@
             "goal": 100000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-01",
+            "latest": "2026-10-17",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
