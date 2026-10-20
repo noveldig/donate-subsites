@@ -5,6 +5,39 @@
     "footer": "Powered by 透明捐助 · 动物保护专区",
     "items": [
         {
+            "title": "美国南卡猫群守护者发起 GoFundMe 购地建猫庇护所，目标 $10 万已筹 $3.6 万",
+            "summary": "Heather Perez 夫妇两年来喂养、TNR 并安置约 50–70 只社区猫，8\/15 在 GoFundMe 发起 Whiskerwood Sanctuary 购地计划，目标 $10 万用于购置并建设永久庇护所；截至 10\/2 已筹逾 $3.6 万。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BE%8E%E5%9B%BD%E5%8D%97%E5%8D%A1%E7%8C%AB%E7%BE%A4%E5%AE%88%E6%8A%A4%E8%80%85%E5%8F%91%E8%B5%B7-gofundme-%E8%B4%AD%E5%9C%B0%E5%BB%BA%E7%8C%AB%E5%BA%87%E6%8A%A4%E6%89%80-%E7%9B%AE%E6%A0%87-10-%E4%B8%87%E5%B7%B2%E7%AD%B9-3-6-%E4%B8%87",
+            "raised": 0,
+            "goal": 36000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "郝熠然全国粉丝团公益应援向成都归萌坞流浪小院捐赠物资",
+            "summary": "郝熠然全国粉丝团以艺人名义向成都归萌坞流浪小院捐赠善款，全部用于小院流浪动物的物资与医疗支出，呼应 10\/14 生日公益应援。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E9%83%9D%E7%86%A0%E7%84%B6%E5%85%A8%E5%9B%BD%E7%B2%89%E4%B8%9D%E5%9B%A2%E5%85%AC%E7%9B%8A%E5%BA%94%E6%8F%B4%E5%90%91%E6%88%90%E9%83%BD%E5%BD%92%E8%90%8C%E5%9D%9E%E6%B5%81%E6%B5%AA%E5%B0%8F%E9%99%A2%E6%8D%90%E8%B5%A0%E7%89%A9%E8%B5%84",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "康涅狄格人道协会联合 Subaru 推 #SNELovesPets，发帖即捐 $10 上限 $7.5 万",
+            "summary": "10 月 Connecticut Humane Society 联合 Subaru of New England 开展 #SNELovesPets：10\/1–10\/31 期间每在社交平台带话题分享宠物照，Subaru 向 12 家新英格兰动物庇护所捐 $10（上限 $7.5 万），每家最高 $6,250。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%BA%B7%E6%B6%85%E7%8B%84%E6%A0%BC%E4%BA%BA%E9%81%93%E5%8D%8F%E4%BC%9A%E8%81%94%E5%90%88-subaru-%E6%8E%A8-snelovespets-%E5%8F%91%E5%B8%96%E5%8D%B3%E6%8D%90-10-%E4%B8%8A%E9%99%90-7-5-%E4%B8%87",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "曾沛慈2026生日应援以粉丝之名向流浪动物救助基地捐赠物资",
             "summary": "粉丝以艺人曾沛慈之名向乐哈流浪动物救助基地及首都爱护动物协会捐赠物资用于流浪动物救助，并持续接棒捐款，让善意长久延续。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%9B%BE%E6%B2%9B%E6%85%882026%E7%94%9F%E6%97%A5%E5%BA%94%E6%8F%B4%E4%BB%A5%E7%B2%89%E4%B8%9D%E4%B9%8B%E5%90%8D%E5%90%91%E6%B5%81%E6%B5%AA%E5%8A%A8%E7%89%A9%E6%95%91%E5%8A%A9%E5%9F%BA%E5%9C%B0%E6%8D%90%E8%B5%A0%E7%89%A9%E8%B5%84",
@@ -12,7 +45,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
+            "latest": "2026-10-18",
             "paypal": ""
         },
         {
