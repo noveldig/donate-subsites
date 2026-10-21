@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 医疗援助专区",
     "items": [
         {
+            "title": "湖北宜昌「宜善行」小程序上线，大病救助\/急难帮扶\/助学一键捐赠",
+            "summary": "三峡日报报道，宜昌市通过微信「宜善行」小程序开通大病救助、急难帮扶、圆梦助学等网络慈善募捐通道，善款用于困难重病患者医疗补助与困境家庭帮扶，依法公示收支并可开具捐赠票据。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C-%E5%AE%9C%E5%96%84%E8%A1%8C-%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%B8%8A%E7%BA%BF-%E5%A4%A7%E7%97%85%E6%95%91%E5%8A%A9-%E6%80%A5%E9%9A%BE%E5%B8%AE%E6%89%B6-%E5%8A%A9%E5%AD%A6%E4%B8%80%E9%94%AE%E6%8D%90%E8%B5%A0",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "澳门奥比斯启动「爱眼行动2026」系列街头筹款，支援全球防盲",
             "summary": "澳门奥比斯响应世界视觉日启动年度护眼倡导及筹款活动，即日起至12月4日于全澳展开线上线下推广并办三场街头筹款日；公众可经线上捐款平台支持，捐款澳门币100元或以上获纪念襟章。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%BE%B3%E9%97%A8%E5%A5%A5%E6%AF%94%E6%96%AF%E5%90%AF%E5%8A%A8-%E7%88%B1%E7%9C%BC%E8%A1%8C%E5%8A%A82026-%E7%B3%BB%E5%88%97%E8%A1%97%E5%A4%B4%E7%AD%B9%E6%AC%BE-%E6%94%AF%E6%8F%B4%E5%85%A8%E7%90%83%E9%98%B2%E7%9B%B2",
@@ -67,7 +78,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -78,7 +89,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -188,7 +199,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -199,7 +210,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -210,7 +221,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -221,7 +232,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -232,7 +243,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -243,7 +254,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -254,7 +265,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -287,7 +298,7 @@
             "goal": 500000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -298,7 +309,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-04",
+            "latest": "2026-10-18",
             "paypal": ""
         },
         {
@@ -309,7 +320,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -320,7 +331,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -342,7 +353,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -353,7 +364,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -375,7 +386,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -386,7 +397,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -408,7 +419,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -419,7 +430,7 @@
             "goal": 200000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -430,7 +441,7 @@
             "goal": 7300,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -441,7 +452,7 @@
             "goal": 5000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -452,7 +463,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -463,7 +474,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -507,7 +518,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -551,7 +562,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -562,7 +573,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -595,7 +606,7 @@
             "goal": 10000,
             "currency": "eur",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -639,7 +650,7 @@
             "goal": 10000,
             "currency": "eur",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -672,7 +683,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -683,7 +694,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -694,7 +705,7 @@
             "goal": 740000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -738,7 +749,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -749,7 +760,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": ""
         },
         {
@@ -771,7 +782,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -782,7 +793,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -826,7 +837,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -848,7 +859,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -859,7 +870,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -870,7 +881,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -903,7 +914,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -914,7 +925,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -925,7 +936,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -936,7 +947,7 @@
             "goal": 1000000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -947,7 +958,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -958,7 +969,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -969,7 +980,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -980,7 +991,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -991,7 +1002,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1002,7 +1013,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1035,7 +1046,7 @@
             "goal": 10000,
             "currency": "eur",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-20",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
