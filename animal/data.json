@@ -5,6 +5,61 @@
     "footer": "Powered by 透明捐助 · 动物保护专区",
     "items": [
         {
+            "title": "日本 Buddies 动物保护组织发起 Dogaffirmation 卡片牌组 Kickstarter，为东京流浪\/成犬救助筹款",
+            "summary": "日本动物保护组织 Buddies 于 2026-10-20 在 Kickstarter 上线 Dogaffirmation 卡片牌组众筹，收益用于东京流浪与成年救助犬的庇护与康复，借插画传递「以个体价值看待救助犬」理念，并规划未来人犬共愈庇护所。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%97%A5%E6%9C%AC-buddies-%E5%8A%A8%E7%89%A9%E4%BF%9D%E6%8A%A4%E7%BB%84%E7%BB%87%E5%8F%91%E8%B5%B7-dogaffirmation-%E5%8D%A1%E7%89%87%E7%89%8C%E7%BB%84-kickstarter-%E4%B8%BA%E4%B8%9C%E4%BA%AC%E6%B5%81%E6%B5%AA-%E6%88%90%E7%8A%AC%E6%95%91%E5%8A%A9%E7%AD%B9%E6%AC%BE",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "jpy",
+            "tiers": "[1000,3000,5000,10000]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "美国弗吉尼亚诺福克墓地获救流浪犬 Lucky 设 GoFundMe 筹寄养\/医疗\/训练费",
+            "summary": "一只德国牧羊犬混血 Lucky 在诺福克一处墓园独居数月后被救助，现居 Norfolk Animal Care Center，性格胆怯。救助者 David Reitz 于 10-12 设立 GoFundMe，为 Lucky 的寄养、兽医、训练与医疗筹款；庇护所正为其寻找有耐心的寄养家庭。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BE%8E%E5%9B%BD%E5%BC%97%E5%90%89%E5%B0%BC%E4%BA%9A%E8%AF%BA%E7%A6%8F%E5%85%8B%E5%A2%93%E5%9C%B0%E8%8E%B7%E6%95%91%E6%B5%81%E6%B5%AA%E7%8A%AC-lucky-%E8%AE%BE-gofundme-%E7%AD%B9%E5%AF%84%E5%85%BB-%E5%8C%BB%E7%96%97-%E8%AE%AD%E7%BB%83%E8%B4%B9",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "加州沙漠被弃犬危机：退休教师 Ryan 靠 GoFundMe 与代课维持救助，已花约 19 万美元退休金",
+            "summary": "加州内陆沙漠地区宠物遗弃激增，advocates 指出流浪犬形成 feral packs 并袭击牲畜与人。退休英语教师 Mike Ryan 自 2020-12 起收养 70+ 只寄养犬（含 6 窝幼犬），靠 GoFundMe 筹款与代课维持救助，已花约 19 万美元退休金。文章呼吁举报遗弃行为（轻罪，特定情形可升为重罪）。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8A%A0%E5%B7%9E%E6%B2%99%E6%BC%A0%E8%A2%AB%E5%BC%83%E7%8A%AC%E5%8D%B1%E6%9C%BA-%E9%80%80%E4%BC%91%E6%95%99%E5%B8%88-ryan-%E9%9D%A0-gofundme-%E4%B8%8E%E4%BB%A3%E8%AF%BE%E7%BB%B4%E6%8C%81%E6%95%91%E5%8A%A9-%E5%B7%B2%E8%8A%B1%E7%BA%A6-19-%E4%B8%87%E7%BE%8E%E5%85%83%E9%80%80%E4%BC%91%E9%87%91",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "德州 Ringtail Ranch 狐猴救助站为重伤环尾狐猴 Soa 设 GoFundMe 筹兽医账单",
+            "summary": "Ringtail Ranch Lemur Rescue 接收一只 1 岁、严重营养不良且多处骨折（断骨、断指、断牙）的环尾狐猴 Soa，疑来自无牌繁殖者。目前已送医 24 小时看护，曾考虑安乐但决定救治。救助站设 GoFundMe 为其兽医账单筹款，并持续调查。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%BE%B7%E5%B7%9E-ringtail-ranch-%E7%8B%90%E7%8C%B4%E6%95%91%E5%8A%A9%E7%AB%99%E4%B8%BA%E9%87%8D%E4%BC%A4%E7%8E%AF%E5%B0%BE%E7%8B%90%E7%8C%B4-soa-%E8%AE%BE-gofundme-%E7%AD%B9%E5%85%BD%E5%8C%BB%E8%B4%A6%E5%8D%95",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-10-22",
+            "paypal": ""
+        },
+        {
+            "title": "加州 Unstoppable Dogs 残障犬庇护所发起 GoFundMe 筹 10 万美元扩建场地",
+            "summary": "Unstoppable Dogs Ranch 是一家收留残障犬的庇护所，现 17 只犬自由生活、另有 3 只待入。庇护所发起 GoFundMe 筹集 10 万美元扩建空间。创始人 Pearl 带犬走访学校、医院、康复中心与养老社区；故事原载 Parade Pets（2026-10-06）。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8A%A0%E5%B7%9E-unstoppable-dogs-%E6%AE%8B%E9%9A%9C%E7%8A%AC%E5%BA%87%E6%8A%A4%E6%89%80%E5%8F%91%E8%B5%B7-gofundme-%E7%AD%B9-10-%E4%B8%87%E7%BE%8E%E5%85%83%E6%89%A9%E5%BB%BA%E5%9C%BA%E5%9C%B0",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "美国南卡猫群守护者发起 GoFundMe 购地建猫庇护所，目标 $10 万已筹 $3.6 万",
             "summary": "Heather Perez 夫妇两年来喂养、TNR 并安置约 50–70 只社区猫，8\/15 在 GoFundMe 发起 Whiskerwood Sanctuary 购地计划，目标 $10 万用于购置并建设永久庇护所；截至 10\/2 已筹逾 $3.6 万。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BE%8E%E5%9B%BD%E5%8D%97%E5%8D%A1%E7%8C%AB%E7%BE%A4%E5%AE%88%E6%8A%A4%E8%80%85%E5%8F%91%E8%B5%B7-gofundme-%E8%B4%AD%E5%9C%B0%E5%BB%BA%E7%8C%AB%E5%BA%87%E6%8A%A4%E6%89%80-%E7%9B%AE%E6%A0%87-10-%E4%B8%87%E5%B7%B2%E7%AD%B9-3-6-%E4%B8%87",
@@ -111,7 +166,7 @@
             "goal": 10000,
             "currency": "eur",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-21",
             "paypal": ""
         },
         {
@@ -276,7 +331,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-01",
+            "latest": "2026-10-22",
             "paypal": ""
         },
         {
@@ -496,7 +551,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-22",
             "paypal": ""
         },
         {
