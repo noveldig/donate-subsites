@@ -5,6 +5,39 @@
     "footer": "Powered by 透明捐助 · 医疗援助专区",
     "items": [
         {
+            "title": "尼克劳斯儿童医院第 19 届 Diamond Ball 筹得逾 400 万美元",
+            "summary": "尼克劳斯儿童医院（迈阿密）第 19 届 Diamond Ball 慈善晚宴于 10-10 举办、10-16 公布，筹得逾 400 万美元，用于扩展儿科重症与专科治疗，嘉宾含多位患者故事与社区领袖。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%B0%BC%E5%85%8B%E5%8A%B3%E6%96%AF%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2%E7%AC%AC-19-%E5%B1%8A-diamond-ball-%E7%AD%B9%E5%BE%97%E9%80%BE-400-%E4%B8%87%E7%BE%8E%E5%85%83",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "渥太华 CHEO 儿童医院 RBC Race for Kids 筹得 1,016,168.41 加元",
+            "summary": "渥太华 CHEO 儿童医院第十届 RBC Race for Kids（10-04）筹得 1,016,168.41 加元，用于儿科医疗与「Kids These Days」重建项目，旨在整合复杂照护中心。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%B8%A5%E5%A4%AA%E5%8D%8E-cheo-%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2-rbc-race-for-kids-%E7%AD%B9%E5%BE%97-1-016-168-41-%E5%8A%A0%E5%85%83",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Sanford 儿童基金会 2026 慈善晚宴筹得逾 240 万美元（含 100 万匿名配捐）",
+            "summary": "Sanford 儿童基金会 2026 儿童慈善晚宴（10-02，南达科他苏福尔斯）筹得逾 240 万美元，因匿名捐者 100 万美元配捐而翻倍，用于儿童舒缓治疗、游戏治疗与专科项目。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/sanford-%E5%84%BF%E7%AB%A5%E5%9F%BA%E9%87%91%E4%BC%9A-2026-%E6%85%88%E5%96%84%E6%99%9A%E5%AE%B4%E7%AD%B9%E5%BE%97%E9%80%BE-240-%E4%B8%87%E7%BE%8E%E5%85%83-%E5%90%AB-100-%E4%B8%87%E5%8C%BF%E5%90%8D%E9%85%8D%E6%8D%90",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "湖北宜昌「宜善行」小程序上线，大病救助\/急难帮扶\/助学一键捐赠",
             "summary": "三峡日报报道，宜昌市通过微信「宜善行」小程序开通大病救助、急难帮扶、圆梦助学等网络慈善募捐通道，善款用于困难重病患者医疗补助与困境家庭帮扶，依法公示收支并可开具捐赠票据。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C-%E5%AE%9C%E5%96%84%E8%A1%8C-%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%B8%8A%E7%BA%BF-%E5%A4%A7%E7%97%85%E6%95%91%E5%8A%A9-%E6%80%A5%E9%9A%BE%E5%B8%AE%E6%89%B6-%E5%8A%A9%E5%AD%A6%E4%B8%80%E9%94%AE%E6%8D%90%E8%B5%A0",
@@ -12,7 +45,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "",
+            "latest": "2026-10-22",
             "paypal": ""
         },
         {
@@ -617,7 +650,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-01",
+            "latest": "2026-10-22",
             "paypal": ""
         },
         {
