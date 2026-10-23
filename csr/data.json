@@ -5,6 +5,28 @@
     "footer": "Powered by 透明捐助 · 企业赞助专区",
     "items": [
         {
+            "title": "2026 雇主员工配捐计划盘点：17 家确认上限，警惕 12·31 截止陷阱",
+            "summary": "非营利机构 Nonprofit Point 核实 17 家大型企业雇主配捐计划的确认上限与比例：Microsoft 1:1 至 $15,000、J&J 员工 2:1 至 $10,000、Caterpillar 4-1 起退休金上限降至 $5,000、Cisco\/NVIDIA\/Salesforce 各 $10,000、GE Aerospace 1:1 $5,000、3M 1:1 $5,000、Home Depot $25–$3,000、T-Mobile $2,000、Cleveland-Cliffs $1,500、Schwab $1,000（+董事会 $1,000）、Starbucks $1,000、Workday 1:1 $1,000。并提醒员工配捐申请常见的 12 月 31 日截止陷阱；Google\/Apple 等未公开具体数字。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/2026-%E9%9B%87%E4%B8%BB%E5%91%98%E5%B7%A5%E9%85%8D%E6%8D%90%E8%AE%A1%E5%88%92%E7%9B%98%E7%82%B9-17-%E5%AE%B6%E7%A1%AE%E8%AE%A4%E4%B8%8A%E9%99%90-%E8%AD%A6%E6%83%95-12-31-%E6%88%AA%E6%AD%A2%E9%99%B7%E9%98%B1",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-10-22",
+            "paypal": ""
+        },
+        {
+            "title": "小企业如何启动员工配捐：2026 年起美国企业慈善扣除新增 1% 门槛",
+            "summary": "中文实操指南讲解小企业如何上线员工配捐（1:1\/2:1、年度上限、受赠方须为认证 501(c)(3) 等）。关键政策变化：2026 年起美国 C 型公司慈善捐赠税前扣除新增 1% 应税收入门槛，仅超过 1% 的部分可在当年扣除；并介绍 Dollars for Doers 志愿服务补助（通常 $10–25\/小时或满 20–25 小时赠 $250）。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%B0%8F%E4%BC%81%E4%B8%9A%E5%A6%82%E4%BD%95%E5%90%AF%E5%8A%A8%E5%91%98%E5%B7%A5%E9%85%8D%E6%8D%90-2026-%E5%B9%B4%E8%B5%B7%E7%BE%8E%E5%9B%BD%E4%BC%81%E4%B8%9A%E6%85%88%E5%96%84%E6%89%A3%E9%99%A4%E6%96%B0%E5%A2%9E-1-%E9%97%A8%E6%A7%9B",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "2026-10-22",
+            "paypal": ""
+        },
+        {
             "title": "Goodera盘点志愿匹配平台：Benevity、YourCause、Double the Donation主导企业公益",
             "summary": "Goodera梳理企业志愿匹配平台格局：Benevity整合员工志愿\/捐赠\/配捐\/ERG，YourCause（Blackbaud）覆盖CSRconnect\/GrantsConnect\/Impact Edge，Double the Donation以覆盖99.68%雇主配捐与志愿补助数据库帮助非营利机构转化企业志愿时数为资金。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/goodera%E7%9B%98%E7%82%B9%E5%BF%97%E6%84%BF%E5%8C%B9%E9%85%8D%E5%B9%B3%E5%8F%B0-benevity-yourcause-double-the-donation%E4%B8%BB%E5%AF%BC%E4%BC%81%E4%B8%9A%E5%85%AC%E7%9B%8A",
@@ -540,7 +562,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-22",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
