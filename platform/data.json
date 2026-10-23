@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 平台工具专区",
     "items": [
         {
+            "title": "Fundraise Up 推出 Agentic Giving：AI 助手可直接在聊天中完成捐赠路由",
+            "summary": "Fundraise Up 推出 Agentic Giving：让 AI 助手理解非营利组织及其活动，并在聊天中直接将捐赠者路由至官方结账页完成捐款，属 AI 筹款新形态；无额外费用，可随时关闭。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/fundraise-up-%E6%8E%A8%E5%87%BA-agentic-giving-ai-%E5%8A%A9%E6%89%8B%E5%8F%AF%E7%9B%B4%E6%8E%A5%E5%9C%A8%E8%81%8A%E5%A4%A9%E4%B8%AD%E5%AE%8C%E6%88%90%E6%8D%90%E8%B5%A0%E8%B7%AF%E7%94%B1",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "AI 筹款平台 Kindora 登陆 Wefunder 融资，$12M 估值上限",
             "summary": "AI 驱动的非营利筹款平台 Kindora（创始人曾任 Google.org 董事）在 Wefunder 融资，估值上限 $12M；平台以 AI 做资助方匹配、Grants 研究、LOI 与捐赠情报，已吸引 2,300+ 组织、118 家付费客户，数据覆盖 26 万基金会与 930 万 Grant 记录。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/ai-%E7%AD%B9%E6%AC%BE%E5%B9%B3%E5%8F%B0-kindora-%E7%99%BB%E9%99%86-wefunder-%E8%9E%8D%E8%B5%84-12m-%E4%BC%B0%E5%80%BC%E4%B8%8A%E9%99%90",
@@ -364,7 +375,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-11",
+            "latest": "2026-10-22",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
