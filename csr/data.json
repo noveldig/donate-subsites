@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 企业赞助专区",
     "items": [
         {
+            "title": "Jerónimo Martins集团向基金会追加€4000万，驰援葡萄牙风暴与哥伦比亚地震灾后重建",
+            "summary": "葡萄牙零售集团Jerónimo Martins董事会决定向旗下基金会额外捐赠4000万欧元，以应对年初\"Kristin\"风暴与8月10日哥伦比亚7.4级地震造成的民生与基建损毁；葡萄牙政府估损€5.3B、哥伦比亚约€11B，资金用于住房、保育及福利设施重建。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/jer%C3%B3nimo-martins%E9%9B%86%E5%9B%A2%E5%90%91%E5%9F%BA%E9%87%91%E4%BC%9A%E8%BF%BD%E5%8A%A0-4000%E4%B8%87-%E9%A9%B0%E6%8F%B4%E8%91%A1%E8%90%84%E7%89%99%E9%A3%8E%E6%9A%B4%E4%B8%8E%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%9C%B0%E9%9C%87%E7%81%BE%E5%90%8E%E9%87%8D%E5%BB%BA",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "2026 雇主员工配捐计划盘点：17 家确认上限，警惕 12·31 截止陷阱",
             "summary": "非营利机构 Nonprofit Point 核实 17 家大型企业雇主配捐计划的确认上限与比例：Microsoft 1:1 至 $15,000、J&J 员工 2:1 至 $10,000、Caterpillar 4-1 起退休金上限降至 $5,000、Cisco\/NVIDIA\/Salesforce 各 $10,000、GE Aerospace 1:1 $5,000、3M 1:1 $5,000、Home Depot $25–$3,000、T-Mobile $2,000、Cleveland-Cliffs $1,500、Schwab $1,000（+董事会 $1,000）、Starbucks $1,000、Workday 1:1 $1,000。并提醒员工配捐申请常见的 12 月 31 日截止陷阱；Google\/Apple 等未公开具体数字。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/2026-%E9%9B%87%E4%B8%BB%E5%91%98%E5%B7%A5%E9%85%8D%E6%8D%90%E8%AE%A1%E5%88%92%E7%9B%98%E7%82%B9-17-%E5%AE%B6%E7%A1%AE%E8%AE%A4%E4%B8%8A%E9%99%90-%E8%AD%A6%E6%83%95-12-31-%E6%88%AA%E6%AD%A2%E9%99%B7%E9%98%B1",
