@@ -5,6 +5,28 @@
     "footer": "Powered by 透明捐助 · 平台工具专区",
     "items": [
         {
+            "title": "CharityEngine 推出 Copilot：业内首个语音优先的「智能体」筹款AI",
+            "summary": "CharityEngine 发布 Copilot，自称业内首个语音优先、可自主推理与执行动作的筹款智能体AI；基于平台统一支持者数据，可起草个性化外联、构建筹款旅程、挖掘潜在大额捐赠者，以\"Just Ask\"自然语音交互降低使用门槛。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/charityengine-%E6%8E%A8%E5%87%BA-copilot-%E4%B8%9A%E5%86%85%E9%A6%96%E4%B8%AA%E8%AF%AD%E9%9F%B3%E4%BC%98%E5%85%88%E7%9A%84-%E6%99%BA%E8%83%BD%E4%BD%93-%E7%AD%B9%E6%AC%BEai",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Donorbox 接入 Stripe Directory，成为首个支持「智能体捐赠」的筹款平台",
+            "summary": "Donorbox 集成 Stripe Directory 推出 agentic giving，兼容AI代理（如Hermes、Meta's Muse、Grok Bot）可帮捐赠者发现参与的非营利项目并完成授权捐赠，成为首个接入该目录的筹款平台，面向有美国Stripe账户的机构开放。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/donorbox-%E6%8E%A5%E5%85%A5-stripe-directory-%E6%88%90%E4%B8%BA%E9%A6%96%E4%B8%AA%E6%94%AF%E6%8C%81-%E6%99%BA%E8%83%BD%E4%BD%93%E6%8D%90%E8%B5%A0-%E7%9A%84%E7%AD%B9%E6%AC%BE%E5%B9%B3%E5%8F%B0",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "Fundraise Up 推出 Agentic Giving：AI 助手可直接在聊天中完成捐赠路由",
             "summary": "Fundraise Up 推出 Agentic Giving：让 AI 助手理解非营利组织及其活动，并在聊天中直接将捐赠者路由至官方结账页完成捐款，属 AI 筹款新形态；无额外费用，可随时关闭。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/fundraise-up-%E6%8E%A8%E5%87%BA-agentic-giving-ai-%E5%8A%A9%E6%89%8B%E5%8F%AF%E7%9B%B4%E6%8E%A5%E5%9C%A8%E8%81%8A%E5%A4%A9%E4%B8%AD%E5%AE%8C%E6%88%90%E6%8D%90%E8%B5%A0%E8%B7%AF%E7%94%B1",
