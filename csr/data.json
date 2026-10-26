@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 企业赞助专区",
     "items": [
         {
+            "title": "金融经纪商 ATFX 第八届「Run in Pink」粉红公益跑，员工每跑 1 公里捐 1 美元助乳腺癌防治",
+            "summary": "值乳腺癌防治月，ATFX 连续第八年举办「Run in Pink」全球粉红公益跑步\/健走，2026-10-14 至 27 日员工每完成 1 公里跑步或步行，ATFX 即向 Breast Cancer Now 等乳腺癌防治组织捐赠 1 美元，将员工个人行动转化为集体公益贡献。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E9%87%91%E8%9E%8D%E7%BB%8F%E7%BA%AA%E5%95%86-atfx-%E7%AC%AC%E5%85%AB%E5%B1%8A-run-in-pink-%E7%B2%89%E7%BA%A2%E5%85%AC%E7%9B%8A%E8%B7%91-%E5%91%98%E5%B7%A5%E6%AF%8F%E8%B7%91-1-%E5%85%AC%E9%87%8C%E6%8D%90-1-%E7%BE%8E%E5%85%83%E5%8A%A9%E4%B9%B3%E8%85%BA%E7%99%8C%E9%98%B2%E6%B2%BB",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "Jerónimo Martins集团向基金会追加€4000万，驰援葡萄牙风暴与哥伦比亚地震灾后重建",
             "summary": "葡萄牙零售集团Jerónimo Martins董事会决定向旗下基金会额外捐赠4000万欧元，以应对年初\"Kristin\"风暴与8月10日哥伦比亚7.4级地震造成的民生与基建损毁；葡萄牙政府估损€5.3B、哥伦比亚约€11B，资金用于住房、保育及福利设施重建。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/jer%C3%B3nimo-martins%E9%9B%86%E5%9B%A2%E5%90%91%E5%9F%BA%E9%87%91%E4%BC%9A%E8%BF%BD%E5%8A%A0-4000%E4%B8%87-%E9%A9%B0%E6%8F%B4%E8%91%A1%E8%90%84%E7%89%99%E9%A3%8E%E6%9A%B4%E4%B8%8E%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%9C%B0%E9%9C%87%E7%81%BE%E5%90%8E%E9%87%8D%E5%BB%BA",
@@ -12,7 +23,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-10-25",
             "paypal": ""
         },
         {
@@ -78,7 +89,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-17",
+            "latest": "2026-10-25",
             "paypal": ""
         },
         {
@@ -89,7 +100,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-17",
+            "latest": "2026-10-25",
             "paypal": ""
         },
         {
@@ -177,7 +188,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-17",
+            "latest": "2026-10-25",
             "paypal": ""
         },
         {
@@ -210,7 +221,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-17",
+            "latest": "2026-10-25",
             "paypal": ""
         },
         {
@@ -276,7 +287,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-17",
+            "latest": "2026-10-25",
             "paypal": ""
         },
         {
@@ -595,7 +606,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-17",
+            "latest": "2026-10-25",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -628,7 +639,7 @@
             "goal": 100000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-17",
+            "latest": "2026-10-25",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
