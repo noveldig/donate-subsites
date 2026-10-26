@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 平台工具专区",
     "items": [
         {
+            "title": "Fundraise Up 上线「面对面筹款 In-Person Giving」与 DIY 点对点 P2P，支持 Tap to Donate",
+            "summary": "Fundraise Up 发布 In-Person Giving（Tap to Donate 手机收款、Giving Station 平板自助点）与 DIY 点对点筹款，所有渠道捐赠汇入同一账户与 donor record；P2P 面向全球、In-Person 先开美加（英国年底）。配套 AI Coach、活动筹款将于 2027 推出。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/fundraise-up-%E4%B8%8A%E7%BA%BF-%E9%9D%A2%E5%AF%B9%E9%9D%A2%E7%AD%B9%E6%AC%BE-in-person-giving-%E4%B8%8E-diy-%E7%82%B9%E5%AF%B9%E7%82%B9-p2p-%E6%94%AF%E6%8C%81-tap-to-donate",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "CharityEngine 推出 Copilot：业内首个语音优先的「智能体」筹款AI",
             "summary": "CharityEngine 发布 Copilot，自称业内首个语音优先、可自主推理与执行动作的筹款智能体AI；基于平台统一支持者数据，可起草个性化外联、构建筹款旅程、挖掘潜在大额捐赠者，以\"Just Ask\"自然语音交互降低使用门槛。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/charityengine-%E6%8E%A8%E5%87%BA-copilot-%E4%B8%9A%E5%86%85%E9%A6%96%E4%B8%AA%E8%AF%AD%E9%9F%B3%E4%BC%98%E5%85%88%E7%9A%84-%E6%99%BA%E8%83%BD%E4%BD%93-%E7%AD%B9%E6%AC%BEai",
@@ -12,7 +23,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-10-25",
             "paypal": ""
         },
         {
@@ -23,7 +34,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-10-25",
             "paypal": ""
         },
         {
@@ -287,7 +298,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-17",
+            "latest": "2026-10-25",
             "paypal": ""
         },
         {
@@ -298,7 +309,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-17",
+            "latest": "2026-10-25",
             "paypal": ""
         },
         {
@@ -529,7 +540,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-17",
+            "latest": "2026-10-25",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
