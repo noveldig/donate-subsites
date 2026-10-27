@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 创作者赞助专区",
     "items": [
         {
+            "title": "分析：截至 2026 年 10 月，尼日利亚创作者可在哪些平台真正收到款项",
+            "summary": "Endow 逐平台核查尼日利亚创作者的实际收款能力：Medium 列入支持国、Patreon 以奈拉银行转账（每笔 $0.25+1.55%）付款、Ko-fi 经 PayPal\/Stripe、Substack\/Twitch\/Discord\/Buy Me a Coffee 付费提现据报在尼日利亚受阻，凸显「能触达受众」与「能收款」之间的鸿沟。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%88%86%E6%9E%90-%E6%88%AA%E8%87%B3-2026-%E5%B9%B4-10-%E6%9C%88-%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E5%88%9B%E4%BD%9C%E8%80%85%E5%8F%AF%E5%9C%A8%E5%93%AA%E4%BA%9B%E5%B9%B3%E5%8F%B0%E7%9C%9F%E6%AD%A3%E6%94%B6%E5%88%B0%E6%AC%BE%E9%A1%B9",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "创作者邮件平台Beehiiv上调付费套餐价格至少10美元\/月",
             "summary": "邮件通讯平台Beehiiv将中端Lite与顶级Pro套餐分别上调至139\/239美元\/月（原109\/219），CEO称用于产品投资；曾以「无百分比抽成」吸引逃离Substack（抽成10%）的创作者，此次提价引发部分用户不满。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%88%9B%E4%BD%9C%E8%80%85%E9%82%AE%E4%BB%B6%E5%B9%B3%E5%8F%B0beehiiv%E4%B8%8A%E8%B0%83%E4%BB%98%E8%B4%B9%E5%A5%97%E9%A4%90%E4%BB%B7%E6%A0%BC%E8%87%B3%E5%B0%9110%E7%BE%8E%E5%85%83-%E6%9C%88",
