@@ -12,7 +12,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-10-27",
             "paypal": ""
         },
         {
@@ -78,7 +78,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-18",
+            "latest": "2026-10-27",
             "paypal": ""
         },
         {
