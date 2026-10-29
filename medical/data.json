@@ -5,6 +5,83 @@
     "footer": "Powered by 透明捐助 · 医疗援助专区",
     "items": [
         {
+            "title": "美国塔拉哈西纪念医疗基金会「火烈鸟挑战」第7年为乳腺癌患者筹款",
+            "summary": "First Commerce 信用合作社与 Tallahassee Memorial HealthCare 基金会第7年举办 Flamingo Challenge 社区筹款，新增 DIY 筹款平台，参与者可建团队\/个人页或直接捐款，所得全部留在当地支持乳腺癌患者（影像检查、交通住宿、先进治疗）。2026 挑战将于 11 月 5 日收官。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BE%8E%E5%9B%BD%E5%A1%94%E6%8B%89%E5%93%88%E8%A5%BF%E7%BA%AA%E5%BF%B5%E5%8C%BB%E7%96%97%E5%9F%BA%E9%87%91%E4%BC%9A-%E7%81%AB%E7%83%88%E9%B8%9F%E6%8C%91%E6%88%98-%E7%AC%AC7%E5%B9%B4%E4%B8%BA%E4%B9%B3%E8%85%BA%E7%99%8C%E6%82%A3%E8%80%85%E7%AD%B9%E6%AC%BE",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "美国密歇根 8 岁男童 Matthew 患脑癌，社区 bowling 筹款 + GoFundMe 求助",
+            "summary": "8 岁 Matthew Juarez 确诊脑癌，去年感恩节前发现恐龙蛋大小肿瘤并经历 14 小时手术，4 月起化疗，还需约半年治疗。母亲停职全职照护、经济困难，社区本周末举办保龄球筹款并为其发起 GoFundMe。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BE%8E%E5%9B%BD%E5%AF%86%E6%AD%87%E6%A0%B9-8-%E5%B2%81%E7%94%B7%E7%AB%A5-matthew-%E6%82%A3%E8%84%91%E7%99%8C-%E7%A4%BE%E5%8C%BA-bowling-%E7%AD%B9%E6%AC%BE-gofundme-%E6%B1%82%E5%8A%A9",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "加拿大 11 岁男童 Lincoln 脑瘤复发，赴美质子治疗后返多伦多病童医院再手术，启 GoFundMe",
+            "summary": "11 岁 Lincoln 自 1 岁起经历多次手术、近三年化疗，近期在美国接受昂贵质子治疗后返多伦多 Sick Kids 医院出现副作用需再手术，家庭面临高额医疗与照护开支，已开设 GoFundMe 众筹。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8A%A0%E6%8B%BF%E5%A4%A7-11-%E5%B2%81%E7%94%B7%E7%AB%A5-lincoln-%E8%84%91%E7%98%A4%E5%A4%8D%E5%8F%91-%E8%B5%B4%E7%BE%8E%E8%B4%A8%E5%AD%90%E6%B2%BB%E7%96%97%E5%90%8E%E8%BF%94%E5%A4%9A%E4%BC%A6%E5%A4%9A%E7%97%85%E7%AB%A5%E5%8C%BB%E9%99%A2%E5%86%8D%E6%89%8B%E6%9C%AF-%E5%90%AF-gofundme",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "美国纽约长岛少女 Belle 罕见癌症治疗与差旅开支，社区发起 GoFundMe",
+            "summary": "少女 Belle 患罕见癌症，四年抗癌期间多次手术化疗、两度脱发，社区为其治疗与往返差旅发起 GoFundMe；当地教会将于 10 月 9 日组织 12 小时祈祷，家庭同时支持其罕见癌症研究并寻求临床试验。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6%E9%95%BF%E5%B2%9B%E5%B0%91%E5%A5%B3-belle-%E7%BD%95%E8%A7%81%E7%99%8C%E7%97%87%E6%B2%BB%E7%96%97%E4%B8%8E%E5%B7%AE%E6%97%85%E5%BC%80%E6%94%AF-%E7%A4%BE%E5%8C%BA%E5%8F%91%E8%B5%B7-gofundme",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "英国 Azaylia 儿童癌症基金会两名跑者完成 412 英里横穿不列颠挑战，为病童筹款",
+            "summary": "Matthew O'Connor 与 Joe Hughes 用 9 天沿运河步道跑完 412 英里，终点西米德兰 Safari Park，为童年癌症慈善 The Azaylia Foundation 筹款数千英镑；沿途在四家儿童医院送达 Jessie's JoyJars，并恰逢基金会五周年。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%8B%B1%E5%9B%BD-azaylia-%E5%84%BF%E7%AB%A5%E7%99%8C%E7%97%87%E5%9F%BA%E9%87%91%E4%BC%9A%E4%B8%A4%E5%90%8D%E8%B7%91%E8%80%85%E5%AE%8C%E6%88%90-412-%E8%8B%B1%E9%87%8C%E6%A8%AA%E7%A9%BF%E4%B8%8D%E5%88%97%E9%A2%A0%E6%8C%91%E6%88%98-%E4%B8%BA%E7%97%85%E7%AB%A5%E7%AD%B9%E6%AC%BE",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "eur",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "上海闵行慈善赴区卫健委推介「爱心365·每天一块钱」医疗众筹，推动医善协同",
+            "summary": "上海市慈善基金会闵行区代表处赴区卫健委走访座谈，重点推介「爱心365·每天一块钱」凡人善举慈善众筹活动，双方围绕资源联动、服务提质深入交流，共商医善协同，将慈善宣传融入健康科普、公益义诊与困难职工大重病救助。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E4%B8%8A%E6%B5%B7%E9%97%B5%E8%A1%8C%E6%85%88%E5%96%84%E8%B5%B4%E5%8C%BA%E5%8D%AB%E5%81%A5%E5%A7%94%E6%8E%A8%E4%BB%8B-%E7%88%B1%E5%BF%83365-%E6%AF%8F%E5%A4%A9%E4%B8%80%E5%9D%97%E9%92%B1-%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9-%E6%8E%A8%E5%8A%A8%E5%8C%BB%E5%96%84%E5%8D%8F%E5%90%8C",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "爱尔兰男子在澳洲珀斯突发中风，友人发起 GoFundMe 已筹近 6 万欧元",
+            "summary": "36 岁爱尔兰男子 Padraig Maher 在澳大利亚珀斯定居期间突发罕见 AVM 破裂中风，接受 6.5 小时脑部手术，丧失言语与右侧活动能力；友人发起 GoFundMe，已自 340 余笔捐款筹得近 6 万欧元，用于漫长康复与医疗开支。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%88%B1%E5%B0%94%E5%85%B0%E7%94%B7%E5%AD%90%E5%9C%A8%E6%BE%B3%E6%B4%B2%E7%8F%80%E6%96%AF%E7%AA%81%E5%8F%91%E4%B8%AD%E9%A3%8E-%E5%8F%8B%E4%BA%BA%E5%8F%91%E8%B5%B7-gofundme-%E5%B7%B2%E7%AD%B9%E8%BF%91-6-%E4%B8%87%E6%AC%A7%E5%85%83",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "2026-10-27",
+            "paypal": ""
+        },
+        {
             "title": "台美混血网红「詹姆士派对」自曝肝癌发起GoFundMe募款破61万，诊断证明未公开引争议",
             "summary": "台美混血网红自曝中期肝癌，女友在GoFundMe发起癌症治疗与住院募款，9天筹得约新台币61万元；因始终未公开正式诊断证明，遭网友及YouTuber爱莉莎莎提出3项疑点质疑真实性，引发医疗众筹信任与透明度的公共讨论。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8F%B0%E7%BE%8E%E6%B7%B7%E8%A1%80%E7%BD%91%E7%BA%A2-%E8%A9%B9%E5%A7%86%E5%A3%AB%E6%B4%BE%E5%AF%B9-%E8%87%AA%E6%9B%9D%E8%82%9D%E7%99%8C%E5%8F%91%E8%B5%B7gofundme%E5%8B%9F%E6%AC%BE%E7%A0%B461%E4%B8%87-%E8%AF%8A%E6%96%AD%E8%AF%81%E6%98%8E%E6%9C%AA%E5%85%AC%E5%BC%80%E5%BC%95%E4%BA%89%E8%AE%AE",
