@@ -5,6 +5,50 @@
     "footer": "Powered by 透明捐助 · 文旅遗产专区",
     "items": [
         {
+            "title": "英国 Shepton Amulet 复兴运动获 1 万英镑遗产拨款",
+            "summary": "Shepton Mallet 的 Amulet 剧院复兴运动获得建筑遗产基金 1 万英镑拨款，用于项目可行性研究；此前社区股份发行已筹 12.8 万英镑。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%8B%B1%E5%9B%BD-shepton-amulet-%E5%A4%8D%E5%85%B4%E8%BF%90%E5%8A%A8%E8%8E%B7-1-%E4%B8%87%E8%8B%B1%E9%95%91%E9%81%97%E4%BA%A7%E6%8B%A8%E6%AC%BE",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "eur",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "波兰 Staniatki 本笃会修道院需在年底前筹 100 万美元完成遗产保护项目",
+            "summary": "波兰最古老的本笃会修道院需在 2026 年 12 月 31 日前筹集 100 万美元完成遗产保护项目，否则需退还数百万欧盟资金。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%B3%A2%E5%85%B0-staniatki-%E6%9C%AC%E7%AC%83%E4%BC%9A%E4%BF%AE%E9%81%93%E9%99%A2%E9%9C%80%E5%9C%A8%E5%B9%B4%E5%BA%95%E5%89%8D%E7%AD%B9-100-%E4%B8%87%E7%BE%8E%E5%85%83%E5%AE%8C%E6%88%90%E9%81%97%E4%BA%A7%E4%BF%9D%E6%8A%A4%E9%A1%B9%E7%9B%AE",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "世界古迹基金会提前超额完成 6200 万美元筹款目标",
+            "summary": "世界古迹基金会提前超额完成 6000 万美元筹款目标，实际筹得 6200 万美元，用于保护受冲突、气候变化威胁的历史遗址。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E4%B8%96%E7%95%8C%E5%8F%A4%E8%BF%B9%E5%9F%BA%E9%87%91%E4%BC%9A%E6%8F%90%E5%89%8D%E8%B6%85%E9%A2%9D%E5%AE%8C%E6%88%90-6200-%E4%B8%87%E7%BE%8E%E5%85%83%E7%AD%B9%E6%AC%BE%E7%9B%AE%E6%A0%87",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "美国阿肯色州 Greenbrier 发起历史消防车保护运动，目标 5000 美元",
+            "summary": "Faulkner County Fire Buff Apparatus Preservation Program 发起运动，邀请居民每人投资 20 美元保护 Greenbrier 历史消防车，目标 5000 美元。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BE%8E%E5%9B%BD%E9%98%BF%E8%82%AF%E8%89%B2%E5%B7%9E-greenbrier-%E5%8F%91%E8%B5%B7%E5%8E%86%E5%8F%B2%E6%B6%88%E9%98%B2%E8%BD%A6%E4%BF%9D%E6%8A%A4%E8%BF%90%E5%8A%A8-%E7%9B%AE%E6%A0%87-5000-%E7%BE%8E%E5%85%83",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "美国夏威夷拉奈岛文化与遗产中心募 US$60,000 升级恒湿恒温系统守护藏品",
             "summary": "Lānaʻi Culture & Heritage Center 运营逾20年，现气候控制系统老化导致藏品霉变，需募资更换（>US$60,000）。Stupski 基金会承诺 US$30,000 配捐，社区每捐一元撬动更多，目标保护岛上家族史料、照片、种植园文书等不可替代文化遗产。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BE%8E%E5%9B%BD%E5%A4%8F%E5%A8%81%E5%A4%B7%E6%8B%89%E5%A5%88%E5%B2%9B%E6%96%87%E5%8C%96%E4%B8%8E%E9%81%97%E4%BA%A7%E4%B8%AD%E5%BF%83%E5%8B%9F-us-60-000-%E5%8D%87%E7%BA%A7%E6%81%92%E6%B9%BF%E6%81%92%E6%B8%A9%E7%B3%BB%E7%BB%9F%E5%AE%88%E6%8A%A4%E8%97%8F%E5%93%81",
@@ -78,7 +122,7 @@
             "goal": 10000,
             "currency": "eur",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-23",
+            "latest": "2026-10-30",
             "paypal": ""
         },
         {
@@ -89,7 +133,7 @@
             "goal": 10000,
             "currency": "eur",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-23",
+            "latest": "2026-10-30",
             "paypal": ""
         },
         {
@@ -111,7 +155,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-10-22",
+            "latest": "2026-10-30",
             "paypal": ""
         },
         {
@@ -122,7 +166,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-10-22",
+            "latest": "2026-10-30",
             "paypal": ""
         },
         {
@@ -716,7 +760,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-10-20",
+            "latest": "2026-10-30",
             "paypal": ""
         },
         {
