@@ -5,6 +5,39 @@
     "footer": "Powered by 透明捐助 · 医疗援助专区",
     "items": [
         {
+            "title": "水滴公司发布 2025 ESG 报告：AI 赋能医疗众筹，累计筹款 723 亿元惠及 368 万患者",
+            "summary": "水滴 Inc. 发布 2025 ESG 报告，强调 AI 原生转型；医疗众筹服务连接用户与社区，累计为 368 万患者筹集 723 亿元人民币。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%B0%B4%E6%BB%B4%E5%85%AC%E5%8F%B8%E5%8F%91%E5%B8%83-2025-esg-%E6%8A%A5%E5%91%8A-ai-%E8%B5%8B%E8%83%BD%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9-%E7%B4%AF%E8%AE%A1%E7%AD%B9%E6%AC%BE-723-%E4%BA%BF%E5%85%83%E6%83%A0%E5%8F%8A-368-%E4%B8%87%E6%82%A3%E8%80%85",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "日本医学研究者转向众筹：Readyfor 平台 2024 年医疗项目筹资 9.25 亿日元",
+            "summary": "因政府资助停滞，日本医学研究者转向 Readyfor 等众筹平台；2024 年 51 个医疗项目通过该平台筹集 9.25 亿日元。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%97%A5%E6%9C%AC%E5%8C%BB%E5%AD%A6%E7%A0%94%E7%A9%B6%E8%80%85%E8%BD%AC%E5%90%91%E4%BC%97%E7%AD%B9-readyfor-%E5%B9%B3%E5%8F%B0-2024-%E5%B9%B4%E5%8C%BB%E7%96%97%E9%A1%B9%E7%9B%AE%E7%AD%B9%E8%B5%84-9-25-%E4%BA%BF%E6%97%A5%E5%85%83",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "jpy",
+            "tiers": "[1000,3000,5000,10000]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Health Care Originals 在 SuperCrowd 推出 Wefunder 众筹轮，估值上限 4500 万美元",
+            "summary": "AI 可穿戴设备公司 Health Care Originals 在 Wefunder 开启新一轮众筹，预估值上限 4500 万美元，其中 45 万美元面向社区投资者。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/health-care-originals-%E5%9C%A8-supercrowd-%E6%8E%A8%E5%87%BA-wefunder-%E4%BC%97%E7%AD%B9%E8%BD%AE-%E4%BC%B0%E5%80%BC%E4%B8%8A%E9%99%90-4500-%E4%B8%87%E7%BE%8E%E5%85%83",
+            "raised": 0,
+            "goal": 450,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "美国塔拉哈西纪念医疗基金会「火烈鸟挑战」第7年为乳腺癌患者筹款",
             "summary": "First Commerce 信用合作社与 Tallahassee Memorial HealthCare 基金会第7年举办 Flamingo Challenge 社区筹款，新增 DIY 筹款平台，参与者可建团队\/个人页或直接捐款，所得全部留在当地支持乳腺癌患者（影像检查、交通住宿、先进治疗）。2026 挑战将于 11 月 5 日收官。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BE%8E%E5%9B%BD%E5%A1%94%E6%8B%89%E5%93%88%E8%A5%BF%E7%BA%AA%E5%BF%B5%E5%8C%BB%E7%96%97%E5%9F%BA%E9%87%91%E4%BC%9A-%E7%81%AB%E7%83%88%E9%B8%9F%E6%8C%91%E6%88%98-%E7%AC%AC7%E5%B9%B4%E4%B8%BA%E4%B9%B3%E8%85%BA%E7%99%8C%E6%82%A3%E8%80%85%E7%AD%B9%E6%AC%BE",
@@ -133,7 +166,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-23",
+            "latest": "2026-10-30",
             "paypal": ""
         },
         {
@@ -144,7 +177,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-23",
+            "latest": "2026-10-30",
             "paypal": ""
         },
         {
@@ -155,7 +188,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-23",
+            "latest": "2026-10-30",
             "paypal": ""
         },
         {
@@ -166,7 +199,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-10-22",
+            "latest": "2026-10-30",
             "paypal": ""
         },
         {
@@ -771,7 +804,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-22",
+            "latest": "2026-10-30",
             "paypal": ""
         },
         {
@@ -848,7 +881,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-20",
+            "latest": "2026-10-30",
             "paypal": ""
         },
         {
