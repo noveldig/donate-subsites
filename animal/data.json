@@ -5,6 +5,50 @@
     "footer": "Powered by 透明捐助 · 动物保护专区",
     "items": [
         {
+            "title": "荷兰海豹中心濒临破产紧急募款，已筹逾 70 万欧元提供认养方案",
+            "summary": "荷兰海豹中心因财务危机发起紧急募款，已筹超 70 万欧元；提供 55 欧元象征性认养及 550 欧元专属认养方案。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%8D%B7%E5%85%B0%E6%B5%B7%E8%B1%B9%E4%B8%AD%E5%BF%83%E6%BF%92%E4%B8%B4%E7%A0%B4%E4%BA%A7%E7%B4%A7%E6%80%A5%E5%8B%9F%E6%AC%BE-%E5%B7%B2%E7%AD%B9%E9%80%BE-70-%E4%B8%87%E6%AC%A7%E5%85%83%E6%8F%90%E4%BE%9B%E8%AE%A4%E5%85%BB%E6%96%B9%E6%A1%88",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Naturewatch Foundation 十一月 grants appeal：£50,000 目标支持动物福利",
+            "summary": "Naturewatch Foundation 发起十一月拨款募捐，目标 £50,000，用于宠物救援、东欧流浪动物紧急援助、世界动物日社区项目及人道研究等五个拨款项目。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/naturewatch-foundation-%E5%8D%81%E4%B8%80%E6%9C%88-grants-appeal-50-000-%E7%9B%AE%E6%A0%87%E6%94%AF%E6%8C%81%E5%8A%A8%E7%89%A9%E7%A6%8F%E5%88%A9",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "eur",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Vallen Cats 收容所关闭前紧急众筹 €1,600 安置 30 只猫",
+            "summary": "西班牙 Valls 的动物福利组织 Vallen Cats 因临时收容所将于 11 月 29 日关闭，发起 GoFundMe 众筹 €1,600 用于安装猫门并寻找领养家庭，目前已筹近 €700。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/vallen-cats-%E6%94%B6%E5%AE%B9%E6%89%80%E5%85%B3%E9%97%AD%E5%89%8D%E7%B4%A7%E6%80%A5%E4%BC%97%E7%AD%B9-1-600-%E5%AE%89%E7%BD%AE-30-%E5%8F%AA%E7%8C%AB",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "网红边牧“锄头”犬主将 30 万元赔偿金全捐宠物救助机构",
+            "summary": "网红边牧“锄头”被偷走宰杀后，犬主郭先生与对方和解获赔 30 万元，宣布将全额捐赠给宠物救助机构，目前正全网征集透明可靠的受赠机构。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BD%91%E7%BA%A2%E8%BE%B9%E7%89%A7-%E9%94%84%E5%A4%B4-%E7%8A%AC%E4%B8%BB%E5%B0%86-30-%E4%B8%87%E5%85%83%E8%B5%94%E5%81%BF%E9%87%91%E5%85%A8%E6%8D%90%E5%AE%A0%E7%89%A9%E6%95%91%E5%8A%A9%E6%9C%BA%E6%9E%84",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "加拿大基洛纳6只病重小奶狗急需 CA$14,000 手术费，兽医护理基金会公开求助",
             "summary": "基洛纳（Kelowna）6只病重小奶狗接受紧急救治，由全志愿者运行的基洛纳兽医护理基金会接手，预计医疗费用高达14,000加元；基金会10月21日确认小狗仍在观察治疗中，公开向社区求助填补资金缺口。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%9F%BA%E6%B4%9B%E7%BA%B36%E5%8F%AA%E7%97%85%E9%87%8D%E5%B0%8F%E5%A5%B6%E7%8B%97%E6%80%A5%E9%9C%80-ca-14-000-%E6%89%8B%E6%9C%AF%E8%B4%B9-%E5%85%BD%E5%8C%BB%E6%8A%A4%E7%90%86%E5%9F%BA%E9%87%91%E4%BC%9A%E5%85%AC%E5%BC%80%E6%B1%82%E5%8A%A9",
@@ -12,7 +56,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-10-30",
             "paypal": ""
         },
         {
@@ -23,7 +67,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-10-30",
             "paypal": ""
         },
         {
@@ -34,7 +78,7 @@
             "goal": 8000,
             "currency": "eur",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-10-30",
             "paypal": ""
         },
         {
@@ -45,7 +89,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-10-30",
             "paypal": ""
         },
         {
@@ -56,7 +100,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "",
+            "latest": "2026-10-30",
             "paypal": ""
         },
         {
@@ -177,7 +221,7 @@
             "goal": 10000,
             "currency": "jpy",
             "tiers": "[1000,3000,5000,10000]",
-            "latest": "2026-10-23",
+            "latest": "2026-10-30",
             "paypal": ""
         },
         {
@@ -210,7 +254,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-22",
+            "latest": "2026-10-30",
             "paypal": ""
         },
         {
@@ -716,7 +760,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-10-22",
+            "latest": "2026-10-30",
             "paypal": ""
         },
         {
@@ -925,7 +969,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-10-20",
+            "latest": "2026-10-30",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
