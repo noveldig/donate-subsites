@@ -5,6 +5,50 @@
     "footer": "Powered by 透明捐助 · 平台工具专区",
     "items": [
         {
+            "title": "Fundraise Up推出Tap to Donate与Peer-to-Peer募款",
+            "summary": "Fundraise Up推出移动端捐款功能和对等募款工具，支持现场扫码捐款，提升转化率平均30%。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/fundraise-up%E6%8E%A8%E5%87%BAtap-to-donate%E4%B8%8Epeer-to-peer%E5%8B%9F%E6%AC%BE",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Givebutter 2026年度AI文本助手进入试验版",
+            "summary": "Givebutter AI文本助手处于早期访问试验版，提供摘要、润色、翻译等功能，免费模式获捐赠人小费。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/givebutter-2026%E5%B9%B4%E5%BA%A6ai%E6%96%87%E6%9C%AC%E5%8A%A9%E6%89%8B%E8%BF%9B%E5%85%A5%E8%AF%95%E9%AA%8C%E7%89%88",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Bloomerang推出Smart Amounts AI捐赠优化",
+            "summary": "Bloomerang CRM用户可获得AI捐赠金额优化提示和捐赠者洞察，帮助提高募捐效率。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/bloomerang%E6%8E%A8%E5%87%BAsmart-amounts-ai%E6%8D%90%E8%B5%A0%E4%BC%98%E5%8C%96",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Donorbox Jay AI仪表盘助手上线",
+            "summary": "Donorbox推出Jay AI仪表盘助手，帮助用户分析捐赠数据、优化募捐页面，免费计划起步价0美元。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/donorbox-jay-ai%E4%BB%AA%E8%A1%A8%E7%9B%98%E5%8A%A9%E6%89%8B%E4%B8%8A%E7%BA%BF",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "GoFundMe 2026年累计筹集$30B，医疗为最大募捐类目",
             "summary": "GoFundMe 2026年披露自2010年以来累计筹款$300亿美元，1.5亿用户，医疗为平台最大募捐类目。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/gofundme-2026%E5%B9%B4%E7%B4%AF%E8%AE%A1%E7%AD%B9%E9%9B%86-30b-%E5%8C%BB%E7%96%97%E4%B8%BA%E6%9C%80%E5%A4%A7%E5%8B%9F%E6%8D%90%E7%B1%BB%E7%9B%AE",
