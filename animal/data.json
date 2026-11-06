@@ -5,6 +5,50 @@
     "footer": "Powered by 透明捐助 · 动物保护专区",
     "items": [
         {
+            "title": "绍兴卡路里流浪猫救援众筹超10万人民币",
+            "summary": "市民王先生救助高架流浪猫卡路里，经视频火爆引发众筹，累计筹得治疗费约4000元，后续仍需手术。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BB%8D%E5%85%B4%E5%8D%A1%E8%B7%AF%E9%87%8C%E6%B5%81%E6%B5%AA%E7%8C%AB%E6%95%91%E6%8F%B4%E4%BC%97%E7%AD%B9%E8%B6%8510%E4%B8%87%E4%BA%BA%E6%B0%91%E5%B8%81",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "合肥康康流浪犬众筹救治3万余人助力",
+            "summary": "短视频引发300余人众筹康康流浪犬，累计筹得治疗费1.34万元，救治过程历经跨城转院。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%90%88%E8%82%A5%E5%BA%B7%E5%BA%B7%E6%B5%81%E6%B5%AA%E7%8A%AC%E4%BC%97%E7%AD%B9%E6%95%91%E6%B2%BB3%E4%B8%87%E4%BD%99%E4%BA%BA%E5%8A%A9%E5%8A%9B",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Bolivia Tigrino小猫众筹超10万美元获全球支持",
+            "summary": "Bolivia野生动物救护中心的Tigrino小猫，通过Pumpfun和Donatedotgg社区筹集10万美元以上善款，帮助其它1000多只获救动物。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/bolivia-tigrino%E5%B0%8F%E7%8C%AB%E4%BC%97%E7%AD%B9%E8%B6%8510%E4%B8%87%E7%BE%8E%E5%85%83%E8%8E%B7%E5%85%A8%E7%90%83%E6%94%AF%E6%8C%81",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "黑龙江流浪动物救助众筹募集5000元治疗",
+            "summary": "黑龙江省牡丹江市16岁流浪动物救助人为治疗眼球打爆猫咪等重症动物募集5000元，已筹26.35元，目标于2026年11月30日。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E9%BB%91%E9%BE%99%E6%B1%9F%E6%B5%81%E6%B5%AA%E5%8A%A8%E7%89%A9%E6%95%91%E5%8A%A9%E4%BC%97%E7%AD%B9%E5%8B%9F%E9%9B%865000%E5%85%83%E6%B2%BB%E7%96%97",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "Naturewatch基金会 awarded Pet Rescue Grant 2026给15只动物求生",
             "summary": "Naturewatch基金会 awarded Pet Rescue Grant 2026给One Wish Dog Foundation和Tiny Paws MCR等机构，支持流浪犬猫救助与医疗治疗。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/naturewatch%E5%9F%BA%E9%87%91%E4%BC%9A-awarded-pet-rescue-grant-2026%E7%BB%9915%E5%8F%AA%E5%8A%A8%E7%89%A9%E6%B1%82%E7%94%9F",
