@@ -5,6 +5,50 @@
     "footer": "Powered by 透明捐助 · 医疗援助专区",
     "items": [
         {
+            "title": "FundLink Crowdfunding App 支持医疗费、学费等医疗众筹",
+            "summary": "FundLink 众筹应用支持医疗费用、学费、丧葬费等，支持M-Pesa或银行卡捐款，无需智能手机即可捐款。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/fundlink-crowdfunding-app-%E6%94%AF%E6%8C%81%E5%8C%BB%E7%96%97%E8%B4%B9-%E5%AD%A6%E8%B4%B9%E7%AD%89%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "CrowdHealth 推出医疗众筹平台",
+            "summary": "CrowdHealth 提供面向医疗救助的众筹平台，聚焦突发疾病和慢性病患者筹集治疗资金。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/crowdhealth-%E6%8E%A8%E5%87%BA%E5%8C%BB%E7%96%97%E4%BC%97%E7%AD%B9%E5%B9%B3%E5%8F%B0",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "轻松筹2026年累计助力百万家庭筹集数百亿元",
+            "summary": "轻松筹作为大病社交筹款平台，通过熟人社交网络为患者提供透明筹款渠道，累计帮助数百万家庭筹集数百亿元。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%BD%BB%E6%9D%BE%E7%AD%B92026%E5%B9%B4%E7%B4%AF%E8%AE%A1%E5%8A%A9%E5%8A%9B%E7%99%BE%E4%B8%87%E5%AE%B6%E5%BA%AD%E7%AD%B9%E9%9B%86%E6%95%B0%E7%99%BE%E4%BA%BF%E5%85%83",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "水滴筹2026年成为免费大病筹款标杆",
+            "summary": "水滴筹坚持免费模式，通过区块链技术确保资金透明，成为大病救助领域的标杆。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%B0%B4%E6%BB%B4%E7%AD%B92026%E5%B9%B4%E6%88%90%E4%B8%BA%E5%85%8D%E8%B4%B9%E5%A4%A7%E7%97%85%E7%AD%B9%E6%AC%BE%E6%A0%87%E6%9D%86",
+            "raised": 0,
+            "goal": 100000,
+            "currency": "cny",
+            "tiers": "[20,50,100,200,500]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "仁爱基金为困境患儿\"续上\"重生希望，2026年新增募捐14万元",
             "summary": "江汉油田总医院\"仁爱基金\"为困境患儿拨付5000-14000元救助款，2026年新增募捐14万元。基金自2022年11月揭牌成立，累计救助40名大病患儿，筹集善款44万余元。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/%E4%BB%81%E7%88%B1%E5%9F%BA%E9%87%91%E4%B8%BA%E5%9B%B0%E5%A2%83%E6%82%A3%E5%84%BF-%E7%BB%AD%E4%B8%8A-%E9%87%8D%E7%94%9F%E5%B8%8C%E6%9C%9B-2026%E5%B9%B4%E6%96%B0%E5%A2%9E%E5%8B%9F%E6%8D%9014%E4%B8%87%E5%85%83",
