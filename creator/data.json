@@ -5,6 +5,50 @@
     "footer": "Powered by 透明捐助 · 创作者赞助专区",
     "items": [
         {
+            "title": "Patreon2026年获时尚快公司最具创新性公司榜单",
+            "summary": "Patreon获时尚快公司2026年最具创新性公司榜单，播客收入4.72亿美元，粉丝累计捐赠超百亿美元。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/patreon2026%E5%B9%B4%E8%8E%B7%E6%97%B6%E5%B0%9A%E5%BF%AB%E5%85%AC%E5%8F%B8%E6%9C%80%E5%85%B7%E5%88%9B%E6%96%B0%E6%80%A7%E5%85%AC%E5%8F%B8%E6%A6%9C%E5%8D%95",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Patreon推出无广告实时直播功能",
+            "summary": "Patreon推出无广告实时直播功能，创作者可通过群组聊天、评论、DM等方式深度互动，构建真实社区。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/patreon%E6%8E%A8%E5%87%BA%E6%97%A0%E5%B9%BF%E5%91%8A%E5%AE%9E%E6%97%B6%E7%9B%B4%E6%92%AD%E5%8A%9F%E8%83%BD",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Patreon强制统一创作者与粉丝资料库",
+            "summary": "Patreon要求创作者7月6日前统一资料库，否则8月自动合并，删除原有评论和聊天记录，开启QTips和协作帖功能。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/patreon%E5%BC%BA%E5%88%B6%E7%BB%9F%E4%B8%80%E5%88%9B%E4%BD%9C%E8%80%85%E4%B8%8E%E7%B2%89%E4%B8%9D%E8%B5%84%E6%96%99%E5%BA%93",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "PatreonQuips功能引发哲学逆转",
+            "summary": "Patreon推出Quips短帖到公共feed，标志着从反算法平台向社交媒体的本质转变，引入算法推荐和网络效应。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/patreonquips%E5%8A%9F%E8%83%BD%E5%BC%95%E5%8F%91%E5%93%B2%E5%AD%A6%E9%80%86%E8%BD%AC",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "Patreon新10%平台费生效，创作者加速出走",
             "summary": "Patreon对新创作者收取10%平台费（+2.9%+0.30处理费，合计约13%），催生Ghost(0%)、Memberful(4.9%)、Ko-fi(0-5%)等替代平台崛起。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/patreon%E6%96%B010-%E5%B9%B3%E5%8F%B0%E8%B4%B9%E7%94%9F%E6%95%88-%E5%88%9B%E4%BD%9C%E8%80%85%E5%8A%A0%E9%80%9F%E5%87%BA%E8%B5%B0",
