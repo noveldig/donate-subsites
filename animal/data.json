@@ -5,6 +5,17 @@
     "footer": "Powered by 透明捐助 · 动物保护专区",
     "items": [
         {
+            "title": "Saola Foundation中南半岛搜寻计划募捐",
+            "summary": "Saola Foundation在安南山展开寻找罕见物种Saola的搜索行动。目标筹集$150,000，目前已筹得$147,311。Givskud Zoo和Odense Zoo提供双倍捐赠。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/saola-foundation%E4%B8%AD%E5%8D%97%E5%8D%8A%E5%B2%9B%E6%90%9C%E5%AF%BB%E8%AE%A1%E5%88%92%E5%8B%9F%E6%8D%90",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "CaseOh向Alveus野生动物庇护所捐赠10万美元",
             "summary": "游戏主播CaseOh为Maya Higa创立的Alveus Sanctuary捐赠10万美元，并追加Waterpark Simulator匹配。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/caseoh%E5%90%91alveus%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E5%BA%87%E6%8A%A4%E6%89%80%E6%8D%90%E8%B5%A010%E4%B8%87%E7%BE%8E%E5%85%83",
@@ -859,7 +870,7 @@
             "goal": 5000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-07",
+            "latest": "2026-11-09",
             "paypal": ""
         },
         {
@@ -870,7 +881,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-07",
+            "latest": "2026-11-09",
             "paypal": ""
         },
         {
@@ -881,7 +892,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-07",
+            "latest": "2026-11-09",
             "paypal": ""
         },
         {
@@ -892,7 +903,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-07",
+            "latest": "2026-11-09",
             "paypal": ""
         },
         {
@@ -914,7 +925,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-11-07",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -925,7 +936,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-07",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -947,7 +958,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-11-07",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -958,7 +969,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -980,7 +991,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -991,7 +1002,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1002,7 +1013,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1013,7 +1024,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1035,7 +1046,7 @@
             "goal": 300000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1046,7 +1057,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1068,7 +1079,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1079,7 +1090,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1090,7 +1101,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1112,7 +1123,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1123,7 +1134,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1145,7 +1156,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1189,7 +1200,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1200,7 +1211,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         }
     ],
