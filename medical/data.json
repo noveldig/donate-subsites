@@ -5,6 +5,72 @@
     "footer": "Powered by 透明捐助 · 医疗援助专区",
     "items": [
         {
+            "title": "加拿大 Jasper 女子子宫内膜异位症赴墨西哥手术 GoFundMe，手术费超 $28,000",
+            "summary": "加拿大 Jasper 的 44 岁 Alisen Charlten 因深部浸润性子宫内膜异位症，在加拿大等待专科会诊约 18 个月、手术最长 4 年，转而赴墨西哥通过 Endo Global Group 寻求手术。手术费预计超 $28,000，另加影像、会诊、药物、差旅及约两周康复费用。她在 GoFundMe 发起筹款，同时呼吁关注该病诊疗缺口（约每 10 名女性 1 人患病）。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8A%A0%E6%8B%BF%E5%A4%A7-jasper-%E5%A5%B3%E5%AD%90%E5%AD%90%E5%AE%AB%E5%86%85%E8%86%9C%E5%BC%82%E4%BD%8D%E7%97%87%E8%B5%B4%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%89%8B%E6%9C%AF-gofundme-%E6%89%8B%E6%9C%AF%E8%B4%B9%E8%B6%85-28-000",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "加拿大 Quesnel 一岁男童 Oscar 脑瘤术后 GoFundMe 达 $12,428（目标 $13,000）",
+            "summary": "加拿大 Quesnel 一岁男童 Oscar Harper 在 BC 儿童医院接受 11 小时脑瘤手术，成功切除约 80% 肿瘤，术后恢复中，等待活检确定良恶性及药物临床试验结果（约 10 周）。因父母双方停职陪护，家庭面临差旅、食宿及后续医疗费用压力。GoFundMe 活动当时已达 $12,428（目标 $13,000）。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%8A%A0%E6%8B%BF%E5%A4%A7-quesnel-%E4%B8%80%E5%B2%81%E7%94%B7%E7%AB%A5-oscar-%E8%84%91%E7%98%A4%E6%9C%AF%E5%90%8E-gofundme-%E8%BE%BE-12-428-%E7%9B%AE%E6%A0%87-13-000",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "美国 Thurston 县 11 岁男童 Nathan 患 DIPG 末期脑瘤，GoFundMe 已筹超 $28,000（目标 $35,000）",
+            "summary": "美国 Thurston 县 11 岁男童 Nathan 被确诊 DIPG（弥漫性内生性脑桥胶质瘤）末期。父母 Bonnie Burt 与 Jordan White 发起 GoFundMe 已筹超 $28,000（目标 $35,000），用于维持家庭住房与日常，并提升 DIPG 认知。社区通过 Facebook「Nate The Great」页持续跟进。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E7%BE%8E%E5%9B%BD-thurston-%E5%8E%BF-11-%E5%B2%81%E7%94%B7%E7%AB%A5-nathan-%E6%82%A3-dipg-%E6%9C%AB%E6%9C%9F%E8%84%91%E7%98%A4-gofundme-%E5%B7%B2%E7%AD%B9%E8%B6%85-28-000-%E7%9B%AE%E6%A0%87-35-000",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "沃尔玛员工Michael DePew白血病治疗GoFundMe超44万美元",
+            "summary": "28岁沃尔玛员工Michael DePew被诊断为侵袭性睾丸癌，被告知只剩3个月生命。GoFundMe目标$30,000，最终筹得超$44,000，用于化疗、手术、扫描及生活支出。Walmart已为其提供医疗保险。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%B2%83%E5%B0%94%E7%8E%9B%E5%91%98%E5%B7%A5michael-depew%E7%99%BD%E8%A1%80%E7%97%85%E6%B2%BB%E7%96%97gofundme%E8%B6%8544%E4%B8%87%E7%BE%8E%E5%85%83",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "11岁男孩Lila脑瘫手部治疗GoFundMe筹款超4,000英镑",
+            "summary": "11岁Lila诊断出DIPG脑癌，家人通过GoFundMe筹集手部治疗经费。目前筹得超£4,000，目标为35,000英镑。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/11%E5%B2%81%E7%94%B7%E5%AD%A9lila%E8%84%91%E7%98%AB%E6%89%8B%E9%83%A8%E6%B2%BB%E7%96%97gofundme%E7%AD%B9%E6%AC%BE%E8%B6%854-000%E8%8B%B1%E9%95%91",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "eur",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "急救员Beau Nemeth胰腺癌第四阶段众筹",
+            "summary": "新泽西州Clark镇急救员Beau Nemeth被诊断为胰腺癌第四阶段。家人在GoFundMe上发起筹款，支持其接受治疗和减轻经济负担。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E6%80%A5%E6%95%91%E5%91%98beau-nemeth%E8%83%B0%E8%85%BA%E7%99%8C%E7%AC%AC%E5%9B%9B%E9%98%B6%E6%AE%B5%E4%BC%97%E7%AD%B9",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "Walmart员工Michael DePew白血病治疗GoFundMe超44万美元",
             "summary": "测试性白血病诊断仅剩3个月存活期，GoFundMe目标3万美元已超44千，Walmart已提供医保。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/walmart%E5%91%98%E5%B7%A5michael-depew%E7%99%BD%E8%A1%80%E7%97%85%E6%B2%BB%E7%96%97gofundme%E8%B6%8544%E4%B8%87%E7%BE%8E%E5%85%83",
@@ -1112,7 +1178,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-07",
+            "latest": "2026-11-09",
             "paypal": ""
         },
         {
@@ -1123,7 +1189,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-07",
+            "latest": "2026-11-09",
             "paypal": ""
         },
         {
@@ -1145,7 +1211,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-11-07",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1156,7 +1222,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-11-07",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1200,7 +1266,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-11-07",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1222,7 +1288,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1233,7 +1299,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1244,7 +1310,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1277,7 +1343,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1288,7 +1354,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1299,7 +1365,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1310,7 +1376,7 @@
             "goal": 1000000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1321,7 +1387,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1332,7 +1398,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1343,7 +1409,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1354,7 +1420,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1365,7 +1431,7 @@
             "goal": 100000,
             "currency": "cny",
             "tiers": "[20,50,100,200,500]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1376,7 +1442,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1387,7 +1453,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-10",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1409,7 +1475,7 @@
             "goal": 10000,
             "currency": "eur",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-10",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -1420,7 +1486,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-08",
+            "latest": "2026-11-09",
             "paypal": "https:\/\/paypal.me\/temuseller"
         }
     ],
