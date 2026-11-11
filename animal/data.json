@@ -5,6 +5,28 @@
     "footer": "Powered by 透明捐助 · 动物保护专区",
     "items": [
         {
+            "title": "ZAA 发起紧急募捐支持澳洲 6 个濒危物种恢复计划（含刷尾岩袋鼠、烟雾鼠等）",
+            "summary": "动物园与水族馆协会（ZAA）通过野生动物保护基金（WCF）发起紧急募捐，支持 6 个恢复团队拯救澳洲最受威胁物种：Growling Grass Frog、Southern Brush-tailed Rock-wallaby（野外不足 60 只）、Pookila、Smoky Mouse、Central Rock Rat、Broad-toothed Rat。活动运行至 2027 年 4 月，款项将拆分给 6 个团队。WCF 为澳大利亚注册的 DGR 且经 ACNC 登记。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/zaa-%E5%8F%91%E8%B5%B7%E7%B4%A7%E6%80%A5%E5%8B%9F%E6%8D%90%E6%94%AF%E6%8C%81%E6%BE%B3%E6%B4%B2-6-%E4%B8%AA%E6%BF%92%E5%8D%B1%E7%89%A9%E7%A7%8D%E6%81%A2%E5%A4%8D%E8%AE%A1%E5%88%92-%E5%90%AB%E5%88%B7%E5%B0%BE%E5%B2%A9%E8%A2%8B%E9%BC%A0-%E7%83%9F%E9%9B%BE%E9%BC%A0%E7%AD%89",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "西班牙 Vallen Cats 收容所关闭前紧急众筹 €1,600 安置 30 只猫",
+            "summary": "西班牙 Valls 动物福利组织 Vallen Cats 因临时收容所将于 11 月 29 日关闭（提前于原定 2027-01-01），约 30 只猫面临流落街头风险，已解决近 10 只领养，仍约 20 只待安置。组织发起 GoFundMe 众筹 €1,600，用于在 Revolucion Pata 场地安装猫门以继续照料；截至 10 月 27 日已筹近 €700。同时接受猫粮、罐头、猫砂等实物捐赠。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E8%A5%BF%E7%8F%AD%E7%89%99-vallen-cats-%E6%94%B6%E5%AE%B9%E6%89%80%E5%85%B3%E9%97%AD%E5%89%8D%E7%B4%A7%E6%80%A5%E4%BC%97%E7%AD%B9-1-600-%E5%AE%89%E7%BD%AE-30-%E5%8F%AA%E7%8C%AB",
+            "raised": 0,
+            "goal": 700,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "Saola Foundation中南半岛搜寻计划募捐",
             "summary": "Saola Foundation在安南山展开寻找罕见物种Saola的搜索行动。目标筹集$150,000，目前已筹得$147,311。Givskud Zoo和Odense Zoo提供双倍捐赠。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/saola-foundation%E4%B8%AD%E5%8D%97%E5%8D%8A%E5%B2%9B%E6%90%9C%E5%AF%BB%E8%AE%A1%E5%88%92%E5%8B%9F%E6%8D%90",
@@ -1189,7 +1211,7 @@
             "goal": 20000,
             "currency": "eur",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-02",
+            "latest": "2026-11-10",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
