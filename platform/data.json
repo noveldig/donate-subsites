@@ -5,6 +5,50 @@
     "footer": "Powered by 透明捐助 · 平台工具专区",
     "items": [
         {
+            "title": "GoFundMe 累计筹款突破 $500 亿，社区驱动互助模式持续扩张",
+            "summary": "GoFundMe 于 2026-11-09 宣布全球累计筹款突破 500 亿美元，2 亿+参与用户；推出首期 The Kind 50 榜单致敬互助者，并强调智能筹款教练等 AI 工具已使用超 1 亿次。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/gofundme-%E7%B4%AF%E8%AE%A1%E7%AD%B9%E6%AC%BE%E7%AA%81%E7%A0%B4-500-%E4%BA%BF-%E7%A4%BE%E5%8C%BA%E9%A9%B1%E5%8A%A8%E4%BA%92%E5%8A%A9%E6%A8%A1%E5%BC%8F%E6%8C%81%E7%BB%AD%E6%89%A9%E5%BC%A0",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "公益科技 2026：AI 从报表辅助升级为可执行筹款助手，Givebutter\/Fundraise Up 免费增值扩张",
+            "summary": "Salesforce Power of Us 免费许可、Bonterra 并购补齐模块；AI 对话式助手支持直接执行分群\/沟通\/活动创建任务，Donor CRM 成为机构第一笔刚需软件支出。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/%E5%85%AC%E7%9B%8A%E7%A7%91%E6%8A%80-2026-ai-%E4%BB%8E%E6%8A%A5%E8%A1%A8%E8%BE%85%E5%8A%A9%E5%8D%87%E7%BA%A7%E4%B8%BA%E5%8F%AF%E6%89%A7%E8%A1%8C%E7%AD%B9%E6%AC%BE%E5%8A%A9%E6%89%8B-givebutter-fundraise-up-%E5%85%8D%E8%B4%B9%E5%A2%9E%E5%80%BC%E6%89%A9%E5%BC%A0",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "RallyUp\/Givebutter\/Zeffy\/Donorbox 横评：2026 免费捐赠页四强对比",
+            "summary": "给 NPO 选免费捐赠页的参考：$100 捐赠时 RallyUp 零手续费无 tip；Donorbox 收 $2.95；Givebutter 可选 tip 模式或 3%；Zeffy 由捐赠人自愿打赏且永不强制扣取。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/rallyup-givebutter-zeffy-donorbox-%E6%A8%AA%E8%AF%84-2026-%E5%85%8D%E8%B4%B9%E6%8D%90%E8%B5%A0%E9%A1%B5%E5%9B%9B%E5%BC%BA%E5%AF%B9%E6%AF%94",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
+            "title": "Best AI Tools for Nonprofit Fundraising 2026：Grantboost\/Kindsight\/Avid 横评",
+            "summary": "Layer3Labs 盘点 Grantboost\/Starter $32\/mo、Kindsight\/Kindsight Pricing on request、Avid 免费\/按需三类核心 AI 写作与资助匹配工具及其适用场景。",
+            "url": "http:\/\/127.0.0.1:8899\/campaign\/best-ai-tools-for-nonprofit-fundraising-2026-grantboost-kindsight-avid-%E6%A8%AA%E8%AF%84",
+            "raised": 0,
+            "goal": 10000,
+            "currency": "usd",
+            "tiers": "[10,25,50,100]",
+            "latest": "",
+            "paypal": ""
+        },
+        {
             "title": "Fundraise Up推出Tap to Donate与Peer-to-Peer募款",
             "summary": "Fundraise Up推出移动端捐款功能和对等募款工具，支持现场扫码捐款，提升转化率平均30%。",
             "url": "http:\/\/127.0.0.1:8899\/campaign\/fundraise-up%E6%8E%A8%E5%87%BAtap-to-donate%E4%B8%8Epeer-to-peer%E5%8B%9F%E6%AC%BE",
@@ -529,7 +573,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-09",
+            "latest": "2026-11-11",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -551,7 +595,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-09",
+            "latest": "2026-11-11",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -562,7 +606,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-09",
+            "latest": "2026-11-11",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -573,7 +617,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-09",
+            "latest": "2026-11-11",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -584,7 +628,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-09",
+            "latest": "2026-11-11",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -595,7 +639,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-09",
+            "latest": "2026-11-11",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -606,7 +650,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-09",
+            "latest": "2026-11-11",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -617,7 +661,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-09",
+            "latest": "2026-11-11",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -628,7 +672,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-09",
+            "latest": "2026-11-11",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -639,7 +683,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-09",
+            "latest": "2026-11-11",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -650,7 +694,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-09",
+            "latest": "2026-11-11",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -694,7 +738,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-10",
+            "latest": "2026-11-11",
             "paypal": "https:\/\/paypal.me\/temuseller"
         },
         {
@@ -716,7 +760,7 @@
             "goal": 10000,
             "currency": "usd",
             "tiers": "[10,25,50,100]",
-            "latest": "2026-11-09",
+            "latest": "2026-11-11",
             "paypal": "https:\/\/paypal.me\/temuseller"
         }
     ],
